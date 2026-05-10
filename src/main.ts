@@ -36,6 +36,17 @@ const BANNED_FOOD_GROUPS = [
   "Mayonnaise-Based Salad Spreads",
   "Beer and other malt beverages",
   "Mollusks and their products",
+  " Ready meals, fastfood and composite foods",
+
+  "Meat and meat products",
+  "Fish, quatic animals and their products",
+  "Poultry",
+  "Animal fats",
+  "Butter",
+
+  "Eggs and egg products",
+  "Cheese and cheese products",
+  "Milk and milk preserves",
 ];
 
 const BANNED_WORDS = [
@@ -55,10 +66,6 @@ const BANNED_WORDS = [
   "mix",
   "fries",
   "soaked in brine",
-
-  // "salmon",
-  // "oil",
-  // "tuna",
 ];
 
 const CONSTRAINTS: Record<string, Constraint> = {
@@ -158,12 +165,21 @@ function loadPortions(): Portion[] {
 }
 
 function loadFoods(whitelistSet: Set<string>): Food[] {
-  const raw = fs.readFileSync(CSV_PATH, "utf-8");
-  const rows: string[][] = parse(raw, csvOptions);
+  const rows: string[][] = parse(
+    fs.readFileSync(CSV_PATH, "utf-8"),
+    csvOptions,
+  );
   const headers = rows[1].map((h) => h.trim());
   const otherHeaders = rows[3].map((h) => h.trim());
 
   const foods: Food[] = [];
+
+  const groupRows: string[][] = parse(
+    fs.readFileSync("data/frida_groups.csv", "utf-8"),
+    csvOptions,
+  );
+  const getParentGroup = (childGroup: string) =>
+    groupRows.find((row) => row[5] === childGroup)?.[2] || "";
 
   for (let i = 4; i < rows.length; i++) {
     const row = rows[i];
@@ -189,8 +205,12 @@ function loadFoods(whitelistSet: Set<string>): Food[] {
         others[otherHeader] = cell;
       }
     }
+
+    others["ParentFoodGroup"] = getParentGroup(others["FoodGroup"]);
+
     foods.push({ name, nutrients, others });
   }
+
   return foods;
 }
 
@@ -539,6 +559,7 @@ async function run() {
   foods = foods.filter(
     (f) =>
       !BANNED_FOOD_GROUPS.includes(f.others["FoodGroup"]) &&
+      !BANNED_FOOD_GROUPS.includes(f.others["ParentFoodGroup"]) &&
       !BANNED_WORDS.some((word) =>
         f.name.toLowerCase().replaceAll(",", "").includes(word),
       ),
