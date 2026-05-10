@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "tsx src/main.ts",
+    "test": "tsx src/test.ts"
+  },
+  "dependencies": {
+    "@types/node": "^25.6.2",
+    "csv-parse": "^6.2.1",
+    "glpk.js": "^5.0.0",
+    "highs": "^1.8.0",
+    "javascript-lp-solver": "^1.0.3",
+    "tsx": "^4.21.0"
+  }
+}
