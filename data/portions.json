@@ -1,0 +1,534 @@
+[
+  {
+    "food_name": "Apple, raw, all varieties",
+    "portion_size_g": 150
+  },
+  {
+    "food_name": "Banana, raw",
+    "portion_size_g": 120
+  },
+  {
+    "food_name": "Strawberry, raw",
+    "portion_size_g": 150
+  },
+  {
+    "food_name": "Pear, raw",
+    "portion_size_g": 150
+  },
+  {
+    "food_name": "Lemon, raw",
+    "portion_size_g": 60
+  },
+  {
+    "food_name": "Watermelon, raw",
+    "portion_size_g": 200
+  },
+  {
+    "food_name": "Orange, raw",
+    "portion_size_g": 130
+  },
+  {
+    "food_name": "Grape, raw",
+    "portion_size_g": 150
+  },
+  {
+    "food_name": "Peach, raw",
+    "portion_size_g": 110
+  },
+  {
+    "food_name": "Plum, raw",
+    "portion_size_g": 60
+  },
+  {
+    "food_name": "Kiwi fruit, raw",
+    "portion_size_g": 75
+  },
+  {
+    "food_name": "Mango, raw",
+    "portion_size_g": 150
+  },
+  {
+    "food_name": "Pineapple, raw",
+    "portion_size_g": 150
+  },
+  {
+    "food_name": "Blueberries, raw",
+    "portion_size_g": 100
+  },
+  {
+    "food_name": "Raspberry, raw",
+    "portion_size_g": 100
+  },
+  {
+    "food_name": "Avocado, raw",
+    "portion_size_g": 75
+  },
+  {
+    "food_name": "Tomato, ripe, raw, origin unknown",
+    "portion_size_g": 100
+  },
+  {
+    "food_name": "Potato, raw",
+    "portion_size_g": 150
+  },
+  {
+    "food_name": "Carrot, raw",
+    "portion_size_g": 80
+  },
+  {
+    "food_name": "Onion, raw",
+    "portion_size_g": 80
+  },
+  {
+    "food_name": "Garlic, raw",
+    "portion_size_g": 3
+  },
+  {
+    "food_name": "Broccoli, raw",
+    "portion_size_g": 100
+  },
+  {
+    "food_name": "Cauliflower, all varieties, raw",
+    "portion_size_g": 100
+  },
+  {
+    "food_name": "Spinach, raw",
+    "portion_size_g": 50
+  },
+  {
+    "food_name": "Lettuce, iceberg (incl. crisphead types), raw",
+    "portion_size_g": 50
+  },
+  {
+    "food_name": "Cabbage, white, raw",
+    "portion_size_g": 100
+  },
+  {
+    "food_name": "Leek, raw",
+    "portion_size_g": 100
+  },
+  {
+    "food_name": "Mushroom, raw",
+    "portion_size_g": 80
+  },
+  {
+    "food_name": "Squash, raw",
+    "portion_size_g": 100
+  },
+  {
+    "food_name": "Celery, raw",
+    "portion_size_g": 100
+  },
+  {
+    "food_name": "Sweet potato, raw",
+    "portion_size_g": 150
+  },
+  {
+    "food_name": "Parsley, raw",
+    "portion_size_g": 5
+  },
+  {
+    "food_name": "Cucumber, raw",
+    "portion_size_g": 100
+  },
+  {
+    "food_name": "Pepper, sweet, red, raw",
+    "portion_size_g": 80
+  },
+  {
+    "food_name": "Pepper, sweet, green, raw",
+    "portion_size_g": 80
+  },
+  {
+    "food_name": "Pepper, sweet, yellow, raw",
+    "portion_size_g": 80
+  },
+  {
+    "food_name": "Peas, green, frozen",
+    "portion_size_g": 80
+  },
+  {
+    "food_name": "Sweet corn kernels, frozen",
+    "portion_size_g": 80
+  },
+  {
+    "food_name": "Green beans (haricots verts), frozen",
+    "portion_size_g": 100
+  },
+  {
+    "food_name": "Spinach, chopped, frozen",
+    "portion_size_g": 100
+  },
+  {
+    "food_name": "Edamame beans (Soy beans), shelled, frozen",
+    "portion_size_g": 80
+  },
+  {
+    "food_name": "Tomato, peeled, canned",
+    "portion_size_g": 100
+  },
+  {
+    "food_name": "Beans, red kidney, boiled, canned",
+    "portion_size_g": 130
+  },
+  {
+    "food_name": "Chickpeas, dry, raw",
+    "portion_size_g": 50
+  },
+  {
+    "food_name": "Chickpeas, boiled, canned",
+    "portion_size_g": 130
+  },
+  {
+    "food_name": "Lentils, red, dried, raw",
+    "portion_size_g": 50
+  },
+  {
+    "food_name": "Baked beans (white beans in tomato sauce)",
+    "portion_size_g": 150
+  },
+  {
+    "food_name": "Milk, whole, konventional (not organic), 3.5 % fat",
+    "portion_size_g": 250
+  },
+  {
+    "food_name": "Milk, partly skimmed, konventional (not organic), 1.5 % fat",
+    "portion_size_g": 250
+  },
+  {
+    "food_name": "Milk, skimmed",
+    "portion_size_g": 250
+  },
+  {
+    "food_name": "Yogurt plain, whole milk",
+    "portion_size_g": 150
+  },
+  {
+    "food_name": "Yogurt plain, low fat, 1.5 % fat",
+    "portion_size_g": 150
+  },
+  {
+    "food_name": "Cream, whipping, 38 % fat",
+    "portion_size_g": 30
+  },
+  {
+    "food_name": "Cream, cultured, 18 % fat",
+    "portion_size_g": 30
+  },
+  {
+    "food_name": "Butter, salt added",
+    "portion_size_g": 10
+  },
+  {
+    "food_name": "Plant margarine, 80%, fry/bake",
+    "portion_size_g": 10
+  },
+  {
+    "food_name": "Cheese, firm, 45% fidm., Danish",
+    "portion_size_g": 30
+  },
+  {
+    "food_name": "Cheese, semihard, Mozzarella, 45 % fidm.",
+    "portion_size_g": 50
+  },
+  {
+    "food_name": "Cheese, semihard, Feta, 40 % fidm",
+    "portion_size_g": 30
+  },
+  {
+    "food_name": "Cheese, Cream, 60 % fidm.",
+    "portion_size_g": 20
+  },
+  {
+    "food_name": "Eggs, chicken, free-range (outdoor) hens, raw",
+    "portion_size_g": 60
+  },
+  {
+    "food_name": "Bread, white",
+    "portion_size_g": 40
+  },
+  {
+    "food_name": "Bread, wholemeal",
+    "portion_size_g": 40
+  },
+  {
+    "food_name": "Rye bread, dark, industrially produced",
+    "portion_size_g": 50
+  },
+  {
+    "food_name": "Wheat bread, white, industrially produced",
+    "portion_size_g": 40
+  },
+  {
+    "food_name": "Rolls, white, industrially produced",
+    "portion_size_g": 60
+  },
+  {
+    "food_name": "Rolls, wheat with coarse meal, industrially produced",
+    "portion_size_g": 60
+  },
+  {
+    "food_name": "Oats, rolled, average values",
+    "portion_size_g": 40
+  },
+  {
+    "food_name": "Corn flakes, average values",
+    "portion_size_g": 40
+  },
+  {
+    "food_name": "Breakfast cereal, müsli, average values",
+    "portion_size_g": 40
+  },
+  {
+    "food_name": "Pasta, raw",
+    "portion_size_g": 75
+  },
+  {
+    "food_name": "Pasta, boiled",
+    "portion_size_g": 150
+  },
+  {
+    "food_name": "Rice, polished, raw",
+    "portion_size_g": 75
+  },
+  {
+    "food_name": "Rice, boiled",
+    "portion_size_g": 150
+  },
+  {
+    "food_name": "Wheat flour",
+    "portion_size_g": 50
+  },
+  {
+    "food_name": "Beef, mince, 8-12% fat, raw",
+    "portion_size_g": 150
+  },
+  {
+    "food_name": "Beef, entrecote/rib eye, raw",
+    "portion_size_g": 200
+  },
+  {
+    "food_name": "Beef, striploin \"cap off\", raw",
+    "portion_size_g": 200
+  },
+  {
+    "food_name": "Pork, mince, 10-15% fat, raw",
+    "portion_size_g": 150
+  },
+  {
+    "food_name": "Pork, loin, lean, raw",
+    "portion_size_g": 150
+  },
+  {
+    "food_name": "Pork, tenderloin, trimmed, raw",
+    "portion_size_g": 150
+  },
+  {
+    "food_name": "Bacon, sliced, raw",
+    "portion_size_g": 30
+  },
+  {
+    "food_name": "Pork, sausage, frankfurter",
+    "portion_size_g": 60
+  },
+  {
+    "food_name": "Pork, ham, boiled, sliced",
+    "portion_size_g": 25
+  },
+  {
+    "food_name": "Sausage, salami",
+    "portion_size_g": 20
+  },
+  {
+    "food_name": "Chicken, breast, flesh and skin, raw",
+    "portion_size_g": 150
+  },
+  {
+    "food_name": "Chicken, mince, 3-10% fat, raw",
+    "portion_size_g": 150
+  },
+  {
+    "food_name": "Chicken, flesh and skin, grilled",
+    "portion_size_g": 150
+  },
+  {
+    "food_name": "Turkey, mince, 5-10% fat, raw",
+    "portion_size_g": 150
+  },
+  {
+    "food_name": "Salmon, atlantic, aquaculture, raw",
+    "portion_size_g": 150
+  },
+  {
+    "food_name": "Cod, fillet, raw",
+    "portion_size_g": 150
+  },
+  {
+    "food_name": "Tuna, in water, canned",
+    "portion_size_g": 100
+  },
+  {
+    "food_name": "Shrimp, boiled, in brine",
+    "portion_size_g": 100
+  },
+  {
+    "food_name": "Almond, raw",
+    "portion_size_g": 30
+  },
+  {
+    "food_name": "Walnuts, dried",
+    "portion_size_g": 30
+  },
+  {
+    "food_name": "Peanut, dried",
+    "portion_size_g": 30
+  },
+  {
+    "food_name": "Cashew nuts, dry roasted",
+    "portion_size_g": 30
+  },
+  {
+    "food_name": "Chia seeds",
+    "portion_size_g": 15
+  },
+  {
+    "food_name": "Peanut butter",
+    "portion_size_g": 15
+  },
+  {
+    "food_name": "Olive oil",
+    "portion_size_g": 15
+  },
+  {
+    "food_name": "Oil, rape seed (no eruca acid)",
+    "portion_size_g": 15
+  },
+  {
+    "food_name": "Sunflower oil",
+    "portion_size_g": 15
+  },
+  {
+    "food_name": "Salt, table",
+    "portion_size_g": 5
+  },
+  {
+    "food_name": "Pepper, black",
+    "portion_size_g": 2
+  },
+  {
+    "food_name": "Sugar, sucrose, white",
+    "portion_size_g": 5
+  },
+  {
+    "food_name": "Honey",
+    "portion_size_g": 15
+  },
+  {
+    "food_name": "Tomato ketchup, bottled",
+    "portion_size_g": 15
+  },
+  {
+    "food_name": "Mayonnaise",
+    "portion_size_g": 15
+  },
+  {
+    "food_name": "Mustard, yellow, ready made",
+    "portion_size_g": 15
+  },
+  {
+    "food_name": "Remoulade",
+    "portion_size_g": 15
+  },
+  {
+    "food_name": "Vinegar",
+    "portion_size_g": 15
+  },
+  {
+    "food_name": "Pesto alla genovese",
+    "portion_size_g": 15
+  },
+  {
+    "food_name": "Jam, fruit, average values",
+    "portion_size_g": 15
+  },
+  {
+    "food_name": "Cocoa, powder",
+    "portion_size_g": 5
+  },
+  {
+    "food_name": "Water, tap water",
+    "portion_size_g": 250
+  },
+  {
+    "food_name": "Coffee, beverage",
+    "portion_size_g": 250
+  },
+  {
+    "food_name": "Tea, ready-to-drink",
+    "portion_size_g": 250
+  },
+  {
+    "food_name": "Orange juice",
+    "portion_size_g": 250
+  },
+  {
+    "food_name": "Apple juice",
+    "portion_size_g": 250
+  },
+  {
+    "food_name": "Soft drink, sugar added",
+    "portion_size_g": 250
+  },
+  {
+    "food_name": "Soft drink, artificial sweetener added",
+    "portion_size_g": 250
+  },
+  {
+    "food_name": "Beer, lager, alc. 4-5 % by vol.",
+    "portion_size_g": 330
+  },
+  {
+    "food_name": "Wine, red",
+    "portion_size_g": 150
+  },
+  {
+    "food_name": "Wine, white, average values",
+    "portion_size_g": 150
+  },
+  {
+    "food_name": "Almondmilk, with added calcium",
+    "portion_size_g": 250
+  },
+  {
+    "food_name": "Soy drink, with added calcium",
+    "portion_size_g": 250
+  },
+  {
+    "food_name": "Potato crisps",
+    "portion_size_g": 30
+  },
+  {
+    "food_name": "Chocolate, milk",
+    "portion_size_g": 30
+  },
+  {
+    "food_name": "Chocolate, bitter",
+    "portion_size_g": 30
+  },
+  {
+    "food_name": "Vanilla ice cream, <50% cream",
+    "portion_size_g": 100
+  },
+  {
+    "food_name": "Biscuit, sweet",
+    "portion_size_g": 20
+  },
+  {
+    "food_name": "Pop corn, oil and salt added",
+    "portion_size_g": 30
+  },
+  {
+    "food_name": "Sweet potato fries, frozen",
+    "portion_size_g": 150
+  }
+]

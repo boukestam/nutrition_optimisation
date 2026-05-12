@@ -1,0 +1,143 @@
+ParantFoodGroupID,ParantFoodGroupNavn,ParantFoodGroupName,FoodGroupID,FoodGroupNavn,FoodGroupName,Hieraky
+1,LST-GRUPPER,DANSDA-GROUPS,1,LST-GRUPPER,DANSDA-GROUPS,1
+1,LST-GRUPPER,DANSDA-GROUPS,2,Konsummælk og mælkekonserves,Milk and milk preserves,2
+1,LST-GRUPPER,DANSDA-GROUPS,9,Ost og osteprodukter,Cheese and cheese products,2
+1,LST-GRUPPER,DANSDA-GROUPS,18,Is ,Ice cream ,2
+1,LST-GRUPPER,DANSDA-GROUPS,26,Korn og stivelsesprodukter,Cereals and starch products,2
+1,LST-GRUPPER,DANSDA-GROUPS,37,Grøntsager og grøntsagsprodukter,Vegetables and vegetable products,2
+1,LST-GRUPPER,DANSDA-GROUPS,47,"Frugt, bær og produkter heraf","Fruit, berries and their products",2
+1,LST-GRUPPER,DANSDA-GROUPS,56,Kød og kødprodukter,Meat and meat products,2
+1,LST-GRUPPER,DANSDA-GROUPS,68,"Fisk, vandlevende dyr og produkter heraf","Fish, quatic animals and their products",2
+1,LST-GRUPPER,DANSDA-GROUPS,80,Fjerkræ,Poultry,2
+1,LST-GRUPPER,DANSDA-GROUPS,86,Æg og æggeprodukter,Eggs and egg products,2
+1,LST-GRUPPER,DANSDA-GROUPS,91,Fedtstoffer og fedtstofprodukter,Fats and fatty products,2
+1,LST-GRUPPER,DANSDA-GROUPS,100,"Sukker, honning og sukkervarer","Sugar, honey and sugar confectionery",2
+1,LST-GRUPPER,DANSDA-GROUPS,105,Drikkevarer,Beverages,2
+1,LST-GRUPPER,DANSDA-GROUPS,118,"Krydderier, ekstrakter o.l.",Spices and extracts etc.,2
+1,LST-GRUPPER,DANSDA-GROUPS,126,"Færdigretter, fastfood og sammensatte fødevarer"," Ready meals, fastfood and composite foods",2
+1,LST-GRUPPER,DANSDA-GROUPS,134,Fødevarer til særlig ernæring,Foods for particular nutritional uses,2
+1,LST-GRUPPER,DANSDA-GROUPS,142,Andre fødevarer,Other foods,2
+1,LST-GRUPPER,DANSDA-GROUPS,149,Ragelse & Forureningsdata,Garbage & Pollution data,2
+1,LST-GRUPPER,DANSDA-GROUPS,167,Alternativer til animalske fødevarer,Substitutes for animal products,2
+1,LST-GRUPPER,DANSDA-GROUPS,170,Bælgplanter og produkter af bælgplanter,Legumes and legume products,2
+1,LST-GRUPPER,DANSDA-GROUPS,176,Nødder og fedtrige frø,Nuts and high-fat seeds,2
+2,Konsummælk og mælkekonserves,Milk and milk preserves,4,Usyrnede mælkeprodukter,Unfermented milk products,3
+2,Konsummælk og mælkekonserves,Milk and milk preserves,5,Syrnede mælkeprodukter,Fermented milk products,3
+2,Konsummælk og mælkekonserves,Milk and milk preserves,8,Mælkekonserves og andre mælkeprodukter,Preserved milk and other milk products,3
+9,Ost og osteprodukter,Cheese and cheese products,12,Blød surmælksost,Soft sour milk cheese,3
+9,Ost og osteprodukter,Cheese and cheese products,13,Fast løbeost,Firm rennet cheese,3
+9,Ost og osteprodukter,Cheese and cheese products,14,Blød løbeost,Soft rennet cheese,3
+9,Ost og osteprodukter,Cheese and cheese products,15,Halvfast løbeost,Semi-firm rennet cheese,3
+9,Ost og osteprodukter,Cheese and cheese products,16,Valleost,Whey cheese,3
+9,Ost og osteprodukter,Cheese and cheese products,17,Smelteost,Processed cheese,3
+18,Is ,Ice cream ,21,Fløde- og mælkeis,Dairy ice cream,3
+18,Is ,Ice cream ,23,Sorbet og limonadeis,Sorbet and ice lolly,3
+26,Korn og stivelsesprodukter,Cereals and starch products,28,Korn og gryn,Grain and groats,3
+26,Korn og stivelsesprodukter,Cereals and starch products,30,Mel og klid,Flour and bran,3
+26,Korn og stivelsesprodukter,Cereals and starch products,31,Brød,Bread,3
+26,Korn og stivelsesprodukter,Cereals and starch products,34,Morgenprodukter,Breakfast products,3
+26,Korn og stivelsesprodukter,Cereals and starch products,35,Pastaprodukter,Pasta,3
+26,Korn og stivelsesprodukter,Cereals and starch products,36,Stivelsesprodukter,Starch products,3
+37,Grøntsager og grøntsagsprodukter,Vegetables and vegetable products,39,Rod- og knoldgrøntsager,Root and tuber vegetables,3
+37,Grøntsager og grøntsagsprodukter,Vegetables and vegetable products,40,Blad- og stængelgrøntsager,Leaf and stem vegetables,3
+37,Grøntsager og grøntsagsprodukter,Vegetables and vegetable products,41,Frugt-grøntsager,Fruit -Vegetables,3
+37,Grøntsager og grøntsagsprodukter,Vegetables and vegetable products,43,Svampe,Mushrooms,3
+37,Grøntsager og grøntsagsprodukter,Vegetables and vegetable products,44,Krydderurter,Herbs,3
+37,Grøntsager og grøntsagsprodukter,Vegetables and vegetable products,46,Grøntsagskonserves,Canned vegetable products,3
+37,Grøntsager og grøntsagsprodukter,Vegetables and vegetable products,187,Tang og tangprodukter,Seaweed and seaweed products,3
+37,Grøntsager og grøntsagsprodukter,Vegetables and vegetable products,188,Andre grøntsagsprodukter,Other vegetable products,3
+37,Grøntsager og grøntsagsprodukter,Vegetables and vegetable products,192,Frosne grøntsager,Frozen vegetables,3
+47,"Frugt, bær og produkter heraf","Fruit, berries and their products",49,Kernefrugt,Pome fruit,3
+47,"Frugt, bær og produkter heraf","Fruit, berries and their products",50,Stenfrugt,Stone fruit,3
+47,"Frugt, bær og produkter heraf","Fruit, berries and their products",51,Bærfrugt,Soft fruit,3
+47,"Frugt, bær og produkter heraf","Fruit, berries and their products",52,Sydfrugt,Tropical or subtropical fruit,3
+47,"Frugt, bær og produkter heraf","Fruit, berries and their products",55,Konserves og syltet bær og frugt,Canned fruit products,3
+47,"Frugt, bær og produkter heraf","Fruit, berries and their products",184,Tørrede frugt og bær produkter,Dried fruit and berry products,3
+47,"Frugt, bær og produkter heraf","Fruit, berries and their products",185,"Marmelade, gele o.l.","Marmelade, jelly etc.",3
+47,"Frugt, bær og produkter heraf","Fruit, berries and their products",193,Frossen frugt og bær,Frozen fruits and berries,3
+56,Kød og kødprodukter,Meat and meat products,57,Andet kød og ferske kødprodukter,Other meat and fresh meat products,3
+56,Kød og kødprodukter,Meat and meat products,58,Oksekød,Beef,3
+56,Kød og kødprodukter,Meat and meat products,59,Kalvekød,Veal,3
+56,Kød og kødprodukter,Meat and meat products,60,Grisekød (Svinekød),Pork,3
+56,Kød og kødprodukter,Meat and meat products,61,Fåre- og lammekød,Sheep and lamb,3
+56,Kød og kødprodukter,Meat and meat products,63,Vildt,Game,3
+56,Kød og kødprodukter,Meat and meat products,64,"Kogt, røget, saltet eller tørret kød","Boiled, smoked, cured or dried meat",3
+56,Kød og kødprodukter,Meat and meat products,65,Pålægsvarer,Cold cuts,3
+56,Kød og kødprodukter,Meat and meat products,66,Indmad og andre organer,Offal and other organs,3
+68,"Fisk, vandlevende dyr og produkter heraf","Fish, quatic animals and their products",69,Havpattedyr,Marine mammals,3
+68,"Fisk, vandlevende dyr og produkter heraf","Fish, quatic animals and their products",70,Mager fisk,Lean fish,3
+68,"Fisk, vandlevende dyr og produkter heraf","Fish, quatic animals and their products",72,Mellemfed fisk,Somewhat oily fish,3
+68,"Fisk, vandlevende dyr og produkter heraf","Fish, quatic animals and their products",73,Fed fisk,Oily fish,3
+68,"Fisk, vandlevende dyr og produkter heraf","Fish, quatic animals and their products",76,Skaldyr og produkter heraf,Shellfish and their products,3
+68,"Fisk, vandlevende dyr og produkter heraf","Fish, quatic animals and their products",77,Bløddyr og produkter heraf,Mollusks and their products,3
+68,"Fisk, vandlevende dyr og produkter heraf","Fish, quatic animals and their products",78,Fiskeindmad og rogn,Offal and fish eggs,3
+68,"Fisk, vandlevende dyr og produkter heraf","Fish, quatic animals and their products",79,Fiskeprodukter,Fish products,3
+68,"Fisk, vandlevende dyr og produkter heraf","Fish, quatic animals and their products",183,Andre produkter af vandlevende dyr,Other aquatic animal products,3
+80,Fjerkræ,Poultry,81,Høns og kylling,Chicken,3
+80,Fjerkræ,Poultry,82,Kalkun,Turkey,3
+80,Fjerkræ,Poultry,83,Fuglevildt,Game birds,3
+80,Fjerkræ,Poultry,84,And og gås,Duck and goose,3
+86,Æg og æggeprodukter,Eggs and egg products,87,Friske æg,Fresh eggs,3
+86,Æg og æggeprodukter,Eggs and egg products,88,Flydende æg,Liquid egg,3
+86,Æg og æggeprodukter,Eggs and egg products,89,Tørrede æg,Dried egg,3
+86,Æg og æggeprodukter,Eggs and egg products,90,Ægprodukter,Egg products,3
+91,Fedtstoffer og fedtstofprodukter,Fats and fatty products,93,Animalske fedtstoffer,Animal fats,3
+91,Fedtstoffer og fedtstofprodukter,Fats and fatty products,94,Vegetabilske fedtstoffer,Vegetable fats,3
+91,Fedtstoffer og fedtstofprodukter,Fats and fatty products,95,Margariner,Margarines,3
+91,Fedtstoffer og fedtstofprodukter,Fats and fatty products,96,Smør,Butter,3
+91,Fedtstoffer og fedtstofprodukter,Fats and fatty products,97,"Mayonnaise, remoulade o.l.","Mayonnaises,  remoulade etc",3
+91,Fedtstoffer og fedtstofprodukter,Fats and fatty products,98,Dressings,Dressings,3
+100,"Sukker, honning og sukkervarer","Sugar, honey and sugar confectionery",101,Andre sukkervarer,Other sweet products,3
+100,"Sukker, honning og sukkervarer","Sugar, honey and sugar confectionery",102,Sukker,Sugar,3
+100,"Sukker, honning og sukkervarer","Sugar, honey and sugar confectionery",103,Honning,Honey,3
+100,"Sukker, honning og sukkervarer","Sugar, honey and sugar confectionery",104,Chokoladevarer o.l., Chocolate etc.,3
+100,"Sukker, honning og sukkervarer","Sugar, honey and sugar confectionery",182,Slik,Candy,3
+105,Drikkevarer,Beverages,45,Grøntsagsjuice,Vegetable juices,3
+105,Drikkevarer,Beverages,54,Bærjuice og bærsaft,Berry juices,3
+105,Drikkevarer,Beverages,106,Andre drikkevarer,Other beverages,3
+105,Drikkevarer,Beverages,107,"Kaffe, te og kakao","Coffee, tea and cocoa",3
+105,Drikkevarer,Beverages,111,Vand og mineralvand,Water and carbonated drinks,3
+105,Drikkevarer,Beverages,112,Øl og andre maltdrikke,Beer and other malt beverages,3
+105,Drikkevarer,Beverages,113,Vine,Wines,3
+105,Drikkevarer,Beverages,114,Hedvine,Liqueur wines,3
+105,Drikkevarer,Beverages,115,Likør,Liqueurs,3
+105,Drikkevarer,Beverages,116,Spiritus,Spirits,3
+105,Drikkevarer,Beverages,117,Drikkevand,Drinking water,3
+105,Drikkevarer,Beverages,186,"Frugtjuice, frugtsaft og smoothies",Fruit juice and smoothies,3
+105,Drikkevarer,Beverages,194,Cider,Cider,3
+118,"Krydderier, ekstrakter o.l.",Spices and extracts etc.,120,Krydderier,Spices,3
+118,"Krydderier, ekstrakter o.l.",Spices and extracts etc.,121,Salt,Salt,3
+118,"Krydderier, ekstrakter o.l.",Spices and extracts etc.,122,Gær og hævemiddel,Yeast and baking powder,3
+118,"Krydderier, ekstrakter o.l.",Spices and extracts etc.,124,"Bouillon, ekstrakter o.l.","Bouillon, extracts and the like",3
+118,"Krydderier, ekstrakter o.l.",Spices and extracts etc.,125,Eddike,Vinegar,3
+118,"Krydderier, ekstrakter o.l.",Spices and extracts etc.,181,"Sennep, ketchup, pesto o.l.",Condiments,3
+126,"Færdigretter, fastfood og sammensatte fødevarer"," Ready meals, fastfood and composite foods",32,Kiks og småkager,Biscuits and cookies,3
+126,"Færdigretter, fastfood og sammensatte fødevarer"," Ready meals, fastfood and composite foods",33,Kager,Cakes,3
+126,"Færdigretter, fastfood og sammensatte fødevarer"," Ready meals, fastfood and composite foods",127,Andre sammensatte fødevarer,Other composite foods,3
+126,"Færdigretter, fastfood og sammensatte fødevarer"," Ready meals, fastfood and composite foods",128,Færdigretter,Ready meals,3
+126,"Færdigretter, fastfood og sammensatte fødevarer"," Ready meals, fastfood and composite foods",130,Fede salater,Fatty salads,3
+126,"Færdigretter, fastfood og sammensatte fødevarer"," Ready meals, fastfood and composite foods",131,"Sandwich, burger, hotdog, pita o.l.","Sandwich, burger, hotdog etc.",3
+126,"Færdigretter, fastfood og sammensatte fødevarer"," Ready meals, fastfood and composite foods",132,Desserter,Desserts,3
+126,"Færdigretter, fastfood og sammensatte fødevarer"," Ready meals, fastfood and composite foods",133,Saucer og sovsepulver,Sauce and powdered sauce,3
+126,"Færdigretter, fastfood og sammensatte fødevarer"," Ready meals, fastfood and composite foods",179,Pizza,Pizza,3
+126,"Færdigretter, fastfood og sammensatte fødevarer"," Ready meals, fastfood and composite foods",180,Supper og suppeprodukter,Soup and soup products,3
+134,Fødevarer til særlig ernæring,Foods for particular nutritional uses,6,Modermælk og modermælkserstatning,Breast milk and  infant formula,3
+134,Fødevarer til særlig ernæring,Foods for particular nutritional uses,135,Spædbørnsmad,Infant food,3
+142,Andre fødevarer,Other foods,143,Chips og snacks,Potato chip and snacks,3
+149,Ragelse & Forureningsdata,Garbage & Pollution data,190,Ragelse,Garbage,3
+167,Alternativer til animalske fødevarer,Substitutes for animal products,168,Plantebaserede drikkevarer,Plant-based beverages,3
+167,Alternativer til animalske fødevarer,Substitutes for animal products,169,Plantebaserede produkter,Plant-based products,3
+170,Bælgplanter og produkter af bælgplanter,Legumes and legume products,171,Friske bælgplanter,Fresh legumes,3
+170,Bælgplanter og produkter af bælgplanter,Legumes and legume products,172,Frosne bælgplanter,Frozen legumes,3
+170,Bælgplanter og produkter af bælgplanter,Legumes and legume products,173,Tørrede bælgplanter,Dried pulses,3
+170,Bælgplanter og produkter af bælgplanter,Legumes and legume products,174,Konserves af bælgplanter,Canned legumes,3
+170,Bælgplanter og produkter af bælgplanter,Legumes and legume products,175,Andre produkter af bælgplanter,Other legume products,3
+170,Bælgplanter og produkter af bælgplanter,Legumes and legume products,191,Tilberedte bælgfrugter,Prepared legumes,3
+176,Nødder og fedtrige frø,Nuts and high-fat seeds,53,Nødder,Nuts,3
+176,Nødder og fedtrige frø,Nuts and high-fat seeds,177,Fedtrige frø,High-fat seeds,3
+176,Nødder og fedtrige frø,Nuts and high-fat seeds,178,Nøddeprodukter,Nut products,3
+176,Nødder og fedtrige frø,Nuts and high-fat seeds,189,Produkter af fedtrige frø,High-fat seeds products,3
+195,Tilsætningsstoffer,Food Additives,195,Tilsætningsstoffer,Food Additives,1
+196,Industrielle Ingredienser,Industrial Ingredients,196,Industrielle Ingredienser,Industrial Ingredients,1
+197,Catering Ingredienser,Catering Ingredients,197,Catering Ingredienser,Catering Ingredients,1
+198,Opskrifter,Recipes,198,Opskrifter,Recipes,1

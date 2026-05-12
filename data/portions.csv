@@ -1,0 +1,1381 @@
+"Food","Portion_g","Usual_Score","Cost_USD_per_100g"
+"Strawberry, raw",100,8,0.80
+"Apple, raw, all varieties",150,10,0.30
+"Banana, raw",120,10,0.20
+"Potato, raw",200,10,0.15
+"Milk, whole, konventional (not organic), 3.5 % fat",250,6,0.12
+"Parsley, raw",5,6,1.50
+"Pear, raw",150,8,0.35
+"Rhubarb, raw",100,4,0.60
+"Currant, black, raw",50,3,1.50
+"Yogurt plain, whole milk",200,8,0.30
+"Celery, raw",50,5,0.30
+"Cauliflower, all varieties, raw",150,7,0.40
+"Broccoli, raw",150,8,0.45
+"Beans, wax, raw",100,3,0.50
+"Lemon, raw",15,6,0.40
+"Dill, raw",5,4,2.00
+"Kale, raw",100,6,0.50
+"Carrot, raw",100,9,0.15
+"Garfish, raw",150,0,1.20
+"Cabbage, white, raw",100,6,0.15
+"Rose hip, raw",50,1,2.00
+"Elderberry, raw",50,1,1.50
+"Salmon, Atlantic, wild, raw",150,8,2.50
+"Sweetcorn, on-the-cob, raw",150,6,0.50
+"Milk, buttermilk",250,7,0.15
+"Milk, partly skimmed, konventional (not organic), 1.5 % fat",250,10,0.12
+"Mackerel, raw",150,6,0.80
+"Almond, raw",30,7,1.20
+"Watermelon, raw",200,7,0.25
+"Pepper, sweet, green, raw",75,8,0.60
+"Pepper, sweet, red, raw",75,9,0.80
+"Radish, raw",50,6,0.50
+"Currant, red, raw",50,4,1.20
+"Brussels sprouts, raw",100,6,0.50
+"Beet, red, raw",100,7,0.30
+"Cabbage, red, raw",100,7,0.20
+"Plaice, raw",150,6,1.00
+"Celeriac, celery root, raw",100,5,0.40
+"Herring, pickled, canned",100,4,0.90
+"Herring, raw",150,7,2.00
+"Cabbage, pointed, raw",100,6,0.30
+"Spinach, raw",100,8,0.60
+"Gooseberry, raw",50,2,1.20
+"Tomato, ripe, raw, origin unknown",100,10,0.40
+"Grape, raw",150,8,0.50
+"Peas, green, raw",100,8,0.50
+"Squash, raw",100,7,0.30
+"Artichoke, raw",100,3,1.00
+"Beans, mung, dried, raw",50,4,0.40
+"Oats, rolled, average values",50,8,0.20
+"Rye flour, dark, wholemeal",75,4,0.20
+"Wheat, flour, wholemeal",75,8,0.15
+"Ginger root, raw",5,6,0.80
+"Okra, raw",100,2,0.70
+"Asparagus, green, raw",100,6,1.20
+"Fennel, bulb, raw",100,4,0.60
+"Saithe, raw",150,5,0.80
+"Buckwheat, whole, raw",75,2,0.40
+"Aubergine, raw",100,6,0.40
+"Orange, raw",150,8,0.30
+"Lamb, leg, unspecified , raw",150,3,1.50
+"Cod, fillet, raw",150,7,1.20
+"Cheese, semihard, Feta, 40 % fidm",50,7,1.00
+"Pork, collar with rind, raw",150,6,0.70
+"Rice groats, brown, raw",75,2,0.25
+"Sugar, sucrose, white",10,9,0.10
+"Lard, pork, refined, Raffinol",15,1,0.30
+"Lard, pork",15,1,0.30
+"Water, bottled, carbonated",250,7,0.05
+"Fish oil, hydrogenated",5,2,2.00
+"Goose, flesh and skin, raw",150,1,1.80
+"Nut, coco, raw",30,3,0.60
+"Snacks, expanded, potatobasis",50,8,1.00
+"Mackerel mayonnaise salad",100,4,1.20
+"Soya sauce",15,8,0.40
+"Cheese, firm, 40 % fidm., all varieties",30,10,1.00
+"Ymer, low fat",200,0,0.30
+"Cheese, semihard, Mozzarella, 45 % fidm.",50,8,1.00
+"Cheese, processed, 45 % fidm.",30,6,0.80
+"Duck, flesh and skin, raw",150,2,1.50
+"Rye-flour, wheat-flour, bolted",75,3,0.20
+"Pudding powder",20,5,0.40
+"Cheese, semihard, Havarti, 30 % fidm.",30,2,0.90
+"Cheese, firm, Danbo, 45 % fidm.",30,1,1.00
+"Lamb, flank, spiced, cooked",150,2,1.20
+"Onions, chopped and deepfried",20,6,1.00
+"Tea, ready-to-drink",250,7,0.10
+"Chestnut, raw",50,1,1.00
+"Coffee, instant, prepared with water",250,6,0.30
+"Cheese, semihard, Esrom, 45 % fidm.",30,0,1.10
+"Cheese, firm, Elbo, 40 % fidm.",30,0,1.00
+"Potato crisps, coarse",50,8,1.20
+"Cheese, Roquefort, Danish, 50 % fidm.",30,4,2.00
+"Coffee, instant, decaffeinated, prepared with water",250,4,0.40
+"Cheese, Danish Blue, 50 % fidm.",30,3,1.20
+"Cheese, Brie, 60 % fidm.",50,8,1.50
+"Bacon, stewing, raw",50,8,1.00
+"Coffee, beverage",250,10,0.10
+"Rye kernels, whole/cracked",50,2,0.20
+"Sausage, liver sausage",50,7,0.70
+"Sour cream, 50 % fat",30,2,0.50
+"Cheese, firm, 45 % fidm., all varieties",30,10,1.10
+"Linseeds, raw",15,5,0.40
+"Peanut, dried",30,9,0.50
+"Double Cream, 50 % fat",30,1,0.60
+"Pepper, white",2,6,2.00
+"Soya flour, full fat",50,1,0.30
+"Rice, brown, raw",75,6,0.20
+"Milk, dry, skimmed, powder",25,2,0.60
+"Cheese, semihard, Havarti, 45 % fidm.",30,2,0.90
+"Rose hip, dried, powder",10,1,3.00
+"Oyster, raw",100,2,3.00
+"Wine, white, dry",150,8,1.00
+"Fish balls, canned",150,1,0.60
+"Rye bread crumbs with brown sugar, average values",30,0,0.30
+"Wine, white, average values",150,7,0.80
+"Wine, white, Rhine wine",150,5,1.20
+"Tomato, sun-dried",30,6,2.00
+"Ymer",200,0,0.30
+"Wine, red, rosé, non-alcoholic",150,2,0.70
+"Wine, white, medium",150,6,0.90
+"Biscuit, sweet, 'Finnish'",30,0,0.80
+"Wine, white, non-alcoholic",150,2,0.70
+"Barley groats, raw",50,1,0.20
+"Rice starch",15,1,0.30
+"Liquorice allsorts",40,8,0.90
+"Danish pastry, square",75,3,1.20
+"Salad dressing, French",30,5,0.60
+"Cheese, Danish Blue, 60 % fidm.",30,3,1.30
+"Cheese, firm, Fynbo, 45 % fidm.",30,0,1.00
+"Eggs, chicken, egg white, pasteurized",50,5,0.40
+"Lumpsucker, smoked",100,0,2.00
+"Wheat, kernels, whole/cracked",50,3,0.20
+"Bread-crumbs",20,8,0.20
+"Apple juice, canned or bottled",250,8,0.15
+"Pearl-sago (potato starch)",50,1,0.30
+"Cheese, firm, Maribo, 45 % fidm.",30,0,1.00
+"Mustard, brown, ready made",15,7,0.40
+"Garlic, raw",5,8,0.80
+"Wine, rosé",150,7,0.80
+"Minced meat in gravy, average values",200,8,1.00
+"Cheese, firm, Samsoe, 45 % fidm.",30,1,1.00
+"Baby food, infant formula, low iron content, powder",30,4,1.50
+"Sherry, medium",50,3,1.50
+"Wine, red",150,8,1.00
+"Cheese, hard, Cheshire, 50 % fidm.",30,1,1.20
+"Eggs, chicken, egg white, raw",50,6,0.30
+"Bacon, frying, raw",50,8,1.20
+"Vermouth, dry",50,2,1.20
+"Vermouth, sweet",50,2,1.20
+"Prune, dried plum",40,4,0.80
+"Tamarind, Indian date, raw",20,3,1.50
+"Pastry, croissant",60,8,1.00
+"Eggs, chicken, egg white, dried",10,1,2.00
+"Vinegar",15,8,0.10
+"Madeira",50,1,2.00
+"Campari",50,1,2.00
+"Pastry with poppy seeds",75,3,1.00
+"Cheese, Blue and white mould, 70 % fidm.",30,4,1.50
+"Wine, white, sweet",150,6,1.00
+"BITTER, all types, average values",40,2,2.00
+"Pepper, black",2,9,1.50
+"BITTER, Gammel Dansk Bitter Dram",40,0,2.50
+"Brandy, cognac",40,3,3.00
+"Wine, white, sparkling, champagne",150,5,2.50
+"Cheese, firm, Svenbo, 45 % fidm.",30,0,1.00
+"Aquavit, spiced, average values",40,0,2.00
+"Sherry, dry",50,2,1.50
+"Olives, black, without stones, in brine",30,7,0.80
+"Spirits, 70 % proof",40,2,2.00
+"Vodka",40,4,1.50
+"Plain cake, lemon cake",80,6,0.80
+"BITTER, Krabask Bitter",40,0,2.00
+"Cheese, hard, Emmentaler, 45 % fidm.",30,5,1.20
+"Breakfast cereal, Rice Krispies",40,4,0.60
+"Aquavit, 40 % vol., average values",40,0,2.00
+"Ice cream, dairy, popsickle, strawberry",100,7,0.80
+"Lemon juice, fresh",15,7,0.50
+"Cheese, semihard, Esrom, 60 % fidm.",30,0,1.20
+"Cream yoghurt, 9 % fat, with fruit",200,6,0.40
+"Tofu, soy bean curd",100,6,0.50
+"Port",50,5,2.00
+"Plain cake, chocolate cake",80,7,0.90
+"Bouillon, chicken, prepared",250,8,0.05
+"Danish pastry, cinnamon roll",80,4,1.00
+"Danish pastry, average values",80,4,1.00
+"Plain cake, average values",80,7,0.70
+"Pop corn, oil and salt added, traditional",50,7,0.50
+"Bulgur, parboiled, raw",75,5,0.20
+"Lentils, sprouted, raw",50,4,0.60
+"Whisky",40,5,2.50
+"Sausage, beef salami",30,6,1.20
+"Cheese, semihard, Havarti, 60 % fidm.",30,1,1.00
+"Cream, cultured, 9 % fat  (Fraiche 9%)",30,5,0.40
+"Pork/beef sausage, teewurst",30,1,1.00
+"Hazelnut, dried",30,7,1.20
+"Cream, 9 % fat",30,6,0.30
+"Pasta, raw",75,9,0.15
+"Cheese, Quark, 5 % fidm.",100,8,0.50
+"Cheese, hard, Grana, 32 % fidm.",20,5,1.50
+"Cheese, hard, Parmesan, 32 % fidm.",20,8,1.80
+"Gin",40,5,1.50
+"Gherkin, pickled, no sugar added",30,8,0.50
+"Yeast, baker`s, compressed",10,5,0.20
+"Biscuit, sweet, vanilla flavoured",30,8,0.60
+"Cheese, hard, Cheddar, Danish",30,5,1.00
+"Fish cake, raw",150,4,0.60
+"Rum",40,5,1.50
+"Pistachio nuts, dried",30,7,2.00
+"Whipped egg white and sugar with chocolate covering",40,7,0.80
+"Millet, flakes",40,2,0.30
+"Cheese, unripened, smoked, 1 % fat",30,1,0.80
+"Cod, liver, canned",50,1,1.50
+"Snacks, expanded, cornbased",50,7,0.70
+"Cheese, whey, Myseost, 33 % fidm.",30,0,0.70
+"Cheese, hard, Gruyere, 45 % fidm.",30,4,1.50
+"Cabbage, red, canned, no sugar added",100,7,0.30
+"Danish pastry, pretzel",80,4,1.00
+"Sherry, sweet",50,3,1.50
+"Fig, dried",40,4,0.90
+"Cranberry, raw",50,3,1.50
+"Pastry, 'linse'",80,2,0.90
+"Pop corn, oil and salt added",50,7,0.50
+"Danish pastry, christmas cake",80,3,1.20
+"Sausage, salami",30,8,1.20
+"Pound cake",80,7,0.80
+"Quinces, raw",100,1,0.80
+"Pumpkin, raw",150,5,0.20
+"Salad dressing, blue cheese",30,2,0.60
+"Radishes, oriental, daikon, Japanese radish, raw",50,2,0.40
+"Sesame seeds, whole",15,6,0.60
+"Olives, green, pickled, canned",30,7,0.80
+"Seaweed, agar, dried",5,1,4.00
+"Crispbread, knackebrot, rye, coarse",30,7,0.40
+"Macaroni, spaghetti, whole meal, raw",75,9,0.20
+"Rye bread, dark, wholemeal, imported",50,6,0.40
+"Pear, canned",150,5,0.50
+"Turnip, raw",100,2,0.20
+"BITTER, sweet, all types, average values",40,2,2.00
+"Bean, adzuki, sprouted, raw",50,2,0.60
+"Millet, whole-grain",50,2,0.20
+"Pop corn, microwave oven",50,7,0.40
+"Mussel, raw",150,6,0.80
+"Cucumber, raw",100,10,0.20
+"Loquat, raw",100,0,1.00
+"Cashew nuts, oil roasted",30,8,1.50
+"Danish pastry, butter ring",80,3,1.20
+"Nut paste with cacao, spreads",20,9,0.80
+"Corn flakes, average values",40,7,0.40
+"Breakfast cereal, müsli, average values",50,8,0.50
+"Mock turtle ragout, average values",200,0,1.00
+"Apricot, canned, light syrup pack",150,5,0.40
+"Gherkin, pickled",30,8,0.50
+"Pork sausage, saveloy type, low fat",100,4,0.80
+"Grape juice",250,4,0.20
+"Crayfish, raw",150,2,2.00
+"Corn starch",15,7,0.15
+"Carrot, canned",100,6,0.30
+"Potatoes, mashed, instant powder with dry milk",50,5,0.50
+"Rye bread, light",50,3,0.30
+"Bitter, Jägermeister",40,5,2.00
+"Salt, table",5,10,0.05
+"Rye bread, dark, pumpernickel",50,2,0.40
+"Spring roll, frozen",150,7,0.70
+"Apricot, canned, no sugar added",150,5,0.50
+"Pumpkin, canned",100,3,0.30
+"Pineapple, canned",100,7,0.40
+"Onions, chopped, frozen",50,4,0.40
+"Cream pastry, layer cake",100,6,1.20
+"Wheat rusk",30,7,0.50
+"Wheat rusk",30,7,0.50
+"Chayote fruit, raw",100,0,0.50
+"Crispbread, knackebrot, rye, fine",30,7,0.40
+"Mustard, yellow, ready made",15,8,0.30
+"Peach, canned",150,6,0.40
+"Liqueur, average values",40,4,2.00
+"Corn flakes, frosted",40,5,0.50
+"Sunflower seeds, decorticated, dried",30,4,0.40
+"Sauce gravad lax",30,3,1.00
+"Snacks, extruded, cornbased",50,7,0.70
+"Oats, rolled, enriched",50,8,0.25
+"Muskmelon, raw",150,5,0.40
+"Tomato, Danish, ripe, raw",100,10,0.50
+"Tangerine, canned",150,6,0.50
+"Plaice, fillet, breaded, frozen",150,6,1.00
+"Apricot, dried",40,5,1.00
+"Sauce, barbeque",30,7,0.40
+"Breakfast cereal, Müsli with added sugar",50,8,0.50
+"Breakfast cereal, Müsli, no sugar added",50,8,0.60
+"Rye bread, fine with wheat flour, industrially produced",50,5,0.30
+"Lime, raw",15,6,0.40
+"Crab apple, raw",100,1,0.50
+"Elderberry, juice, concentrated, sugar not added",40,2,1.00
+"Cream, 13 % fat (UHT)",30,5,0.30
+"Frog legs, frozen",150,0,2.00
+"Pepper, hot chili, canned",30,5,0.60
+"Sesame seed, decorticated",15,6,0.60
+"Strawberry juice, concentrated, sugar not added",40,6,0.80
+"Raspberry juice, concentrated, sugar not added",40,6,1.00
+"Burbot, raw",150,0,1.00
+"Hake, raw",150,3,0.90
+"Cream pastry, strawberry cake",100,6,1.20
+"Salad dressing, mayonnaise, low calorie",30,8,0.50
+"Liqueur, Curacao",40,2,2.00
+"Lettuce, iceberg (incl. crisphead types), raw",100,9,0.30
+"Oats, rolled, not enriched",50,8,0.15
+"Currant, red, juice, concentrated, sugar not added",40,4,1.00
+"Strawberries, frozen, sweetened, whole",100,5,0.60
+"Cream, 13 % fat",30,5,0.30
+"Saccharin",2,5,1.00
+"Sausage, salami",30,8,1.20
+"Radish, white, raw",50,3,0.30
+"Melon, cantaloup, raw",150,6,0.40
+"Beet, red, canned, no sugar added",100,7,0.30
+"Meat balls, canned",150,5,0.80
+"Octopus, raw",150,2,1.50
+"Horse-radish, raw",10,2,0.60
+"Strawberries, canned",150,3,0.50
+"Pork in curry sauce, frozen",350,3,0.90
+"Currant, black, juice, concentrated, sugar not added",40,5,1.00
+"Snail, edible, raw",100,1,2.00
+"Carrot, frozen",100,5,0.30
+"Pepper, sweet, canned",50,4,0.50
+"Pastry, coco macaroon",50,6,0.80
+"Ice cream, dairy, popsickle, vanilla",100,8,0.80
+"Grape, green, raw",150,8,0.50
+"Papaya, raw",150,3,0.60
+"Milk, dry, whole, powder",25,2,0.80
+"Pizza Romana, frozen",350,7,0.80
+"Cherry juice, concentrated, sugar not added",40,3,0.80
+"Lingonberry, jam",20,2,0.80
+"Pecans, dried",30,6,2.00
+"Cheese, cottage, 20 % fidm.",100,6,0.60
+"Shrimp, boiled, shell removed",100,7,1.50
+"Swede, raw",100,3,0.20
+"Quark with fruit",150,8,0.50
+"Cod, roe, canned",50,1,0.80
+"Whey, sweet, fluid",250,1,0.10
+"Shrimp, canned",100,5,1.20
+"Rose hip syrup",30,2,0.60
+"Date, dried",40,6,0.70
+"Bouillon, beef, cube, prepared",250,8,0.05
+"Ice cream, dairy, three coloured",100,6,0.70
+"Tea, leaves",5,9,1.00
+"Rhubarb, frozen",100,2,0.50
+"Gherkin cucumber, raw",50,8,0.30
+"Lemon sole, raw",150,2,1.50
+"Cucumber, large, pickled",50,7,0.40
+"Chicory, raw",50,6,0.50
+"Dab, raw",150,1,0.80
+"Kidney, calf, raw",150,1,0.80
+"Cod, fillet, breaded, raw",150,7,0.90
+"Blue whiting, fillet, raw",150,1,0.70
+"Liver, pig, in cream sauce, frozen",250,2,0.70
+"Pastry, average values",80,6,1.00
+"Whiting, raw",150,2,0.80
+"Salt, sea salt (no iodine fortification)",5,8,0.10
+"Oat Bran, Danish",40,5,0.30
+"Carrot, raw",100,9,0.15
+"Mandarin orange, raw",100,8,0.40
+"Perch, raw",150,2,1.00
+"Cod, fillet, boiled",150,6,1.00
+"Wolffish (catfish), raw",150,1,1.20
+"Heart, veal, raw",150,1,0.70
+"Kidney, ox, raw",150,1,0.50
+"Torsk, tusk, raw",150,0,0.80
+"Cod, fillet, smoked, with skin",150,2,1.20
+"Prickly pear, Indian fig, raw",100,1,0.80
+"Cabbage, Chinese, raw",100,7,0.30
+"Kidney, pig, raw",150,1,0.50
+"Norway pout, flesh, raw",150,0,0.60
+"Pastry, frangipani pastry",80,4,1.00
+"Figs, raw",100,4,0.80
+"Carambola, raw",100,1,1.00
+"Turbot, raw",150,2,2.00
+"Haddock, raw",150,4,1.00
+"Pork, liver paste, Danish, low fat",30,8,0.70
+"Flounder, raw",150,2,1.00
+"Endive (escarole), raw",50,7,0.50
+"Pollack, raw",150,3,0.70
+"Plain cake, frangipani cake",80,5,0.80
+"Caviar, Danish (roe, lump-sucker)",20,1,3.00
+"Pizza Napolitana, frozen",350,7,0.80
+"Lettuce, looseleaf, raw",50,7,0.40
+"Split peas, dry, raw",75,6,0.20
+"Persimmon, kaki fruit, raw",100,4,0.80
+"Ling, fillet, raw",150,1,0.80
+"Sole, raw",150,4,2.00
+"Tomato, peeled, canned",100,8,0.40
+"Meat balls, average values",150,8,0.80
+"Fish balls, fried",150,2,0.70
+"Endive (frisee), raw",50,7,0.50
+"Lettuce, Cos or romaine, raw",50,6,0.40
+"Pikeperch, raw",150,2,1.20
+"Potatoes, mashed, instant powder without dry milk",50,5,0.40
+"Redfish, ocean perch, raw",150,2,1.00
+"Spring roll with minced beef and white cabbage, deepfried, fast food",200,8,1.00
+"Carrot, raw",100,9,0.15
+"Cod, liver, smoked",50,1,1.50
+"Cod, liver, raw",50,1,1.20
+"Nectarine, raw",150,8,0.50
+"Pike, raw",150,1,0.80
+"Salad dressing, oil and vinegar, low calorie",30,7,0.50
+"Squash, all varieties, raw",100,7,0.30
+"Wheat bread, with whole kernels",50,8,0.40
+"Avocado, raw",100,8,1.00
+"Wheat bran",20,4,0.20
+"Beet, red, canned",100,7,0.30
+"Lentils, brown, dried, raw",50,4,0.30
+"Tomato, imported, ripe, raw",100,10,0.50
+"Lobster, boiled",150,2,3.00
+"Lobster, canned",100,1,2.50
+"Butterhead lettuce (US), cabbage lettuce (UK), raw",50,8,0.30
+"Margarine, 70 % fat, table use, soft, vegetable fat",15,9,0.30
+"Cabbage, red, canned",100,8,0.30
+"Lychee, raw",100,2,1.20
+"Pizza, frozen, average values",350,8,0.70
+"Pomegranate, raw",100,4,0.80
+"Guava, common, raw",100,1,0.80
+"Spotted wolffish, fillet, raw",150,0,1.20
+"Mussels, in water, canned",100,2,0.80
+"Cape gooseberries, raw",50,1,1.00
+"Cheese, unripened, smoked, 10 % fat",30,1,0.80
+"Bream, raw",150,1,1.00
+"Heart, beef, raw",150,1,0.50
+"Pak choi (bok choy), raw",100,6,0.40
+"Heart, pork, raw",150,1,0.50
+"Rye bread, dark with high fat seeds and whole kernels, industrially produced",50,5,0.40
+"Walnuts, dried",30,7,1.50
+"Asparagus, canned",100,5,0.60
+"Garlic, dried, powder",3,8,0.50
+"Pizza with broccoli, frozen",350,5,0.70
+"Chickory, raddichio, raw",50,4,0.60
+"Eggs, chicken, dried",20,1,1.00
+"Lobster, raw",150,2,3.00
+"Norway lobster, raw",150,2,2.00
+"Crispbread, knackebrot, wheat, coarse",30,7,0.40
+"Curry powder",5,8,0.50
+"Norway haddock, fillet, raw",150,1,1.00
+"Potato crisps, fatreduced",50,6,1.20
+"Sausage, tongue sausage, saveloy type",100,1,0.80
+"Saithe (UK), pollock (US), fillet, frozen",150,4,0.70
+"Cream, 18 % fat",30,4,0.40
+"Beans, wax, canned",100,3,0.50
+"Wheat bread, with wheat bran",50,8,0.30
+"Pork, ham, cured, canned",100,8,1.00
+"Bread, bolted rye and wheat, sour, with caraway seeds",50,3,0.40
+"Eggs, chicken, long eggs, boiled, frozen",50,1,0.60
+"Blackberry, jam",20,6,0.60
+"Marmalade, mango",20,4,0.60
+"Cream, cultured, 18 % fat",30,5,0.40
+"Bread, wholemeal",50,10,0.30
+"Liver, goose, raw",100,1,2.00
+"Veal, eye of round, salted, boiled",150,3,1.20
+"Chocolate, milk",40,9,1.20
+"Bread, white",50,8,0.20
+"Wheat bread, italien type, industrially produced",50,7,0.40
+"Miso, soy paste",15,3,0.80
+"Beans, green, canned",100,8,0.40
+"Lentils, dried",50,4,0.20
+"Gizzard, chicken, raw",100,1,0.40
+"Kohlrabi, raw",100,3,0.40
+"Watercress, raw",30,2,0.80
+"Salad dressing, soured fresh cream, low calorie",30,6,0.50
+"Eggs, chicken, yolk, dried",10,1,2.00
+"Baguette, wheat, fine, industrially produced",50,8,0.30
+"Potato, canned",150,4,0.40
+"Brazil nuts, dried, raw",30,5,1.50
+"Pork, ham, boiled, sliced",50,9,1.20
+"Charr, raw",150,0,1.50
+"Meat balls, frozen",150,7,0.80
+"Eggs, chicken, pasteurized",50,5,0.50
+"Liver, calf, raw",150,2,0.80
+"Veal, lean meat, raw",150,4,1.50
+"Halibut, atlantic, smoked",100,2,2.00
+"Wheat bread, for toasting, industrially produced",50,7,0.30
+"Pig, fat, raw",15,1,0.30
+"Blackberry, frozen, unsweetened",100,5,0.80
+"Coconut meat, desiccated",15,4,0.50
+"Sweetbread, lamb, raw",150,1,1.50
+"Chicken, hen, flesh only",150,9,0.70
+"Currant, red, jelly",20,4,0.60
+"Halibut, atlantic, raw",150,3,1.80
+"Liver, broiler or fryer, raw",150,2,0.50
+"Trout, raw",150,4,1.00
+"Sweet potato, raw",150,6,0.30
+"Chard, swiss, raw",100,2,0.50
+"Onion, raw",50,10,0.15
+"Strawberry, jam",20,9,0.50
+"Sapodilla, raw",100,0,1.00
+"Coffee, instant, powder",5,6,1.50
+"Cheese, hard, Parmesan, grated",10,8,1.80
+"Rolls, wheat with coarse meal, industrially produced",50,8,0.40
+"Pork, ham, topside (M. Semimembranosus), lean, raw",150,7,1.20
+"Cherry, canned in sugar",100,5,0.50
+"Cod, fillet, fried",150,7,1.20
+"Duck, flesh only, raw",150,3,1.50
+"Turkey, breast, boiled/smoked, sliced",50,8,1.50
+"Pizza with tuna, frozen",350,6,0.80
+"Cream pastry, marzipan- and cocoa-covered",80,5,1.50
+"Turkey, flesh only, raw",150,6,1.00
+"Pork, ham, silverside (M. Semitendinosus), lean, raw",150,7,1.20
+"Loganberries, frozen",100,1,1.00
+"Rye bread, with siftings (soft) and high fat seeds, industrially produced",50,5,0.40
+"Lump, lumpsucker, raw",150,0,0.80
+"Duck, breast, flesh only, raw",150,4,1.80
+"Pork, loin, lean, raw",150,8,1.00
+"Onions, spring, raw",20,8,0.50
+"Liver, ox, raw",150,1,0.50
+"Pork, loin fillet, smoked",150,6,1.50
+"Pastry, napoleon hat",80,3,1.20
+"Wheat bread, with coarse meal, for toasting, industrially produced",50,8,0.40
+"Pork, ham, silverside (M. Biceps Femoris), lean, raw",150,7,1.20
+"Liver, duck, raw",100,1,1.50
+"Marzipanproduct, chocolatecover, average values",40,6,1.50
+"Pork, saddle, smoked, raw",150,5,1.20
+"Pork, saddle, smoked, boiled",150,5,1.30
+"Tuna, in tomato sauce, canned",100,5,0.80
+"Cabbage, savoy, raw",100,5,0.30
+"Asparagus, all types, raw",100,6,1.20
+"Chicken, breast, boiled, sliced",50,9,1.20
+"Lemon peel, raw",5,6,0.50
+"Pistachio nuts, dry roasted with salt",30,7,2.00
+"Cherry juice, concentrated, sugar added",40,4,0.80
+"Currant, red, juice, concentrated, sugar added",40,4,0.80
+"Raspberry juice, concentrated, sugar added",40,6,1.00
+"Strawberry juice, concentrated, sugar added",40,7,0.80
+"Beans, green, raw",100,8,0.50
+"Dill weed, dried",2,4,2.00
+"Bread, white, for sausages",50,7,0.30
+"Celeriac, celery leaves, raw",10,3,0.40
+"Whitefish, raw",150,1,1.00
+"Lingonberry, raw",50,1,1.50
+"Beef, topside, cap off, raw",150,7,1.20
+"Pork, tenderloin, trimmed, raw",150,8,1.20
+"Crispbread, knackebrot, wheat, fine",30,7,0.40
+"Hare, raw",150,2,1.50
+"Rainbow trout, raw",150,1,1.00
+"Coriander seed",2,6,0.50
+"Heart, chicken, raw",100,1,0.40
+"Pork, meat, lean, approx. 3 % fat, raw",150,8,1.00
+"Cod, roe, raw",100,1,0.80
+"Liver, pig, raw",150,2,0.50
+"Crab claws, meat, raw",100,3,2.00
+"Crab claws, meat, canned",100,3,1.80
+"Turkey, flesh and skin, raw",150,6,0.90
+"Bread, white, coarse grain",50,8,0.30
+"Marzipan",30,4,1.00
+"Pork, hand, lean, raw",150,6,0.80
+"Wheat bread, white, with cracked chestnuts",50,2,0.60
+"Elderberry, juice, concentrated, sugar added",40,2,1.00
+"Fennel seed",2,3,0.50
+"Marmalade, English type",20,5,0.50
+"Chicken, flesh only, raw",150,9,0.80
+"Lamb, leg, trimmed, raw",150,4,1.50
+"Whale meat, raw",150,0,1.00
+"Veal, thin fat, raw",150,3,1.20
+"Cauliflower, Danish, raw",150,7,0.40
+"Crab, boiled",100,3,1.80
+"Potato, boiled",200,10,0.15
+"Ptarmigan, flesh, raw",150,0,2.00
+"Marmalade, apricot",20,7,0.50
+"Chocolate, milk, with nuts",40,9,1.20
+"Beef, rumpsteak, cap off, raw",150,7,1.50
+"Pine nuts, dried",15,7,3.00
+"Rabbit, flesh only, raw",150,1,1.50
+"Pepper, hot chili, raw",10,7,0.60
+"Seal meat, loin, raw",150,0,1.00
+"Baguette, with rye, industrially produced",50,7,0.40
+"Cashew nuts, dry roasted",30,8,1.50
+"Rolls, italien type, industrially produced",50,7,0.40
+"Beef, meat, lean (<5 % fat), raw",150,8,1.20
+"Beef, thick flank (top rump), cap off, raw",150,6,1.00
+"Caviar, made from capelin roe",20,1,1.50
+"Breakfast cereal, Guldkorn",40,4,0.60
+"Leek, raw",50,8,0.30
+"Tuna, in water, canned",100,8,0.80
+"Cream pastry, cream puff",80,6,1.00
+"Roastbeef, sliced",50,7,1.50
+"Cream pastry, average values",80,6,1.00
+"Beef, tenderloin, defatted, raw",150,6,2.00
+"Mutton, round, raw",150,1,1.00
+"Dried fig spread",20,2,0.60
+"Coriander, leaf, dried",2,7,0.50
+"Wheat bread, with whole kernels",50,8,0.40
+"Rye bread, fine with wheat flour and high fat seeds, industrially produced",50,5,0.40
+"Rolls, white, industrially produced",50,8,0.30
+"Potato crisps",50,8,1.20
+"Marmalade, orange",20,5,0.50
+"Pork, hind leg without rind, raw",150,7,0.80
+"Lake trout, raw",150,2,1.20
+"Spinach, chopped, frozen",100,8,0.40
+"Pheasant, flesh only, raw",150,1,1.50
+"Yam, raw",150,2,0.40
+"Potato, new (May to September), raw",200,8,0.20
+"Hamburger sandwich with salad and dressing, fast food",300,8,1.20
+"Egg, duck, whole, raw",60,1,0.80
+"Tongue, pig, raw",100,1,0.70
+"Marmalade, kiwi",20,2,0.50
+"Tongue, pig, cured",100,1,0.80
+"Dried fruits spread, average values",20,3,0.60
+"Squab (pigeon), flesh, raw",150,0,2.00
+"Bread, white",50,8,0.20
+"Currant, black, juice, concentrated, sugar added",40,5,1.00
+"Wheat bread, white, with walnuts",50,6,0.60
+"Nut, pea, oilroasted and salted",30,9,0.60
+"Sprat, raw",100,1,0.70
+"Coriander, leaf, raw",5,7,0.50
+"Bamboo shoots, canned, salted",100,4,0.50
+"Bamboo shoots, canned, nonsalted",100,4,0.50
+"Beef, shin + leg (shank), raw",150,5,0.80
+"Beef, striploin ""cap off"", raw",150,6,1.80
+"Dock (US), sorrel (UK), raw",30,1,0.50
+"Cheese, Quarg, 45 % fidm.",50,7,0.60
+"Egg, goose, whole, raw",100,0,1.20
+"Sugar, brown",10,8,0.15
+"Coffee, instant, decaffeinated, powder",5,4,1.80
+"Asparagus, white, raw",100,6,1.00
+"Beef, outside, round, raw",150,6,1.00
+"Raisin , seedless",30,8,0.50
+"Currant, black, jam",20,4,0.60
+"Chicken, leg, flesh and skin, raw",150,8,0.60
+"Marmalade, black currant",20,4,0.60
+"Chicken, drumstick, flesh and skin, raw",150,8,0.60
+"Baguette, wheat with rye, high fat seeds, industrially produced",50,7,0.40
+"Kale, frozen",100,5,0.40
+"Chervil, chopped, frozen",10,2,0.50
+"Beef, eye of round, raw",150,6,1.20
+"Cooking banana, Plantain, raw",120,3,0.30
+"Chewing gum, sugar added, all types",5,8,1.00
+"Cherimoya, raw",100,0,1.50
+"Halibut, greenland, gravad",100,2,2.00
+"Halibut, greenland, raw",150,2,1.80
+"Crispbread, wheat",30,7,0.40
+"Wheat bread, sandwich/toast type, high fat seeds, industrially produced",50,8,0.40
+"Pork, sausage, frankfurter, canned",100,8,0.70
+"Dogfish, piked, raw",150,0,0.90
+"Sweets, boiled",20,7,0.60
+"Tuna, raw",150,5,1.50
+"Turkey, mince, 0-5% fat, raw",150,4,1.00
+"Liqueur, coffee with cream",40,4,1.50
+"Chicken, breast, flesh and skin, raw",150,9,0.80
+"Wiener nougat",30,4,1.20
+"Beef, meat, 5-10 % fat, raw",150,8,1.00
+"Tongue, ox, raw",100,1,0.80
+"Tongue, calf, cured",100,1,1.00
+"Broccoli, boiled",150,8,0.40
+"Marmalade, all types",20,6,0.50
+"Marmalade, cherry",20,6,0.60
+"Herring, breaded, fried, in vinegar with sugar",150,3,0.80
+"Salmon, Atlantic, wild, canned",100,7,2.00
+"Tomato ketchup, hot, bottled",15,7,0.30
+"Horse, meat, raw",150,1,0.80
+"Sardine, in tomato sauce, canned",100,5,0.70
+"Chicken, sausage",100,5,0.70
+"Mushroom, canned",100,6,0.40
+"Wheat bread, white, with sunflower kernels",50,8,0.40
+"Chives, raw",5,7,0.40
+"Kumquats, raw",50,1,1.00
+"Tongue, calf, raw",100,1,0.90
+"Pork, ham, silverside, 2 mm fat, raw",150,7,1.00
+"Pork, ham, spiced, deboned",150,7,1.00
+"Parsnip, raw",100,5,0.40
+"Potato, automn (October to January), raw",200,9,0.15
+"Cassava, raw",150,2,0.30
+"Beef, topside ""cap on"", raw",150,7,1.00
+"Beef, mince, 10-15% fat, raw",150,9,0.80
+"Chewing gum, no sugar added, all types",5,9,1.50
+"Beef, neck, raw",150,6,0.80
+"Pork, mince, 5-10% fat, raw",150,8,0.70
+"Potato, old (February to June), raw",200,9,0.15
+"Bacalao, cod, split, salted and dried, raw",100,2,1.50
+"Pork, collar, defatted, raw",150,6,0.80
+"Jerusalem artichoke, raw",100,3,0.60
+"Liqueur, coffee",40,4,1.50
+"Goose, flesh only, raw",150,1,1.50
+"Bread, white, roll",50,8,0.30
+"Kale, canned",100,2,0.40
+"Spinach, canned",100,4,0.30
+"Chicken, flesh and skin, raw",150,8,0.70
+"Mackerel, in tomato sauce, canned",100,5,0.70
+"Mushroom, raw",100,8,0.60
+"Swiss roll, apricot stuffing",80,5,0.60
+"Beef, rumpsteak ""cap on"", raw",150,7,1.20
+"Biscuit, sweet",30,8,0.50
+"Cress, garden, raw",10,5,0.50
+"Bean sprouts, mung, raw",50,7,0.40
+"Liquorice, sweet",30,9,0.80
+"Marmalade, raspberry",20,7,0.60
+"Pork, ham, silverside with rind, raw",150,7,0.90
+"Herring, pickled, canned",100,5,0.80
+"Parsley root, raw",50,2,0.40
+"Whey, sweet, dried",20,1,0.50
+"Bean sprouts, average values, raw",50,7,0.40
+"Margarine, 30 % fat, vegetable fat",15,7,0.20
+"Beef, shoulder, ventral part",150,6,0.80
+"Cod, roe, smoked",100,1,1.00
+"Pork, sausage, Danish, raw",100,3,0.80
+"Veal, medium fat, raw",150,4,1.20
+"Pork, hand with rind, raw",150,6,0.60
+"Blended spread, 80% fat",15,8,0.30
+"Marshmellows, unspecified",30,5,0.40
+"Pork, meat, approx. 10 % fat, raw",150,8,0.70
+"Pork, brawn, head cheese",50,2,0.60
+"Chicken, wing, flesh and skin, raw",150,7,0.50
+"Wheat bread, high fat seeds, industrially produced",50,8,0.40
+"Sprat (sardine), in tomato sauce, canned",100,1,0.70
+"Lamb, shoulder, raw",150,3,1.00
+"Pheasant, flesh and skin, raw",150,1,1.20
+"Marmalade, strawberry",20,7,0.50
+"Salmon, Atlantic, wild, cold smoked",50,8,2.50
+"Pastilles, sugarfree, unspecified",10,8,1.00
+"Halibut, greenland, smoked",100,2,2.00
+"Pork, loin, defatted (approx. 3 mm fat), raw",150,8,1.00
+"Cauliflower, imported, raw",150,7,0.50
+"Fructose",10,4,0.50
+"Salt, block",5,5,0.05
+"Toffees, mixed",30,6,0.70
+"Liver pâté, pork, Danish",30,8,0.80
+"Apple jelly",20,5,0.50
+"Currant, black, jelly",20,4,0.60
+"Bread, white, roll, coarse grain",50,8,0.30
+"Butter, salt not added",15,7,0.40
+"Goose fat",15,1,0.60
+"Lamb, leg with fat, raw",150,4,1.20
+"Plant margarine, 80%, fry/bake",15,9,0.20
+"Beef, chuck, raw",150,6,0.70
+"Margarine, 80 % fat, table use, soft, vegetable fat",15,9,0.25
+"Pork, ham, smoked, boiled",50,8,1.00
+"Chocolate, bitter",40,8,1.50
+"Soup, tomato, ready to eat",250,8,0.20
+"Herring, pickled, spiced, canned",100,4,0.80
+"Pork, minced and bound with flour and egg, boiled, frozen",150,7,0.70
+"Herring, smoked",100,4,2.00
+"Pork, ham, silverside (M. Biceps Femoris), 5 mm rind, raw",150,7,0.90
+"Salmon, Atlantic, wild, gravad",100,4,2.50
+"Margarine, 80 % fat, table use, vegetable fat",15,9,0.20
+"Anchovy, pickled, canned",30,3,1.50
+"Sprat, pickled, canned",50,1,0.80
+"Margarine, 80 % fat, for frying/baking, animal and vegetable fat",15,9,0.20
+"Chicken, hen, flesh and skin, raw",150,8,0.60
+"Margarine, 80 % fat, table use, animal and vegetable fat",15,9,0.20
+"Beef, brisket, anterior part, raw",150,1,0.70
+"Poularde, flesh and skin, raw",150,7,1.00
+"Beef, shoulder, dorsal part, raw",150,6,0.70
+"Pork, ham sausage",50,7,0.60
+"Margarine, (more than 50 % fat), average",15,9,0.20
+"Cream pastry, with jam, marzipan-covered",80,5,1.50
+"Rolls, wheat with coarse meal, high fat seeds, industrially produced",50,8,0.40
+"Milk, skimmed, organic",250,6,0.15
+"Milk, skimmed",250,6,0.10
+"Bamboo shoots, raw",100,4,0.60
+"Butter, salt added",15,6,0.40
+"Beef, meat, approx. 15 % fat, raw",150,8,0.80
+"Herring, pickled, in madeira sauce, canned",100,3,0.90
+"Passion fruit, raw",50,4,1.50
+"Pork sausage, bierwurst",50,3,0.80
+"Jam, fruit, average values",20,8,0.50
+"Pork, flank, raw",150,6,0.70
+"Swiss roll, raspberry stuffing",80,5,0.60
+"Pork, ham, bayonne style, deboned",100,3,1.50
+"Sugar pea (Snow pea, Mangetout) raw",100,7,1.00
+"Swiss roll, unspecified",80,5,0.60
+"Bread, roll, danish",50,6,0.30
+"Beef, top, end of rump, raw",150,7,1.00
+"Liquorice, average values",30,9,0.80
+"Milk, skimmed, 0.5 % fat",250,6,0.10
+"Beef, mince, 15-20% fat, raw",150,9,0.80
+"Milk, buttermilk with lemon",250,5,0.15
+"Beef, T-bone steak, raw",150,5,2.00
+"Veal and pork, mince, 15-20% fat, raw",150,9,0.90
+"Cream pastry, shortbread with chocolate glaze",80,5,1.20
+"Pork sausage, jagdwurst",50,2,0.80
+"Coffee bean, roasted, ground",10,8,0.80
+"Pork, mince, 15-20% fat, raw",150,8,0.70
+"Pork, thin belly, lean, approx. 2 mm rind, raw",150,6,0.70
+"Herring, pickled, in curry sauce, canned",100,3,0.90
+"Cocoa, instant, med milk, powder",20,7,0.40
+"Plaice, fillet, battered, deepfried",150,7,1.00
+"Rice bran",15,2,0.30
+"Beef, sirloin, raw",150,7,1.50
+"Pastry, garland cake",80,3,1.00
+"Wheat germ, raw",15,4,0.50
+"Haddock, breaded, fried",150,6,0.90
+"Tuna, in oil, canned",100,8,0.80
+"Black salsify, raw",100,1,0.60
+"Mutton, shoulder, raw",150,1,0.80
+"Chicken, flesh and skin, grilled",150,8,0.90
+"Chocolate, plain, couverture",40,6,1.50
+"Frankfurt sausage, boiled, fast food",100,8,0.80
+"Cream pastry, puff pastry with jam",80,5,1.00
+"Dandelion, leaves, raw",30,1,0.50
+"Cinnamon stick",2,6,1.00
+"Syrup, kitchen",15,8,0.30
+"Pate, liver",30,8,0.80
+"Chanterelle, raw",100,3,2.00
+"Pork sausage, saveloy type",100,4,0.80
+"Sapotes, raw",100,0,1.20
+"Pork scratchings",50,3,1.20
+"Pork sausage, malakoff",50,2,0.80
+"Mackerel, filet, in natural juices, canned",100,6,0.80
+"Sandwich, rib roast",250,4,1.50
+"Milk, skimmed, with chocolate",250,6,0.20
+"Milk, skimmed, with chocolate (UHT)",250,6,0.20
+"Beef, striploin ""cap on"", raw",150,6,1.80
+"Cheese, Camembert, 30 % fidm.",50,7,1.20
+"Alfalfa seeds, sprouted, raw",30,5,0.60
+"Pork, meat, approx. 20 % fat, raw",150,8,0.70
+"Liquorice, salt",30,9,0.80
+"Biscuit, 20-30% wholemeal, digestive type",30,8,0.50
+"Pork, loin with rind, raw",150,8,0.90
+"Fruit gums",40,8,0.60
+"Sprat (sardine), in oil, canned",100,1,0.80
+"Sardine, in oil, canned",100,5,0.80
+"Cream Crackers",30,7,0.40
+"Pork, thin belly with rind, raw",150,6,0.70
+"Human milk, colostrum",100,1,0.00
+"Breakfast cereal, Havrefras",40,5,0.50
+"Pork/beef sausage, saveloy type",100,4,0.80
+"Mint jelly",20,1,0.50
+"Herring, autumn, raw",150,6,2.00
+"Baby food, infant formula, low iron content, prepared",250,4,0.50
+"Vecao",20,2,0.30
+"Pork, mettwurst, smoked",50,3,1.00
+"Bacon, sliced, raw",50,8,1.20
+"Sandwich with ham and cheese, toasted, fast food",200,9,1.50
+"Alfalfa seeds",10,3,0.40
+"Pork, sausage, frankfurter",100,8,0.80
+"Salad dressing, mayonnaise",30,8,0.40
+"Rye-flour, bolted (extraction rate 70 %)",75,4,0.20
+"Beef, entrecote ""cap on"", raw",150,6,1.80
+"Kippers, in oil, canned",100,1,0.80
+"Herring, salted, ripened",100,5,2.00
+"Milk, 1.5 % fat, cultured, kefir",250,5,0.15
+"Milk, partly skimmed, organic, 1.5 % fat",250,8,0.15
+"Salad dressing, oil and vinegar",30,8,0.40
+"Nutmeg, whole",2,6,1.00
+"Pork, flank, spiced, cooked",150,4,0.90
+"Brussels sprouts, winter (January to April), raw",100,6,0.50
+"Chervil, raw",10,2,0.60
+"Pork sausage, Thüringer bratwurst",100,2,0.90
+"Peanut butter",30,9,0.40
+"Pork sausage, polony type",50,2,0.70
+"Sweetcorn, kernels, canned",100,7,0.40
+"Apple, dried",40,4,1.00
+"Human milk, transitional (10th day post partum)",100,1,0.00
+"Yogurt, with fruit, 1.5 % fat",200,8,0.30
+"Veal, fat, raw",150,2,0.50
+"Pork, neck, smoked, boiled",100,6,1.00
+"Biscuit, sweet",30,8,0.50
+"Cream, whipping, 38 % fat",30,7,0.40
+"Honey",15,7,0.60
+"Beverages, soy, commercially prepared, unfortified",250,7,0.20
+"Human milk, mature",100,1,0.00
+"Cream, cultured, 38 % fat",30,5,0.50
+"Salmon, Atlantic, wild, salted",100,5,2.50
+"Black pudding, boiled",150,2,0.60
+"Eggs, chicken, yolk, salted, pasteurized",20,3,0.80
+"Charr, fillet, smoked",100,0,2.00
+"Milk, with chocolate, partly skimmed, 1.5 % fat (UHT)",250,6,0.20
+"Gelatin",10,5,0.50
+"Margarine, (less than 50 % fat), average",15,9,0.20
+"Frankfurt sausage, fried, fast food",100,8,0.90
+"Pecans, oil roasted",30,6,2.00
+"Pecans, dry roasted",30,6,2.00
+"Margarine, 40 % fat, vegetable fat",15,9,0.20
+"Brussels sprouts, automn (October to December), raw",100,6,0.50
+"Buckwheat flour",75,4,0.30
+"Yeast, dried",5,4,0.30
+"Squab (pigeon), raw",150,0,2.00
+"Pork, thick belly, defatted, approx. 2 mm rind, raw",150,6,0.70
+"Cheese, processed, 20 % fidm.",30,6,0.70
+"Cheese, firm, Danbo, 20 % fidm.",30,1,0.80
+"Seaweed, kombu, dried",5,1,2.00
+"Milk, with chocolate, partly skimmed, 1.5 % fat",250,6,0.20
+"Cocoa, instant, without milk, powder",20,7,0.40
+"Yeast extract, Marmite",10,1,1.00
+"French fries, deepfried, fast food",150,9,0.60
+"Egg, hen, yolk, sugar added, pasteurized, frozen",20,2,0.50
+"Cheese, firm, 20 % fidm., all varieties",30,8,0.70
+"Cheese, Cream, 60 % fidm.",30,8,0.90
+"Tomato paste, concentrated",15,9,0.30
+"Beans, soy, dried, raw",50,3,0.30
+"Meat extract, cube",5,8,0.80
+"Mackerel, smoked",100,7,1.20
+"Beef brisket, soaked in brine",150,1,0.80
+"Biscuit, sweet",30,8,0.50
+"Rice groats, raw",75,2,0.20
+"Pork, ham, smoked",50,8,1.20
+"Cheese, processed, 30 % fidm.",30,6,0.80
+"Cheese, Brie, 45 % fidm.",50,8,1.20
+"Chicken, flesh and skin, battered, deepfried",150,7,0.90
+"Egg, chicken, yolk, raw",20,6,0.50
+"Beef, meat, approx. 25 % fat, raw",150,8,0.70
+"Beef, brisket, posterior part, raw",150,1,0.70
+"Lamb, meat, average values, raw",150,4,1.20
+"Cheese, Camembert, 45 % fidm.",50,7,1.00
+"Chicken, flesh and skin, deepfried",150,7,0.90
+"Beef, brisket, middle part, raw",150,1,0.70
+"Bucklingpaté (sweet cured herring, smoked)",50,1,0.80
+"Buckwheat groats, raw",75,2,0.30
+"Cheese, semihard, Feta, 50 % fidm",50,7,1.00
+"Cheese, firm, skimmed milk, max. 5 % fidm.",30,6,0.60
+"Tomato puree",50,9,0.30
+"Eel, raw",150,2,2.00
+"Pork, thick belly with rind, raw",150,6,0.60
+"Beef, flatribs (short ribs), raw",150,5,0.60
+"Rice, polished, raw",75,8,0.15
+"Bouillon, beef, concentrated, cube",5,8,0.10
+"Cocoa, powder",10,7,0.50
+"Olives, black, salted, in oil",30,7,0.80
+"Rye flour, bolted (extraction rate 85 %)",75,4,0.20
+"Cheese, firm, Danbo, 30 % fidm.",30,1,0.90
+"Beef, flank, raw",150,6,0.70
+"Tomato ketchup, bottled",15,9,0.20
+"Milk, whole, 3.5, (UHT), % fat",250,5,0.15
+"Milk, whole, organic, 3.5 % fat",250,6,0.15
+"Lamb, loin, raw",150,3,1.50
+"Pork, meat, approx. 32 % fat, raw",150,6,0.60
+"Yoghurt with strawberries",200,8,0.40
+"Rice, parboiled, raw",75,3,0.20
+"Potato flour",20,4,0.20
+"Yoghurt with mixed berries",200,8,0.40
+"Cheese, firm, 30 % fidm., all varieties",30,8,0.80
+"Baby food, infant formula, high iron content, powder",30,4,1.50
+"Peach, dried",40,3,1.00
+"Cheese, Camembert, 50 % fidm.",50,7,1.00
+"Yoghurt with peach melba",200,6,0.40
+"Yoghurt, whole milk, with fruit",200,8,0.40
+"Cheese, firm, Maribo, 30 % fidm.",30,1,0.90
+"Yoghurt with pear and banana",200,6,0.40
+"Yoghurt with cherries",200,6,0.40
+"Milk, acidophilus cultured from whole milk, 3.5% fat",250,5,0.20
+"Poppy seeds",5,5,0.80
+"Barley flour, raw",75,2,0.20
+"Pastilles, sugar added, unspecified",10,8,0.50
+"Pasta, boiled",150,9,0.10
+"Corn flour",75,5,0.15
+"Cheese, semihard, Mozzarella, 30 % fidm.",50,8,0.90
+"Wheat flour",75,8,0.10
+"Eel, smoked",100,5,3.00
+"Cheese, Cream, 70 % fidm.",30,8,1.00
+"Yoghurt with müsli",200,8,0.50
+"Wheat flour, breadmaking (extraction rate 75%)",75,8,0.10
+"Semolina",75,3,0.20
+"Baking powder",5,6,0.20
+"Cheese, Brie, 50 % fidm.",50,8,1.20
+"Peas, green, canned",100,7,0.30
+"Lamb, flank, raw",150,2,0.80
+"Lamb, breast, raw",150,2,0.70
+"Beansprouts, soy, raw",50,5,0.40
+"Cheese, firm, Samsoe, 30 % fidm.",30,1,0.90
+"Goat milk",250,3,0.40
+"Thistle oil",15,2,0.30
+"Oil, corn germ",15,4,0.30
+"Rolls, sweet dough type",50,6,0.50
+"Wheat germ oil",15,2,0.80
+"Oil, cotton seed",15,1,0.30
+"Sorbitol",5,2,0.50
+"Oil, palm",15,2,0.20
+"Oil, cocoa butter",15,2,1.00
+"Mustard powder",5,2,0.50
+"Palm kernel oil",15,2,0.30
+"Peanut oil",15,6,0.40
+"Sunflower oil",15,9,0.20
+"Walnut oil",15,3,1.00
+"Beet, red, danish, raw",100,7,0.30
+"Kale, Danish, raw",100,6,0.50
+"Lettuce, iceberg (incl. crisphead types), danish, raw",100,9,0.30
+"Cod liver oil",5,1,1.00
+"Dumplings, frozen",150,3,0.60
+"Oil, sesame",15,5,0.50
+"Lettuce, iceberg (incl. crisphead types), imported, raw",100,9,0.30
+"Sugar, brown cane sugar",10,8,0.20
+"Corn oil",15,4,0.20
+"Linseed oil",15,3,0.60
+"Rye bread, soft, no high fat seeds, industrially produced",50,5,0.30
+"Wheat bread, italien type, retail bakery",50,7,0.40
+"Oil, grapeseed",15,3,0.50
+"Oil, coconut",15,4,0.40
+"Saithe (UK), pollock (US), liver oil",5,1,1.00
+"Fat, beef tallow",15,1,0.20
+"Soyabean oil, refined",15,5,0.20
+"Fish fillet, breaded, deepfried, fast food",150,7,1.20
+"Olive oil",15,9,0.50
+"Oil, rape seed (no eruca acid)",15,5,0.20
+"Celeriac, celery root, danish, raw",100,5,0.40
+"Arugula, rocket, raw",30,8,1.00
+"Pumpkin seed, dried",30,6,0.80
+"Durum wheat flour",75,6,0.20
+"Wheat bread, white, industrially produced",50,8,0.30
+"Bread, white, large, retail bakery",50,8,0.40
+"Wheat bread, with coarse meal, industrially produced",50,8,0.40
+"Wheat bread, large, with coarse meal, retail bakery",50,8,0.40
+"Tiger prawn, aquaculture, raw, frozen",100,6,2.00
+"Prawn, giant tiger, aquaculture, boiled, frozen",100,6,2.00
+"Salmon, Atlantic, aquaculture, cold smoked",50,8,2.50
+"Salmon, atlantic, aquaculture, hot smoked",100,7,2.50
+"White Wheat, whole grain flour, ready-to-bake",75,7,0.20
+"Butter cookie, wheat, Danish, industrially produced",30,8,0.80
+"American inspired cookie",30,8,0.80
+"Cookies, oat flakes, industrially produced",30,8,0.80
+"Butter cookie, brown, (Danish), industrially produced",30,8,0.80
+"Biscuit, sweet, pepper nuts, Danish tradition, industrially produced",30,8,0.80
+"Cookies, Klenät, industrially produced",30,2,0.80
+"Cookies, low sugar content, industrially produced",30,5,0.90
+"Cookies, coconut, industrially produced",30,6,0.90
+"Cookie, truffle product / unbaked, industrially produced",30,4,1.00
+"Wreath cake, almond based, Danish tradition",50,4,1.50
+"Sweetcorn, baby, on-the-cob, raw",100,5,0.80
+"Pomelo (pommelo; shaddock), raw",150,4,0.80
+"Biscuit, rye",30,4,0.50
+"Biscuit, wheat, sweet with thick chocolate",30,8,1.00
+"Biscuit, double, wheat, sweet",30,8,0.80
+"Biscuit, oat, sweet",30,7,0.60
+"Biscuit, oat, sweet with chokolate",30,8,0.90
+"Granola bar",40,7,1.00
+"Wafer sticks",30,6,0.80
+"Biscuit, coarse grain with fruit and vegetables",30,5,0.70
+"Milk, skimmed, 0.1 % fat",250,6,0.10
+"Yogurt plain, low fat, 1.5 % fat",200,8,0.30
+"Yogurt low fat, 0.1 % fat",200,8,0.30
+"Bread, wheat, white wheat, wholw grain, retail bakery",50,8,0.40
+"Rolls, White Wheat, whole grain, industrially produced",50,8,0.40
+"Bread, wheat, white wheat, wholw grain, industrially produced",50,8,0.40
+"Herring, Baltic Sea, unspecified, raw",150,5,2.00
+"Beef, mince, 5-10% fat, raw",150,9,0.90
+"Pork, mince, 10-15% fat, raw",150,8,0.70
+"Turkey, mince, 5-10% fat, raw",150,6,0.80
+"Hamburger, small patty, salad and dressing, fast food",200,8,1.00
+"Hamburger, medium patty, salad and dressing, fast food",250,8,1.20
+"Hamburger, large patty, salad and dressing, fast food",350,8,1.50
+"Hamburger and bacon, salad and dressing, fast food",300,8,1.50
+"Cheeseburger, salad and dressing, fast food",250,8,1.30
+"Hamburger, bacon and cheese, salad and dressing, fast food",300,8,1.50
+"Hamburger, chicken, salad and dressing, fast food",250,7,1.20
+"Sandwich with chicken, salad and dressing, fast food",250,8,1.50
+"Sandwich with chicken and bacon, salad and dressing, fast food",300,8,1.60
+"Sandwich, ham and cheese, salad and dressing, fast food",250,9,1.30
+"Sandwich with eggs / shrimp, salad and dressing, fast food",250,6,1.20
+"Sandwich with seafood, salad and dressing, fast food",250,5,1.20
+"Sandwich with kebab, salad and dressing, fast food",300,8,1.40
+"Sandwich with roast pork, red cabbage and cucumber pickles, fast food",300,5,1.30
+"Triangle sandwich with chicken and bacon, salad and dressing, fast food",150,7,1.20
+"Triangle sandwich with ham and cheese, salad and dressing, fast food",150,7,1.00
+"Triangle sandwich with eggs, salad and dressing, fast food",150,6,0.90
+"Sandwich with meatball, salad and dressing, fast food",250,8,1.20
+"Pita sandwich with kebab, salad and dressing, fast food",300,8,1.50
+"Pita sandwich with chicken, salad and dressing, fast food",300,8,1.40
+"Pita sandwich with shrimp, salad and dressing, fast food",300,5,1.50
+"Pita sandwich with falafel, salad and dressing, fast food",300,7,1.20
+"Pita sandwich with salad and dressing, fast food",250,6,1.00
+"Dürüm roll with kebab, salad and dressing, fast food",350,8,1.50
+"Bacon-Wrapped Frankfurt sausage, freid, fast food",150,6,1.20
+"French Hotdog, fast food",150,5,1.00
+"Hotdog, fast food",200,7,0.90
+"Frankfurt sausage mix, fried, with frensh fries, fast food",350,8,1.00
+"Kebab mix and french fries, deepfried, fast food",400,8,1.20
+"Chicken, grilled, fast food",250,7,1.00
+"Chicken nuggets, deepfried, fast food",150,8,1.00
+"Pizza with tomato and cheese, fast food",350,8,0.80
+"Pizza with seafood, tomato and cheese, fast food",350,6,1.00
+"Pizza with salami, tomato and cheese, fast food",350,8,0.90
+"Pizza with vegetables, fruit, tomato and cheese, fast food",350,7,0.80
+"Pizza with meat, tomato and cheese, fast food",350,8,1.00
+"Pizza with meat and seafood, tomato and cheese, fast food",350,6,1.10
+"Fish fillet, breaded, fried, delicatessens",150,7,1.00
+"Tuna, yellowfin, raw",150,6,1.50
+"Shrimp, boiled, in brine",100,7,1.50
+"Salmon, atlantic, aquaculture, gravad",100,4,2.50
+"Flounder, fillet, breaded, raw, frozen",150,3,1.00
+"Fish fingers, breaded, frozen",150,8,0.80
+"Salmon, atlantic, aquaculture, raw",150,8,2.50
+"Salmon, pacific, wild, raw",150,7,2.50
+"Striped catfish, raw, frozen",150,4,0.70
+"Blue mussel, boiled",150,6,0.80
+"Eggs, chicken, battery hens, raw",50,9,0.30
+"Eggs, chicken, free-range (outdoor) hens, raw",50,9,0.50
+"Eggs, chicken, free-range hens (indoor), raw",50,9,0.40
+"Eggs, chicken, organic farming, raw",50,9,0.60
+"Eggs, chicken, boiled, frozen",50,1,0.40
+"Eggs, chicken, yolk, pasteurized",20,3,0.50
+"Eggs, chicken, scrambled, industrially produced",150,4,0.70
+"Eggs, chicken, scrambled eggs mix, industrially produced",150,4,0.60
+"Rye bread, dark, industrially produced",50,5,0.30
+"Rye bread, dark, whole grains, industrially produced",50,5,0.40
+"Wheat bread, with coarse meal and high fat seeds, retail bakery",50,6,0.50
+"Rye bread, dark, retail bakery",50,5,0.50
+"Rye bread, dark, whole grains, retail bakery",50,5,0.50
+"Rye bread, dark, with high fat seeds, retail bakery",50,5,0.50
+"Rye bread, with siftings (soft) and high fat seeds, retail bakery",50,5,0.50
+"Yogurt, with fruit, 0.1 % fat, no sugar added",200,8,0.40
+"Cheese, cottage, 10 % fidm.",100,6,0.60
+"Cheese, cottage, 5 % fidm.",100,6,0.60
+"Lactose, dry, powder",10,1,0.50
+"Yogurt, with fruit, 0.4 % fat",200,8,0.40
+"Buttermilk dessert",150,4,0.50
+"Milkshake",300,7,0.70
+"Blended spread, 75% fat",15,8,0.30
+"Blended spread, reduced fat, 57% fat",15,8,0.25
+"Pork, thick flank, completely trimmed, raw",150,6,1.00
+"Pork, thin belly with rind, raw",150,6,0.60
+"Pork, loin, 0-1 mm fat, raw",150,8,1.00
+"Pork, jaw, trimmed, raw",150,2,0.50
+"Oat drink, unfortified",250,7,0.30
+"Rice drink, unfortified",250,5,0.30
+"Almond drink, unfortified",250,6,0.40
+"Skyr, 0.2 % fat",200,8,0.50
+"Galia melon, raw",150,7,0.40
+"Cream pastry, chocolate cream puff",80,6,1.20
+"Caraway seed, raw",2,4,0.50
+"Cumin seeds, raw",2,6,0.50
+"Tahini",15,5,0.80
+"Rice drink, with added calcium",250,5,0.35
+"Oat drink, with added calcium",250,7,0.35
+"Soy drink, with added calcium",250,6,0.35
+"Rolls, italien type, retail bakery",50,7,0.40
+"Wheat bread, pita, white",75,3,0.30
+"Wheat bread, pita, with coarse meal",75,3,0.30
+"Breakfast cereal, with bran",40,6,0.50
+"Sea Buckthorn",50,2,2.00
+"Veal, rump, raw",150,4,1.50
+"Pepper, sweet, yellow, raw",75,8,0.80
+"Spelt wheat flour, bolted",75,4,0.30
+"Spelt wheat flour, whole",75,4,0.30
+"Quinoa, white, raw",75,6,0.50
+"Quinoa, red, raw",75,5,0.50
+"Quinoa, black, raw",75,4,0.50
+"Rye flour, unspecified",75,4,0.20
+"Chia seeds",15,6,1.00
+"Pearled spelt",75,3,0.40
+"Pearled barley",75,2,0.20
+"Oil margarine",15,9,0.20
+"Oil margarine, fortified with A- and D-vitamin",15,9,0.25
+"Plant margarine, 80%, fry/bake, enriched with A- and D-vitamin",15,9,0.25
+"Plant margarine, 80%, fry/bake, enriched with A-vitamin",15,9,0.25
+"Plant margarine, 75%, fry/bake, fortified with A-vitamin",15,9,0.25
+"Plant margarine, 60%, table use, soft, enriched with A-vitamin",15,9,0.25
+"Plant margarine, 40%, table use, soft, enriched with A- and D-vitamin",15,9,0.25
+"Beef, mince, 8-12% fat, raw",150,9,0.85
+"Chicken, mince, 3-10% fat, raw",150,7,0.70
+"Baby spinach, raw",50,8,1.00
+"Salad, romaine, raw",50,8,0.40
+"Squash, red kuri, Danish, raw",100,5,0.40
+"Butternut squash, raw",100,6,0.30
+"Whey protein powder",30,5,2.00
+"Rice cake/cracker, puffed brown rice, plain",15,8,0.50
+"Spinach, whole leaf, frozen",100,8,0.40
+"Cabbage, red, Danish, raw",100,7,0.30
+"Cabbage, pointed, Danish, raw",100,6,0.30
+"Parsnip, Danish, raw",100,5,0.40
+"Veal, top round, raw",150,4,1.50
+"Veal, topside, trimmed, raw",150,4,1.50
+"Veal, heart of rump, trimmed, raw",150,4,1.50
+"Veal, shortloin, raw",150,4,1.80
+"Beef, bottom round, raw",150,6,1.00
+"Beef, flank steak, raw",150,6,1.20
+"Carrots, imported, without peel, raw",100,8,0.20
+"Carrots, Danish, without peel, raw",100,9,0.20
+"Parsnips, imported, raw",100,5,0.40
+"Celery, root, imported, raw",100,5,0.40
+"Cream yoghurt, plain, 10% fat (Greek and Turkish style)",200,8,0.50
+"Cream yoghurt, plain, 2% fat (Greek and Turkish style)",200,7,0.40
+"Milk, acidophilus cultured from partly skimmed milk, 1.5% fat",250,5,0.20
+"Milk, acidophilus cultured from skimmed milk, 0.5% fat",250,4,0.20
+"Pizza topping (Grated cheese, Mozzarella)",50,8,1.20
+"Skinkeost 30+ (Processed cheese with ham)",30,6,1.00
+"Rejeost, light, 8% fat, (Processed cheese with shrimp)",30,5,1.00
+"Feta, 5% (Salad cheese)",50,7,0.80
+"Cheese, Cream, 30-40 % fidm.",30,8,0.90
+"Cheese, Cream, 45-55 % fidm.",30,8,1.00
+"Cheese, Brie, 11%",50,7,1.20
+"Goat cheese, soft, 45-55% fidm.",30,6,1.50
+"Goat cheese, in brine, 20-25%",50,5,1.20
+"Goat cheese, hard, 45% fidm.",30,4,1.80
+"Cheese, firm, 6%/10% fidm.",30,5,0.70
+"Cheese, firm, 45% fidm., Danish",30,10,1.00
+"Cheese, firm, 50% fidm., Danish",30,10,1.10
+"Veal, brisket, raw",150,1,0.80
+"Beef, brisket, boneless, raw",150,1,0.80
+"Cold cuts, with wheat protein",50,4,1.00
+"Seitan",100,2,1.20
+"Mince, with mycoprotein",150,4,1.20
+"Mince, with soy protein",150,7,1.00
+"Mince balls, with soy protein",150,6,1.00
+"Pieces, with soy protein",150,6,1.00
+"Cold cuts, with soy and pea protein",50,5,1.00
+"Mince, with pea protein",150,5,1.00
+"Sausage, with pea protein",100,5,1.00
+"Cold cuts, with eggwhite",50,3,1.00
+"Pieces, with mycoprotein",150,4,1.20
+"Sausage, with soy protein",100,6,1.00
+"Beef, entrecote/rib eye, raw",150,6,2.00
+"Aronia berries",50,1,1.20
+"Oatmilk, with added calcium and vitamins",250,7,0.30
+"Almondmilk, with added calcium",250,6,0.40
+"Lentils, red, dried, raw",50,5,0.20
+"Lentils, green, dried, raw",50,4,0.20
+"Beans, white, dried, raw",50,4,0.20
+"Beans, red kidney, dried, raw",50,5,0.20
+"Chickpeas, dry, raw",50,6,0.20
+"Le Puy green lentil, dried, raw",50,3,0.40
+"Lentils, beluga, dried, raw",50,3,0.40
+"Edamame beans (Soy beans), shelled, frozen",100,4,0.80
+"Lentils, green, boiled, canned",100,4,0.40
+"Baked beans (white beans in tomato sauce)",150,6,0.30
+"Chili beans (red kidney beans in chilisauce)",150,5,0.40
+"Beans, red kidney, boiled, canned",100,6,0.40
+"Beans, red kidney, cooked, ready to eat",100,6,0.40
+"Chickpeas, boiled, canned",100,6,0.40
+"Chickpeas, steamed, ready to eat",100,6,0.50
+"Beans, black, boiled, canned",100,4,0.40
+"White beans, dried and boiled",100,4,0.40
+"Beans, red kidney, dried and boiled",100,5,0.40
+"Blueberries, frozen",100,7,1.20
+"Raspberries, frozen",100,7,1.20
+"Strawberries, frozen",100,5,0.60
+"Sweet corn kernels, frozen",100,6,0.40
+"Peas, green, frozen",100,8,0.40
+"Green beans (haricots verts), frozen",100,7,0.40
+"Cauliflower, frozen",150,6,0.40
+"Broccoli, frozen",150,7,0.50
+"Brussel sprouts, frozen",100,5,0.50
+"Soup vegetables, frozen",150,7,0.40
+"Root vegetables, frozen",150,6,0.40
+"Mango, frozen",100,6,0.80
+"Pomegranate seeds, frozen",50,4,1.50
+"Pineapple, frozen",100,6,0.60
+"Mixed berries. frozen",100,7,1.00
+"Baby carrots, frozen",100,6,0.40
+"Leek, frozen",50,6,0.40
+"Avocado, frozen",100,6,1.00
+"Wok mix, organic, frozen",150,7,0.60
+"Wok mix, frozen",150,7,0.50
+"Pearl onion. frozen",50,4,0.50
+"Bean mix, frozen",100,6,0.50
+"Root vegetable fritters, frozen",150,4,0.60
+"Sweet potato fries, frozen",150,7,0.60
+"Potato wedges, frozen",150,8,0.50
+"Halved potatoes, frozen",150,8,0.40
+"Curly fries, frozen",150,7,0.60
+"Potato rösti, frozen",150,6,0.60
+"Potato croquettes, frozen",150,6,0.60
+"Steak fries (thick fries with skin), frozen",150,8,0.50
+"French fries, crinkle-cut, frozen",150,9,0.50
+"Blueberries, raw",100,7,1.50
+"Blackberry, raw",100,6,1.50
+"Raspberry, raw",100,7,1.50
+"Apricot, raw",100,6,0.80
+"Plum, raw",100,7,0.50
+"Peach, raw",150,7,0.50
+"Cherry, raw",100,7,1.00
+"Pineapple, raw",150,8,0.50
+"Grapefruit, raw",150,6,0.40
+"Melon, honeydew, raw",150,7,0.40
+"Kiwi fruit, raw",100,8,0.50
+"Mango, raw",150,8,0.60
+"Water, tap water",250,10,0.00
+"Lolland raisins (beige-brown pea), dried",50,1,0.50
+"Pineapple juice",250,6,0.20
+"Orange juice",250,8,0.20
+"Grapefruit juice",250,5,0.25
+"Prune juice",250,2,0.30
+"Apple juice",250,8,0.15
+"Mixed fruit juice",250,7,0.20
+"Carrot juice",250,4,0.30
+"Tomato juice",250,4,0.30
+"Mixed vegetable juice",250,3,0.30
+"Mixed fruit and vegetable juice",250,4,0.30
+"Fruit smoothie",250,7,0.60
+"Fruit and vegetable smoothie",250,6,0.60
+"Mixed fruit cordial base, sugar added, dilution: 1+4",40,8,0.40
+"Mixed fruit cordial base, sugar added, dilution: 1+5",40,8,0.40
+"Cranberry cordial base, artificial sweetener added, dilution: 1+4",40,5,0.50
+"Mixed fruit cordial base, artificial sweetener added, dilution: 1+4",40,7,0.50
+"Mixed fruit cordial base, sugar and artificial sweetener added, dilution: 1+4",40,7,0.50
+"Fruit juice, sugar added",250,7,0.20
+"Fruit juice, artificial sweetener added",250,6,0.20
+"Pear cider, sugar added, alcohol<0.7%",250,4,0.50
+"Apple cider, sugar added, alcohol<0.7%",250,5,0.50
+"Pear cider, artificial sweetener added, alcohol<0.7%",250,3,0.50
+"Peach Icetea, sugar added",250,8,0.20
+"Lemon Icetea, sugar added",250,8,0.20
+"Peach Icetea, artificial sweetener added",250,7,0.20
+"Peach Icetea, sugar and artificial sweetener added",250,7,0.20
+"Lemon Icetea, sugar added, powder",20,4,0.30
+"Soft drink, sugar added",250,8,0.15
+"Soft drink, artificial sweetener added",250,8,0.15
+"Soft drink, sugar and artificial sweetener added",250,8,0.15
+"Soft drink, not carbonated, sugar added, ready to drink",250,7,0.15
+"Concentrated soft drink, not carbonated, sugar added, dilution 1+3",50,6,0.50
+"Concentrated soft drink, not carbonated, sugar added, dilution 1+4",50,7,0.50
+"Concentrated soft drink, not carbonated, sugar added, dilution 1+5",40,7,0.50
+"Concentrated soft drink, not carbonated, sugar added, dilution 1+7",30,7,0.50
+"Concentrated soft drink, not carbonated, sugar added, dilution 1+9",25,7,0.50
+"Concentrated soft drink, not carbonated, artificial sweetener added, dilution 1+4",50,6,0.50
+"Concentrated soft drink, not carbonated, artificial sweetener added, dilution 1+5",40,6,0.50
+"Concentrated soft drink, not carbonated, artificial sweetener added, dilution 1+9",25,6,0.50
+"Concentrated soft drink, not carbonated, artificial sweetener added, dilution 1+11",20,5,0.50
+"Concentrated soft drink, not carbonated, sugar and artificial sweetener added, dilution 1+7",30,6,0.50
+"Concentrated soft drink, not carbonated, sugar and artificial sweetener added, dilution 1+11",20,5,0.50
+"Beer, lager, alc. 4-5 % by vol.",330,9,0.30
+"Beer, amber lager, alc. 4-5 % by vol.",330,6,0.40
+"Beer, strong lager, alc. 5-6 % by vol.",330,7,0.50
+"Beer, strong lager, alc. 7-8 % by vol.",330,7,0.60
+"Beer, lager, alc. 2-3 % by vol.",330,4,0.30
+"Beer, lager, alcohol free",330,7,0.30
+"Dark malt beer (Oud bruin type dark sweet beer), alc. 1-2 % by vol.",330,3,0.40
+"Beer, brown ale, alc. 5-7 % by vol.",330,5,0.50
+"Beer, blonde ale, alc. 6-7 % by vol.",330,7,0.50
+"Beer, wheat, German weissbier style, alc. 4-6 % by vol.",330,6,0.50
+"Beer, wheat, Belgian witbier style, alc. 5-6 % by vol.",330,7,0.60
+"Imperial stout, alc. 8% vol.",330,4,0.80
+"Beer, Danish Christmas, alc. 5-6 % vol.",330,0,0.60
+"Dried ham, Serrano",30,7,2.50
+"Dried ham, Black forest",30,6,2.50
+"Pork, loin without rind, dry aged",150,4,1.50
+"Chocolate ice cream",100,8,0.80
+"Chocolate ice cream, sugar free",100,4,1.00
+"Chocolate ice cream, vegan",100,3,1.20
+"Strawberry ice cream",100,7,0.80
+"Caramel ice cream",100,7,0.80
+"Nougat ice cream",100,6,1.00
+"Sorbet, raspberry",100,6,0.90
+"Stracciatella ice cream",100,7,0.80
+"Vanilla ice cream, <50% cream",100,8,0.70
+"Vanilla ice cream, >50% cream",100,8,1.00
+"Vanilla ice cream, without cream",100,5,0.50
+"Vanilla ice cream, vegan",100,4,1.00
+"Lemonade popsickle",80,7,0.50
+"Lemonade popsickle with coating",80,6,0.70
+"Stick ice cream, vanilla with chocolate coating",80,8,1.00
+"Stick ice cream, vanilla with chocolate and almond coating",80,8,1.20
+"Stick ice cream, vanilla with lemonade coating",80,5,0.80
+"Stick ice cream, vanilla with blackcurrant and chocolate coating",80,5,1.00
+"Ice cream bar, waffle vanilla ice cream with strawberry sauce and chocolate coating",100,7,1.20
+"Waffle ice cream cone, vanilla with chocolate coating and nuts",100,8,1.50
+"Chicken mayonnaise salad, light",100,6,0.80
+"Chicken mayonnaise salad",100,8,0.90
+"Ham mayonnaise salad, light",100,5,0.80
+"Ham mayonnaise salad",100,6,0.90
+"Tuna mayonnaise salad",100,7,0.90
+"Italian mayonnaise salad",100,4,0.80
+"Egg mayonnaise salad",100,7,0.70
+"Chicken and bacon mayonnaise salad",100,6,1.00
+"Horseradish cream salad",30,3,0.60
+"Curry mayonnaise salad",50,6,0.60
+"Shellfish mayonnaise salad",100,5,1.20
+"Salad dressing, thousand island",30,6,0.50
+"Salad dressing, sour creme",30,6,0.50
+"Salad dressing, garlic",30,7,0.50
+"Fastfood dressing, burger",30,8,0.50
+"Pesto, peper",15,4,1.50
+"Aioli",15,7,0.80
+"Pesto alla genovese",15,8,1.50
+"Pesto, tomato (Pesto rosso)",15,7,1.50
+"Salad dressing, Cæsar",30,6,0.60
+"Salad dressing, Italian",30,6,0.50
+"Salad dressing, Honey/Mustard",30,7,0.50
+"Mayonnaise",15,9,0.30
+"Mayonnaise, low fat",15,6,0.40
+"Mayonnaise, chili",15,7,0.50
+"Mayonnaise, vegan",15,5,0.60
+"Remoulade",15,3,0.40
+"Remoulade, fatreduced",15,2,0.40
+"Pizza with ham and pineapple, fast food",350,7,0.80
+"Pizza with kebab, salad and dressing, fast food",350,8,1.00
+"Spring roll with vegetables, deepfried, fast food",150,7,0.70
+"Rice, boiled",150,9,0.10
+"Shawarma kebab meat, takeaway",200,8,1.50
+"Sushi, takeaway",250,7,2.00
+"Wakame seaweed salad with sesame seeds, takeaway",100,5,1.50
+"Butter chicken, takeaway",350,6,1.20
+"Salad with chicken, takeaway",300,7,1.20
+"Pad Thai with shrimp, takeaway",350,5,1.20
+"Red curry chicken, takeaway",350,6,1.20
+"Stir fried beef, takeaway",350,6,1.50
+"Energy drink, sugar added",250,8,0.40
+"Energy drink, sugar free",250,7,0.40
+"Energy drink, with sugar and artificial sweetener",250,6,0.40
