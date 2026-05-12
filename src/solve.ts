@@ -8,20 +8,20 @@ import {
 } from "./config";
 import { getFood } from "./utils";
 
-const PIECEWISE_PENALTY_THRESHOLDS: Record<string, number> = {
+export const PIECEWISE_PENALTY_THRESHOLDS: Record<string, number> = {
   Sodium: 1500,
   "Sum saturated fatty acids": 15,
   "Sum trans fatty acids": 0,
   "Added Sugar": 25,
 };
 
-const TOXIN_WEIGHTS: Record<string, number> = {
-  Lead: 10,
-  Cadmium: 10,
-  Arsenic: 10,
+export const TOXIN_WEIGHTS: Record<string, number> = {
+  Lead: 1,
+  Cadmium: 1,
+  Arsenic: 1,
 };
 
-const BONUS_TARGETS: Record<string, number> = {
+export const BONUS_TARGETS: Record<string, number> = {
   "Dietary fibre": 40,
   "C18:3,n-3": 3,
   Potassium: 4700,
@@ -33,10 +33,10 @@ const BONUS_TARGETS: Record<string, number> = {
   "Vitamin E": 30,
 };
 
-const PER_ITEM_PENALTY = 0.4;
+const PER_ITEM_PENALTY = 0.8;
 
 const COST_REFERENCE = 10;
-const COST_WEIGHT = 0.4;
+const COST_WEIGHT = 1;
 
 export async function solve(
   glpk: GLPK,
