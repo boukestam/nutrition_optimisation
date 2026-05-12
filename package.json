@@ -1,7 +1,8 @@
 {
   "scripts": {
-    "start": "tsx src/main.ts",
-    "test": "tsx src/test.ts"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "dependencies": {
     "@types/node": "^25.6.2",
@@ -9,6 +10,14 @@
     "glpk.js": "^5.0.0",
     "highs": "^1.8.0",
     "javascript-lp-solver": "^1.0.3",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
     "tsx": "^4.21.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.1",
+    "vite": "^8.0.12"
   }
 }
