@@ -1,5 +1,5 @@
 import GLPKLoader from "glpk.js";
-import { loadFoods } from "./loader";
+import { loadFrida, loadNevo } from "./loader";
 import { addSupplements } from "./supplements";
 import {
   BANNED_FOOD_GROUPS,
@@ -19,18 +19,31 @@ import {
 } from "./analyse";
 import { DietInspector } from "./diet-inspector";
 
+type Dataset = "frida" | "nevo";
+
 interface FoodOptions {
+  dataset: Dataset;
   vegan: boolean;
   supplements: boolean;
 }
 
 async function loadAndFilterFoods(options: FoodOptions) {
-  let foods = await loadFoods();
+  let foods = [];
+
+  if (options.dataset === "frida") {
+    foods = await loadFrida();
+  } else if (options.dataset === "nevo") {
+    foods = await loadNevo();
+  } else {
+    throw new Error("Dataset not implemented: " + options.dataset);
+  }
 
   let bannedGroups = BANNED_FOOD_GROUPS;
 
   if (options.vegan) {
     bannedGroups = bannedGroups.concat(VEGAN_GROUPS);
+
+    foods = foods.filter((food) => !food.hasAnimalProtein);
   }
 
   foods = foods.filter(
@@ -91,6 +104,7 @@ export default function App() {
     number
   > | null>(null);
   const [options, setOptions] = useState<FoodOptions>({
+    dataset: "nevo",
     vegan: false,
     supplements: false,
   });
@@ -123,6 +137,17 @@ export default function App() {
             <h2 className="text-xs font-medium text-gray-500 uppercase tracking-wide">
               Options
             </h2>
+            <SelectRow
+              label="Dataset"
+              value={options.dataset}
+              options={[
+                { value: "nevo", label: "NEVO 2025" },
+                { value: "frida", label: "Frida 5.5" },
+              ]}
+              onChange={(v) =>
+                setOptions({ ...options, dataset: v as Dataset })
+              }
+            />
             <ToggleRow
               label="Vegan"
               checked={options.vegan}
@@ -238,6 +263,35 @@ function ToggleRow({
         onChange={(e) => onChange(e.target.checked)}
         className="w-4 h-4 accent-gray-900 cursor-pointer"
       />
+    </label>
+  );
+}
+
+function SelectRow({
+  label,
+  value,
+  options,
+  onChange,
+}: {
+  label: string;
+  value: string;
+  options: { value: string; label: string }[];
+  onChange: (v: string) => void;
+}) {
+  return (
+    <label className="flex items-center justify-between cursor-pointer text-sm">
+      <span>{label}</span>
+      <select
+        value={value}
+        onChange={(e) => onChange(e.target.value)}
+        className="text-sm border border-gray-200 rounded px-2 py-0.5 bg-white cursor-pointer focus:outline-none focus:ring-1 focus:ring-gray-400"
+      >
+        {options.map((o) => (
+          <option key={o.value} value={o.value}>
+            {o.label}
+          </option>
+        ))}
+      </select>
     </label>
   );
 }

@@ -1,0 +1,2329 @@
+"Food","Portion_g","Usual_Score","Cost_USD_per_100g"
+"Potatoes raw",200,8,0.20
+"Potatoes new raw",200,6,0.30
+"Potatoes old raw",200,8,0.15
+"Pasta white raw",100,9,0.30
+"Rice white raw",75,8,0.25
+"Endive raw",150,7,0.40
+"Endive boiled",200,8,0.40
+"Asparagus white raw",200,5,1.50
+"Aubergine/eggplant raw",150,6,0.50
+"Aubergine/eggplant boiled",150,6,0.50
+"Beetroot raw",150,6,0.30
+"Celery boiled",150,5,0.40
+"Cauliflower raw",200,8,0.35
+"Cauliflower boiled",200,8,0.35
+"Kale curly boiled",250,9,0.40
+"Mushrooms chanterelle raw",100,4,1.80
+"Mushrooms chanterelle boiled",100,4,1.80
+"Mushroom raw",100,8,0.60
+"Mushroom boiled",100,8,0.60
+"Cabbage Chinese raw",150,6,0.35
+"Cabbage Chinese boiled",150,6,0.35
+"Peas raw",150,7,0.50
+"Cabbage green raw",150,5,0.30
+"Cabbage green boiled",200,6,0.30
+"Celeriac boiled",150,5,0.40
+"Cucumber wo skin raw",100,7,0.30
+"Cucumber boiled",100,2,0.30
+"Swede boiled",150,3,0.35
+"Kohlrabi boiled",150,4,0.40
+"Sweet pepper green raw",100,8,0.60
+"Sweet pepper green boiled",100,7,0.60
+"Raisins dried",30,7,0.60
+"Mange-tout raw",100,5,1.20
+"Purslane boiled",150,4,0.70
+"Leek boiled",150,8,0.35
+"Turnip tops raw",150,4,0.50
+"Turnip tops boiled",150,4,0.50
+"Rhubarb raw",150,5,0.60
+"Cabbage red raw",150,7,0.25
+"Cabbage red boiled",200,8,0.25
+"Salsify raw",150,2,0.80
+"Lettuce butterhead raw",100,8,0.40
+"Lettuce butterhead boiled",100,1,0.40
+"Swiss chard leaf boiled",150,3,0.60
+"Beans runner raw",150,6,0.50
+"Beans French raw",150,8,0.50
+"Spinach raw",150,8,0.45
+"Spinach boiled",200,8,0.45
+"Cabbage oxheart raw",150,4,0.30
+"Cabbage oxheart boiled",150,4,0.30
+"Brussel sprouts boiled",200,8,0.45
+"Sweetcorn boiled",150,7,0.50
+"Bean sprouts raw",50,6,0.40
+"Bean sprouts boiled",50,7,0.40
+"Tomatoes classic round raw",100,9,0.40
+"Tomatoes classic round boiled",100,7,0.40
+"Beans broad raw",150,5,0.60
+"Onions raw",50,9,0.20
+"Onions boiled",50,8,0.20
+"Lettuce lambs raw",50,6,1.00
+"Chicory raw",100,6,0.45
+"Chicory boiled",150,7,0.45
+"Cabbage white raw",100,7,0.20
+"Cabbage white cooked",150,6,0.20
+"Carrot raw av",100,9,0.20
+"Carrot boiled av",150,8,0.20
+"Cabbage sauerkraut raw",150,7,0.35
+"Cabbage sauerkraut cooked",200,8,0.35
+"Vegetable mix for soup raw",150,8,0.50
+"Flour rice",50,4,0.35
+"Egg whole chicken av raw",50,9,0.45
+"Egg whole chicken av boiled",50,9,0.45
+"Egg yolk chicken raw",20,6,0.60
+"Egg yolk chicken boiled",20,5,0.60
+"Egg powder chicken",10,1,1.50
+"Horse meat raw",100,1,2.00
+"Mutton >10g fat raw av",125,3,1.80
+"Brains calf's raw",100,1,1.50
+"Duck w skin raw",125,4,2.20
+"Hare whole raw",150,2,2.50
+"Chicken w skin raw",150,8,1.00
+"Rabbit domesticated raw",125,2,2.00
+"Rabbit wild raw",125,2,2.50
+"Mussels boiled",250,6,0.80
+"Eel raw",100,3,3.50
+"Herring raw",100,8,1.50
+"Fish lean 0-5 g fat raw av",125,7,2.00
+"Fish fat >5 g fat raw av",125,7,2.50
+"Beans white/ brown dried",75,6,0.40
+"Peas green dried",75,5,0.40
+"Peas marrowfat dried",75,5,0.40
+"Lentils green and brown dried",75,6,0.45
+"Potatoes mashed fresh prep w semi-skimmed milk and margarin",250,9,0.25
+"Crisps potato av",40,8,1.20
+"Radish raw",30,7,0.60
+"Radish black raw",30,2,0.80
+"Cress garden raw",10,5,1.50
+"Vegetables mixture raw av",150,8,0.40
+"Parsley fresh",5,8,2.00
+"Asparagus white tinned",150,4,0.80
+"Gherkins sour pickled",30,7,0.50
+"Gherkins sweet pickled",30,8,0.50
+"Mushroom tinned",100,6,0.45
+"Peas medium fine tinned",150,7,0.35
+"Peas super fine tinned",150,6,0.40
+"Peas and carrots tinned",150,7,0.35
+"Olives green in brine tinned/glass",30,7,0.80
+"Beans runner tinned",150,5,0.40
+"Beans French tinned",150,7,0.40
+"Spinach tinned",150,3,0.35
+"Tomato puree concentrated tinned",15,8,0.40
+"Beans broad tinned",150,4,0.40
+"Carrot tinned",150,5,0.30
+"Silver-skin onion sweet pickled glass",30,7,0.60
+"Cabbage red glass",150,8,0.35
+"Spinach frozen boiled",200,8,0.40
+"Apple wo skin av",150,9,0.25
+"Strawberries",100,8,0.80
+"Apricots w skin",100,6,0.60
+"Pineapple",150,7,0.50
+"Banana",120,9,0.20
+"Blueberries",100,7,1.20
+"Redcurrants",100,5,1.00
+"Blackcurrants",100,4,1.00
+"Bilberries",100,3,1.20
+"Cowberries",100,2,1.50
+"Blackberries",100,6,1.20
+"Lemon",20,8,0.40
+"Cranberries fresh",50,4,1.00
+"Grapes w skin av",150,8,0.50
+"Raspberries",100,7,1.50
+"Grapefruit",150,5,0.35
+"Cherries sweet",100,6,0.80
+"Gooseberries",100,3,1.00
+"Manderins",100,8,0.35
+"Melon netted",150,7,0.40
+"Cherries sour",100,4,0.80
+"Pear wo skin",150,8,0.30
+"Peach wo skin",150,7,0.45
+"Plums w skin",100,6,0.40
+"Orange",150,8,0.25
+"Fruit fresh citrus av",150,8,0.30
+"Fruit fresh av excl citrus",150,8,0.40
+"Strawberries in syrup tinned",100,4,0.50
+"Apricots dried",30,5,1.20
+"Apricots in syrup tinned",100,5,0.50
+"Pineapple in syrup tinned",100,6,0.45
+"Apples dried",30,4,1.50
+"Apple sauce tinned",150,8,0.30
+"Bilberries in syrup tinned",100,2,0.80
+"Dates dried",30,6,1.00
+"Raspberries in syrup tinned",100,3,0.80
+"Fruit cocktail in syrup tinned",100,5,0.50
+"Cherries in syrup tinned",100,4,0.60
+"Currants dried",30,6,0.80
+"Tangerines in syrup tinned",100,5,0.50
+"Pear dried",30,2,1.50
+"Pears in syrup tinned",100,5,0.50
+"Peaches in syrup tinned",100,6,0.45
+"Prunes",30,5,1.00
+"Plums in syrup tinned",100,3,0.50
+"Fruit mixed dried",30,4,1.20
+"Figs dried",30,5,1.20
+"Fruit in syrup tinned",100,5,0.50
+"Infant food fruit 8 months",150,1,1.50
+"Peas marrowfat canned",150,5,0.35
+"Beans white baked in tomato sauce canned",200,6,0.40
+"Almonds blanched unsalted",30,7,1.80
+"Cashew nuts unsalted",30,8,2.00
+"Hazelnuts unsalted",30,7,2.00
+"Chestnuts raw",50,2,1.50
+"Coconut meat",30,4,1.00
+"Brazil nuts unsalted",30,5,2.50
+"Peanuts unsalted",30,8,0.80
+"Mixed nuts and raisins",30,8,1.20
+"Walnuts unsalted",30,7,2.00
+"Nuts mixed unsalted",30,8,1.80
+"Flour buckwheat",50,4,0.60
+"Breakfast cereal Cornflakes Kellogg's",40,6,0.80
+"Custard powder",20,5,0.60
+"Barley pearl raw",50,2,0.40
+"Oat flakes",40,8,0.30
+"Corn starch",10,8,0.40
+"Blancmange powder to cook pudding",25,5,0.80
+"Flour rye",50,3,0.40
+"Flour rye wholemeal",50,3,0.40
+"Tapioca pearls dry",30,2,0.80
+"Flour wheat white",50,8,0.20
+"Flour wheat wholemeal",50,8,0.20
+"Binding agents av",10,7,0.80
+"Breakfast cereal porridge Olvarit fijne granen 6+ months",30,1,1.50
+"Breakfast cereal whole grain for porridge",40,6,0.50
+"Potato starch",10,6,0.40
+"Crispbakes Dutch white",20,8,0.80
+"Crackers cream",20,7,0.80
+"Crispbread av",20,8,0.70
+"Wheat bread roll white soft",50,8,0.50
+"Wheat germ",15,4,1.00
+"Danish pastry",70,6,1.50
+"Wheat currant bread white",70,7,0.60
+"Biscuit Liga Baby 6-12 months",15,1,1.50
+"Biscuit Liga 12-36 months",15,1,1.50
+"Wheat bread brown",70,9,0.35
+"Crackers Matzes",20,4,1.00
+"Cake Dutch spiced Ontbijtkoek",40,8,0.50
+"Wheat bread white milk based",70,8,0.40
+"Rye bread wholemeal",50,6,0.50
+"Rye wheat bread brown",70,5,0.40
+"Wheat raisin bread white",70,7,0.60
+"Wheat bread wholemeal av fine and coarse",70,9,0.40
+"Wheat bread white water based",70,8,0.35
+"Wheat malt bread brown",70,7,0.45
+"Puff pastry filled w almond paste",100,6,1.50
+"Apple pie Dutch w shortbread wo butter",100,7,1.20
+"Biscuit",20,8,0.80
+"Cake wo butter",40,6,0.80
+"Cake sponge Dutch Eierkoek",40,7,0.70
+"Gateau w whipped cream",100,5,1.50
+"Gateau w butter-cream filling",100,4,1.50
+"Almond paste filled tarts av",50,6,1.20
+"Biscuit av",20,8,0.80
+"Coconut macaroons",30,6,1.00
+"Biscuit sponge fingers",20,5,0.80
+"Biscuit spiced Speculaas av",20,9,0.60
+"Biscuit Dutch shortbread sprits",20,7,0.80
+"Biscuit brown/wholemeal",20,7,0.80
+"Biscuit salted",20,7,0.90
+"Puff pastry wo butter baked",30,5,1.00
+"Snack sausage roll puff pastry",80,8,1.00
+"Pretzel sticks",30,7,0.80
+"Prawn crackers natural",20,8,1.20
+"Milk raw",200,2,0.20
+"Coffee creamer Becel",10,6,0.80
+"Milk chocolate-flavoured full fat",200,6,0.25
+"Milk chocolate-flavoured low fat",200,8,0.25
+"Coffee creamer powder",5,7,0.80
+"Custard chocolate full fat",150,6,0.35
+"Yoghurt full fat",200,8,0.30
+"Milk whole",200,8,0.15
+"Coffee creamer full fat",10,7,0.50
+"Milk condensed w sugar",15,4,0.60
+"Custard vanilla full fat",150,7,0.30
+"Yoghurt low fat w fruit",200,8,0.35
+"Coffee creamer half fat",10,8,0.50
+"Milk semi-skimmed",200,10,0.15
+"Porridge oatmeal prepared w whole milk unsweetened",250,6,0.20
+"Buttermilk",200,7,0.15
+"Porridge buttermilk w wheat flour white",250,3,0.20
+"Topping dessert powder w sugar Klop-Klop",15,4,1.20
+"Coffee creamer low fat",10,6,0.50
+"Coffee creamer",10,8,0.50
+"Milk skimmed",200,6,0.15
+"Milk skimmed dried",20,2,1.00
+"Milk whole dried",20,2,1.20
+"Milk human",200,1,0.00
+"Porridge rice",200,4,0.25
+"Cream whipping unprepared",30,8,0.60
+"Yoghurt Bulgarian whole milk",200,4,0.35
+"Yoghurt low fat",200,8,0.25
+"Ice cream dairy av",100,7,0.80
+"Cheese Swiss dried",30,3,2.00
+"Quark low fat",150,8,0.30
+"Quark half fat",150,6,0.35
+"Quark full fat",150,7,0.40
+"Oil peanut",15,5,0.60
+"Butter unsalted",15,8,0.80
+"Oil soya",15,3,0.40
+"Lard",15,2,0.50
+"Beef fat",15,3,0.60
+"Oil sunflower seed",15,9,0.30
+"Corned beef",30,4,1.00
+"Pheasant whole raw",150,1,3.00
+"Sausage Dutch Frikandel deep-fried in liquid fat",85,8,0.80
+"Sausage smoked cooked av",100,8,1.20
+"Croquette meat ragout deep-fried in liquid fat",70,8,1.00
+"Ham smoked raw",30,6,1.80
+"Turkey raw",125,5,1.20
+"Liver ox boiled (processed meat product)",30,3,1.00
+"Liver pork boiled (processed meat product)",30,3,1.00
+"Liver pate",30,7,1.20
+"Luncheon meat tinned",30,4,0.80
+"Partridge raw",125,1,3.50
+"Beef salted cooked",30,4,1.50
+"Venison raw",125,2,3.00
+"Beef smoke-dried",30,6,2.50
+"Bacon fat smoked raw",30,5,1.20
+"Processed meat products av",30,8,1.50
+"Kipper smoked",100,3,1.20
+"Shrimps Dutch boiled",50,5,3.00
+"Herring fillet in tomato sauce tinned",100,4,1.00
+"Herring salted",100,7,1.50
+"Crab in water tinned",50,4,2.50
+"Lobster boiled",100,1,5.00
+"Mackerel raw",100,5,1.20
+"Oysters",100,2,4.00
+"Sardines/pilchards in oil tinned",100,4,1.00
+"Liver haddock tinned",50,2,2.00
+"Stockfish soaked",100,1,1.50
+"Egg white chicken raw",30,6,0.40
+"Spring roll deep-fried in vegetable oil",150,7,0.80
+"Infant food meal 8 months",200,1,1.20
+"Sugar castor brown",10,7,0.30
+"Sugar castor white",10,6,0.25
+"Sugar granulated",10,8,0.15
+"Syrup Keukenstroop",20,8,0.40
+"Syrup sugar",20,6,0.40
+"Advocaat liqueur",30,4,1.50
+"Juice apple",200,8,0.20
+"Fruit juice drink redcurrent",200,5,0.25
+"Gin Dutch red currant flavoured",35,3,2.50
+"Fruit juice drink blackcurrant",200,6,0.25
+"Juice redcurrant",200,4,0.30
+"Beer old brown",300,4,0.30
+"Beer pilsner",330,9,0.30
+"Brandy",35,3,3.00
+"Campari",35,2,3.00
+"Gin Dutch lemon flavoured",35,3,2.50
+"Cognac",35,3,4.00
+"Soft drink w sugar w caffeine",250,8,0.20
+"Juice grape",200,5,0.25
+"Fruit juice drink raspberry",200,5,0.25
+"Soft drink m sugar wo caffeine",250,8,0.20
+"Gin young Dutch",35,5,2.00
+"Gin old Dutch",35,4,2.20
+"Liqueur 15-25 vol% alcohol",35,4,2.50
+"Muscatel",100,2,1.50
+"Port wine",50,5,1.50
+"Rum",35,4,2.50
+"Sherry",50,4,1.20
+"Juice orange pasteurized",200,8,0.20
+"Tomato juice",200,4,0.25
+"Vermouth",50,3,1.50
+"Brandy Dutch vieux",35,4,2.00
+"Juice drink w sugar",200,7,0.20
+"Whisky",35,5,3.50
+"Wine red",150,8,0.80
+"Wine white dry",150,8,0.80
+"Softdrink w milk serum and sweetener Rivella",250,7,0.25
+"Syrup apple rinse",20,7,0.40
+"Sauce barbecue",20,6,0.50
+"Stock cube",5,9,1.00
+"Cocoa powder",5,7,1.00
+"Chocolate milk",200,8,0.25
+"Chocolate dark",30,8,1.20
+"Chocolate flakes milk",15,8,1.00
+"Chocolate butter",15,3,1.50
+"Chocolate flakes dark",15,8,1.00
+"Spread chocolate hazelnut",15,8,0.80
+"Sauce cocktail/party/table 25% oil",20,6,0.60
+"Gelatin",5,4,2.00
+"Ginger stem in syrup tinned",15,3,1.50
+"Yeast extract Marmite",5,2,2.00
+"Coloured sprinkles fruit-flavoured",15,7,0.80
+"Honey",15,7,0.80
+"Spread chocolate dark",15,6,0.80
+"Jam",15,8,0.50
+"Chewing gum",3,7,2.00
+"Chewing gum wo sugar",3,8,2.00
+"Coconut bread sweetened sliced",15,5,0.80
+"Sweets boiled",20,6,1.00
+"Mayonnaise",20,9,0.50
+"Peppermint",10,7,1.50
+"Piccalilly",20,4,0.60
+"Peanut butter",15,9,0.60
+"Jam rose hip w vit C",15,3,0.80
+"Salad cream 25% oil",20,6,0.50
+"Toffees",20,5,1.20
+"Ketchup tomato",20,8,0.40
+"Fruit drink concentrate undiluted",20,8,0.60
+"Spread sweet av",15,7,0.60
+"Sauce for chips 25% oil",20,8,0.40
+"Sauce for chips 35% oil",20,7,0.45
+"Pancake homemade prepared w margarin",150,8,0.30
+"Cream slice Dutch Tompouce",100,7,1.20
+"Pork Chinese style Babi pangang wo rice",150,8,1.50
+"Chinese noodle dish Bami goreng wo egg",250,8,0.80
+"Fried rice Nasi goreng w egg",250,8,0.80
+"Chop-suey Indonesian wo rice",200,6,1.00
+"Foe jung hai filled omelet wo rice",150,6,1.20
+"Doughnut Dutch style filled w currants and raisins",80,6,1.00
+"Liver chicken raw",100,4,0.80
+"Buttermilk w fruit",200,5,0.25
+"Biscuit filled chocolate coated",25,8,1.00
+"Biscuit shortbread Bastogne",20,8,1.00
+"Sweets marshmallow type Spekkie",20,6,1.20
+"Fruit spread reduced sugar",15,6,0.60
+"Ice cream dairy/non dairy cornet w chocolate and nuts",100,8,1.20
+"Flan w fruit filling",120,7,1.20
+"Candybar Mars",50,8,1.50
+"Blancmange powder instant chocolate",25,6,0.80
+"Flan filled w rice pudding",120,6,1.00
+"Fruit drink concentrate fruit mix w rose hip",20,6,0.60
+"Fruit drink concentrate Roosvicee Fruitkracht Ferro",20,4,0.80
+"Fruit drink concentrate Roosvicee Fruitkracht Pruimen",20,3,0.80
+"Cheese Edam 40+",30,8,1.20
+"Cheese Gouda 48+ av",30,10,1.20
+"Cheese 20+ Leidse w cumin/Fries clove",30,5,1.30
+"Cheese spread 48+ full fat",15,7,1.00
+"Cheese spread 40+",15,7,1.00
+"Cheese spread 20+",15,6,1.00
+"Liquorice Dutch type salted",30,8,0.80
+"Liquorice Dutch type double salted",30,6,0.80
+"Liquorice Dutch type sweet",30,9,0.80
+"Liquorice Stophoest",15,5,1.50
+"M&M's chocolate",40,8,1.50
+"Candybar Milky Way",40,7,1.50
+"Candybar Bounty",50,7,1.50
+"Candybar Snickers",50,8,1.50
+"Bakery mix for pancakes",50,8,0.40
+"Bakery mix for Dutch little pancakes poffertjes",50,7,0.50
+"Blancmange chocolate",150,6,0.40
+"Cocoa powder sweetened",15,7,0.80
+"Rhubarb puree w sugar",100,5,0.60
+"Sauce fruit for pudding",20,5,0.60
+"Sauce chocolate for pudding",20,6,0.60
+"Peanut butter w peanut pieces",15,8,0.70
+"Peanuts coated",30,7,1.00
+"Sauce tomato based shashlik",20,6,0.50
+"Topping dessert w sugar whipped KlopKlop",20,4,1.00
+"Cheese Camembert 45+",30,7,1.50
+"Celery raw",100,5,0.40
+"Celeriac raw",100,4,0.40
+"Swede raw",100,2,0.30
+"Kohlrabi raw",100,3,0.40
+"Purslane raw",100,3,0.60
+"Leek raw",100,8,0.35
+"Swiss chard leaf raw",100,2,0.60
+"Brussel sprouts raw",150,7,0.40
+"Sausage frankfurter tinned",70,7,0.80
+"Sausage luncheon meat",30,6,0.80
+"Black pudding",50,2,1.00
+"Candybar Nuts",50,6,1.50
+"Sandwich spread original",15,7,0.60
+"Salad Russian",50,6,0.80
+"Ketchup hot chilli",15,7,0.50
+"Ketchup curry",15,8,0.40
+"Wheat bran",15,4,0.40
+"Breakfast cereal All-Bran Plus Kellogg's",40,5,0.80
+"Cheese Brie 50+",30,8,1.50
+"Cocoa product powder Ovomaltine",15,3,1.20
+"Crispbread gold-brown",20,6,0.80
+"Water 0-50 mg calcium p litre",250,9,0.00
+"Water 50-100 mg calcium p litre",250,9,0.00
+"Water >100 mg calcium p litre",250,9,0.00
+"Oil olive",15,9,0.80
+"Salmon tinned",100,6,2.00
+"Eel smoked",50,5,4.00
+"Mackerel steamed",100,6,1.50
+"Porridge non-dairy barley w raisins Bessola",150,4,0.40
+"Oil Becel Blend Classic",15,7,0.60
+"Oil safflower",15,2,0.80
+"Oil corn",15,3,0.50
+"Rice ball spiced frozen deep fried in vegetable oil",100,7,1.20
+"Chinese noodle ball deep-fried in vegetable oil",100,8,1.20
+"Peanut sauce ready-to-eat",50,8,0.60
+"Cocktail snacks based on potatoes Nibb-it",30,7,1.20
+"Cocktail snacks Wokkels",30,7,1.20
+"Crisps potato straws av",30,7,1.20
+"M&M's chocolate w peanuts",40,8,1.50
+"Blancmange instant various flavours powder",25,5,0.80
+"Popcorn plain popped wo oil",30,6,0.60
+"Meringue cake Bokkenpootje",25,7,1.50
+"Coconut flavoured cookies",20,6,1.00
+"Biscuit Dutch Krakeling",20,6,1.00
+"Biscuit muesli",20,6,1.00
+"Salami sausage saveloy",30,8,1.20
+"Bacon rasher streaky",30,7,1.20
+"Liver sausage",30,8,0.80
+"Bacon",30,8,1.20
+"Pate",30,8,1.20
+"Pork side cured and smoked",30,5,1.50
+"Coffee prepared",150,10,0.50
+"Tea prepared",150,10,0.20
+"Cabbage red w apple pieces frozen boiled",200,7,0.35
+"Spinach creamed frozen boiled",200,8,0.40
+"Breakfast cereal Rice Krispies Kellogg's",40,5,0.80
+"Cheese cottage",50,6,0.80
+"Crispbakes Dutch wholemeal/multigrain",20,7,0.80
+"Yoghurt drink",200,8,0.30
+"Rice white boiled",200,8,0.25
+"Pasta white av boiled",200,9,0.30
+"Beans brown canned",150,7,0.40
+"Juice grapefruit",200,4,0.30
+"Plantain ripe raw",150,3,0.40
+"Cassava raw",150,2,0.50
+"Taro raw",150,1,0.60
+"Yam raw",150,2,0.60
+"Tannia raw",150,1,0.80
+"Potato sweet raw",150,6,0.40
+"Black nightshade raw",100,1,1.00
+"Mustard leaves raw",100,1,0.80
+"Antroewa raw",100,1,1.00
+"Dagoe leaf raw",100,1,1.00
+"Kaisoi raw",100,2,0.80
+"Amaranth leaves raw",100,1,1.00
+"Beans long yard Kousenband raw",100,5,0.60
+"Okra raw",100,3,0.80
+"Bottlegourd poeng",100,1,1.00
+"Pumpkin raw",150,5,0.30
+"Bitter gourd pods raw",100,2,0.80
+"Tannia leaves raw",100,1,1.00
+"Beans black eyed dried",75,3,0.50
+"Peas split yellow/green dried",75,6,0.30
+"Avocado",100,7,1.00
+"Guava (pink fleshed)",100,2,1.20
+"Lime",20,6,0.80
+"Mango",150,7,0.80
+"Papaya",150,3,1.00
+"Tamarind",20,2,1.50
+"Flour cassava",50,2,0.60
+"Flour corn",50,4,0.30
+"Cassava cake Bojo Surinam",100,3,1.20
+"Beef salted raw Surinam",50,3,2.00
+"Beef salted dried Surinam",30,2,3.00
+"Shrimps salted dried",15,3,4.00
+"Cod dried salted",50,3,2.50
+"Shrimp paste trassie",5,5,2.00
+"Rice brown raw",75,6,0.30
+"Waffle syrup av",30,8,0.80
+"Cheese Roquefort",30,5,2.50
+"Cheese Saint Paulin/Port Salut",30,6,1.50
+"Chocolate milk w hazelnuts",30,7,1.20
+"Cheese Parmesan",15,8,2.50
+"Cheese cream soft Mon Chou",30,7,1.00
+"Cheese Limburger",30,2,1.50
+"Cheese Gruyere",30,5,1.80
+"Cheese Emmenthaler",30,6,1.50
+"Cheese Cheddar",30,6,1.20
+"Cheese Bluefort",30,4,1.80
+"Chocolate w liqueur",20,4,2.00
+"Cheese cream soft Boursin",30,8,1.50
+"Mayonnaise low fat 40% oil",20,8,0.40
+"Blancmange vanilla",150,7,0.40
+"Potatoes mashed instant prepared average",200,6,0.30
+"Mineral water sparkling and not sparkling av",250,8,0.15
+"Flan filling tinned",100,5,0.60
+"Marshmallows",30,6,1.00
+"Liquorice allsorts",30,7,1.00
+"Wine gum/ fruit gum",30,8,1.00
+"Soup clear w vegetables and noodles",250,7,0.40
+"Soup clear w meat (beef/chicken)",250,7,0.50
+"Soup clear w vegetables",250,7,0.40
+"Soup clear w meat (beef/chicken) and noodles",250,8,0.50
+"Soup clear w meat (beef/chicken) and vegetables",250,8,0.50
+"Soup clear w meat (beef/chicken) vegetables and noodles",250,8,0.50
+"Soup thickened w vegetables",250,7,0.45
+"Soup thickened w meat (beef/chicken)",250,7,0.55
+"Soup main course w legumes wo meat",300,6,0.40
+"Soup main course w legumes and meat",300,8,0.50
+"Mousse chocolate home-made",100,7,0.80
+"Sausage spiced and smoked",100,8,1.20
+"Sausage w smoked bacon-bits",100,6,1.20
+"Ham lean boiled",30,8,1.50
+"Ham shoulder medium fat boiled",30,7,1.20
+"Ragout w meat all types",150,6,1.00
+"Goulash",200,6,1.20
+"Cake butter Dutch Boterkoek",40,7,1.00
+"Almond paste w egg",30,5,1.50
+"Soup clear w noodles",250,6,0.35
+"Soup thickened w meat (beef/chicken) and vegetables",250,8,0.50
+"Sausage incl liver products av",30,7,1.00
+"Soup vegetable based dried packet prep",250,7,0.20
+"Soup meat based dried packet prepared",250,7,0.25
+"Soup legume based dried packet prepared",250,5,0.25
+"Soup vegetable based ready-to-eat",250,8,0.40
+"Soup meat based ready-to-eat",250,8,0.50
+"Soup legume based ready-to-eat",250,7,0.45
+"Cheese sheep fresh",30,5,1.80
+"Jagermeister herb liquor",35,5,2.50
+"Fruit spread w sweetener",15,5,0.80
+"Santen creamed coconut block",15,4,1.50
+"Beef steak tartare spiced filet americain",30,8,1.50
+"Pasta wholemeal raw",100,7,0.35
+"Cream sour",30,7,0.60
+"Plaice raw",125,6,2.00
+"Fish fingers fried in sunflower oil",100,8,1.00
+"Fish fingers unprepared",100,8,0.80
+"Plaice fried",125,6,2.50
+"White fish fillet in batter deep-fried in vegetable oil",125,7,1.80
+"Cod boiled",125,7,2.50
+"Cod raw",125,7,2.20
+"Bloater fried",100,2,1.50
+"Pepper black/white",1,9,4.00
+"Mustard",10,8,0.50
+"Nutmeg powder",1,8,5.00
+"Cinnamon",1,8,3.50
+"Cumin seed dried",1,6,3.00
+"Cloves",1,5,4.00
+"Chives fresh",5,7,2.50
+"Garlic raw",5,9,1.00
+"Chervil fresh",5,2,3.00
+"Ginger root",5,6,1.50
+"Apple strudel",100,5,1.20
+"Cheesecake made w quark",120,6,1.50
+"Shortbread",30,6,1.00
+"Sesame seeds wo hull",10,6,1.50
+"Beans soya dried",75,3,0.50
+"Salt fortified w iodine",2,9,0.10
+"Stock powder",5,8,1.00
+"Snack sausage roll w bread dough frozen prepared in oven",80,7,0.80
+"Salad dressing natural wo oil",30,6,0.40
+"Candybar Twix",50,8,1.50
+"Millet raw",75,3,0.40
+"Grapefruit in syrup canned",100,4,0.60
+"Fennel raw",150,4,0.60
+"Vegetables mixed pickled Atjar tjampoer glass",50,7,0.50
+"Sweet pepper pickled glass",50,4,0.80
+"Salad celeriac",50,4,0.80
+"Gado gado wo rice and wo egg",200,5,1.00
+"Gateau fatless sponge w fruit & cream",100,6,1.80
+"Biscuit spiced Speculaas w almond paste",40,8,1.00
+"Rosti unprepared",150,6,0.50
+"Madeira",50,2,1.50
+"Gravy instant powder",5,7,1.50
+"Seasoning flavoured liquid",10,7,1.00
+"Seasoning flavoured powder",5,8,1.50
+"Juice beetroot",200,3,0.40
+"Milkshake w fresh fruit",250,5,0.60
+"Yoghurt full fat w fruit",200,8,0.35
+"Satay chicken w peanut sauce prepared",150,8,1.50
+"Sweets fruit pectinbased",20,6,1.20
+"Linseeds",10,6,0.80
+"Flour soya",50,2,0.60
+"Drink soya wo sugar",200,5,0.25
+"Miso soya paste",15,4,2.00
+"Sunflower seeds",20,6,1.00
+"Biscuit w currants Liga Evergreen",30,7,0.80
+"Apple w skin av",150,9,0.25
+"Peanuts salted",30,8,0.80
+"Croissants canned baked",50,6,0.80
+"Butter salted",15,7,0.80
+"Fat for gravy unprepared Smeltjus",15,6,0.60
+"Cheese Kernhem 60+",30,5,1.80
+"Cheese Old Amsterdam 48+",30,8,2.00
+"Sweet pepper red raw",100,9,0.60
+"Sweet pepper red boiled",100,7,0.60
+"Satay pork w peanut sauce prepared",150,7,1.50
+"Vol -au-vent shell made w butter",30,6,1.50
+"Vol -au-vent shell wo butter",30,5,1.20
+"Snack sausage roll w bread dough pastry",80,8,1.00
+"Forcemeat balls for soup canned",50,7,0.80
+"Blancmange raspberry w red currant sauce",150,5,0.50
+"Quark half fat w fruit",150,6,0.40
+"Plaice boiled",125,4,2.00
+"Pollock (Atlantic) boiled",125,5,1.50
+"Broccoli boiled",200,9,0.40
+"Broccoli raw",150,6,0.40
+"Courgettes raw",150,7,0.50
+"Juice pear",200,4,0.35
+"Cake Dutch spiced Ontbijtkoek wholemeal",40,7,0.60
+"Cheese 20+ low sodium",30,3,1.50
+"Cheese 40+ low sodium",30,3,1.50
+"Chocolate milk sugar-free",200,4,0.30
+"Wine medicinal pleegzusterbloedwijn",50,1,1.50
+"Quark low fat w fruit",150,8,0.40
+"Blancmange semolina w red currant sauce",150,4,0.40
+"Blancmange vanilla w strawberry sauce",150,6,0.40
+"Croquette Dutch Bitterbal prepared in oven",50,7,1.20
+"Croquette meat ragout prepared in oven",70,7,1.20
+"Rosti prepared wo fat",150,6,0.60
+"Yeast fresh",10,3,0.80
+"Beans French boiled",200,8,0.45
+"Kale curly frozen boiled",200,8,0.35
+"Peas frozen boiled",150,8,0.40
+"Beans French frozen boiled",150,7,0.40
+"Asparagus white boiled",200,6,1.50
+"Beetroot boiled",150,7,0.30
+"Kale curly raw",150,4,0.35
+"Salsify boiled",150,2,0.80
+"Beans runner boiled",200,6,0.45
+"Beans broad boiled",200,5,0.50
+"Peas fresh boiled",150,7,0.50
+"Mange-tout boiled",150,5,1.00
+"Courgettes boiled",150,8,0.45
+"Fennel boiled",150,4,0.60
+"Peas marrowfat boiled",150,5,0.40
+"Lentils green and brown boiled",150,6,0.40
+"Beans soya boiled",150,3,0.40
+"Peas green boiled",150,6,0.40
+"Crispbread sesame",20,7,0.80
+"Crispbread lightweight",20,6,0.90
+"Sports food energy bar Isostar",40,3,2.50
+"Potatoes wo skin boiled av",200,9,0.20
+"Soup vegetable based low sodium prepared",250,4,0.40
+"Pomegranate",100,5,1.00
+"Dairy dessert w cream",150,7,0.60
+"Figs fresh",50,4,1.50
+"Rye bread wholemeal low sodium",50,2,0.60
+"Bread crumbs",15,8,0.30
+"Rice brown boiled",200,6,0.30
+"Bulgur wheat raw",75,6,0.35
+"Wheat rye bread wholemeal",70,6,0.45
+"Rye flakes",40,3,0.40
+"Buckwheat groats",75,2,0.50
+"Flour wheat self-raising",50,8,0.25
+"Artichoke raw",150,3,1.00
+"Cripsbakes Dutch low sodium",20,3,0.90
+"Flour rice fortified w vit B1",50,2,0.40
+"Yeast dried",7,6,1.50
+"Kiwi fruit green",100,8,0.60
+"Kaki / Sharon fruit",100,5,0.80
+"Preparation glucose powder",10,2,1.00
+"Preparation ORS Orisel-Junior p 100 ml Nutricia",100,1,1.50
+"Preparation ORS Orisel p 100 ml Nutricia",100,1,1.50
+"Passion fruit",30,4,2.00
+"Kefir",200,5,0.35
+"Dandelion leaves raw",50,1,1.50
+"Lychees",50,4,1.20
+"Pate vegetarian based on nutritional yeast",30,4,1.50
+"Peas chick boiled",150,7,0.30
+"Salmon smoked",50,8,3.50
+"Caviar",15,1,20.00
+"Squid raw",100,4,1.50
+"Kumquat",30,2,1.50
+"Herring pickled (sweet)sour",100,6,1.20
+"Snails",50,1,3.00
+"Cheese smoked 45+",30,6,1.50
+"Melon water",150,7,0.40
+"Melon honeydew",150,6,0.45
+"Cheese Rambol",30,3,2.00
+"Cheese spread 60+ Kiri",15,5,1.20
+"Cheese Stilton",30,3,2.50
+"Cheese Camembert 30+",30,4,1.50
+"Cheese raw milk 48+",30,6,1.80
+"Cheese 48+ low sodium",30,3,1.50
+"Melon in syrup canned",100,3,0.60
+"Peas extra fine low sodium tinned",150,3,0.50
+"Juice lemon fresh",15,7,0.50
+"Juice tomato/vegetable",200,4,0.30
+"Mushroom low sodium tinned",100,2,0.50
+"Berenburg herb liquor",35,4,2.00
+"Endive frozen unprepared",200,5,0.35
+"Peas and carrots frozen unprepared",150,6,0.30
+"Vegetable mixed Mexico frozen unprepared",150,6,0.40
+"Beans runner frozen unprepared",150,4,0.40
+"Vegetables mixture for soup frozen unprepared",150,7,0.35
+"Spinach cut frozen unprepared",200,7,0.35
+"Brussel sprouts frozen boiled",200,6,0.40
+"Beans broad frozen unprepared",150,4,0.40
+"Potatoes slices/parts frozen unprepared",150,8,0.25
+"Processed meat products >30 g fat av",30,6,1.50
+"Sausage salami",30,8,1.20
+"Meatloaf (processed meat product)",30,6,1.00
+"Juice tomato/vegetable low sodium",200,2,0.35
+"Gherkins sweet pickled low sodium",30,2,0.60
+"Onion silver-skin sweet pickled low sodium glass",30,2,0.70
+"Onion silverskin sweet pickled wo sugar glass",30,3,0.70
+"Gherkins pickled wo sugar",30,4,0.60
+"Cucumber sliced pickled glass",30,5,0.50
+"Sausage cooked",30,7,1.00
+"Processed meat products 20-30 g fat av",30,8,1.20
+"Processed meat products 10-20 g fat av",30,7,1.20
+"Apple sauce wo sugar tinned",150,6,0.35
+"Bamboo shoots tinned",50,4,0.80
+"Processed meat products <10 g fat av",30,7,1.50
+"Salt low sodium LoSalt",2,4,0.40
+"Soy sauce salt Ketjap",15,8,0.60
+"Soy sauce sweet low sodium Ketjap",15,4,0.70
+"Soy sauce sweet Ketjap",15,9,0.60
+"Monosodium glutamate Ve-tsin",2,5,0.80
+"Basil dried",1,7,4.00
+"Chilli powder",1,8,3.00
+"Curry powder djawa",2,7,3.00
+"Chervil dried",1,2,4.00
+"Pepper red cayenne",1,7,3.50
+"Marjoram dried",1,4,4.00
+"Mustard low sodium",10,2,0.60
+"Oregano dried",1,8,4.00
+"Paprika powder",1,9,3.00
+"Parsley dried",1,7,4.00
+"Rosemary dried",1,6,4.00
+"Pepper red hot paste",10,8,0.80
+"Pepper red hot paste low sodium",10,3,0.90
+"Pepper red hot fried paste",10,6,1.00
+"Celery leaves fresh",5,5,1.50
+"Lemon grass powder",1,4,5.00
+"Liver sausage coarse hausmacher",30,6,1.00
+"Liver pate sausage",30,7,1.20
+"Fruit in own juice tinned",100,6,0.50
+"Crispbread high fibre",20,7,0.80
+"Mackerel in water tinned",100,4,1.20
+"Marzipan",30,5,1.50
+"Mayonnaise product w yoghurt",20,6,0.60
+"Infant formula Nutrilon 1 p 100 ml",100,1,0.50
+"Infant food meal 6 months",150,1,1.20
+"Infant food meal 15 months",200,1,1.20
+"Infant food fruit 4 months",100,1,1.50
+"Infant food vegetables 4 months",100,1,1.50
+"Fruit drink w dairy Taksi w sugar",200,6,0.25
+"Bacon fat smoked prepared",30,6,1.50
+"Cheese cream soft Paturain",30,7,1.50
+"Chicken wo skin raw",150,9,1.00
+"Chicken for soup w skin raw",150,6,0.80
+"Plaice fillet fried/simmered",125,6,2.20
+"Chocolate sprinkles av",15,9,0.80
+"Crispbread Cracottes naturel",20,7,1.00
+"Egg whole chicken fried in margarine",50,8,0.50
+"Cod fillet fried/simmered",125,7,2.50
+"Chicken wo skin grilled",125,8,1.20
+"Biscuit Liga Haverkick",30,5,1.00
+"Minced beef/pork shallow fried",100,9,1.20
+"Breakfast cereal porridge Olvarit tarwe en rogge 8+ months",30,1,1.50
+"Biscuit Liga Evergreen assortment",30,7,1.00
+"Wheat bread white Turkish",70,7,0.40
+"Turkish Delight",30,4,1.50
+"Baklava nut-honey cake",50,5,2.00
+"tulumba tatlisi fried eclair Turkish",50,3,1.80
+"Sausage dry sucuk Turkish",30,6,1.50
+"Sausage salam Turkish",30,4,1.20
+"Chick peas roasted leblebi Turkish",30,3,1.00
+"Grape leaves glass",50,3,1.20
+"Vegetables pickled Turkish Tursu",50,4,0.80
+"Minced beef kofte Turkish prepared",100,6,1.50
+"Minced mutton prepared Kofte Turkish",100,4,1.80
+"Vegetable dish w meat turlu Turkish prep",200,3,1.00
+"Dessert soya fortified w calcium and vitamins",150,5,0.60
+"Drink soya w sugar fortified w calcium and vitamins",200,6,0.30
+"Cheese 30+ av",30,7,1.20
+"Liquorice Dutch type av",30,9,0.80
+"Minced beef ball prepared w egg/crumbs",100,9,1.20
+"Bacon lean prepared",30,8,1.50
+"Chicken fillet prepared",125,9,1.20
+"Onions fried in vegetable oil",30,7,0.50
+"Rye bread wholemeal/rye wheat bread brown av",50,6,0.50
+"Tomatoes stewed w vegetable oil",100,5,0.60
+"Kale curly glass",150,4,0.40
+"Lettuce iceberg raw",50,9,0.40
+"Beef rump steak raw",125,6,2.50
+"Beef tenderloin steak raw",125,5,3.50
+"Beef prime rib raw",125,4,2.00
+"Beef frying steak raw",125,7,2.00
+"Minced beef raw",100,9,1.00
+"Beef rib raw",125,5,1.80
+"Liver ox raw",100,3,0.80
+"Beef stewing meat raw",125,7,1.50
+"Beef sirloin rolled raw",125,4,2.00
+"Beef roast raw",125,5,2.20
+"Beef shank raw",125,4,1.50
+"Beef rib steak raw",125,5,2.50
+"Beef streaked/marbled raw",125,4,1.80
+"Beef stewing steak raw",125,7,1.50
+"Beef steak tartare raw",100,6,1.50
+"Beef tongue raw",100,2,1.50
+"Sausage pork Braadworst raw",100,8,1.20
+"Pork fillet raw",125,7,1.50
+"Pork fricandeau part of leg raw",125,5,1.20
+"Pork chop raw",125,8,1.20
+"Minced pork raw",100,8,0.90
+"Pork tenderloin raw",125,7,1.80
+"Pork gammon steak raw",125,5,1.20
+"Pork loin chop raw",125,7,1.20
+"Pork shoulder chop raw",125,6,1.10
+"Liver pork raw",100,3,0.70
+"Pork spare rib raw",150,6,1.00
+"Pork tenderloin medaillon raw",125,6,1.80
+"Pork shoulder raw",125,5,1.00
+"Kromesky meat filled raw",80,4,1.20
+"Bacon rasher raw",30,7,1.00
+"Minced beef/pork raw",100,9,1.00
+"Hamburger raw",100,8,1.20
+"Veal prime rib raw",125,3,2.50
+"Veal olive raw",125,3,2.50
+"Veal fricandeau raw",125,3,2.50
+"Liver calf's raw",100,2,1.50
+"Veal shank raw",125,3,2.00
+"Tongue calf raw",100,1,2.00
+"Sweetbread raw",100,1,3.00
+"Lamb leg raw",125,4,2.00
+"Minced lamb raw",100,4,1.50
+"Lamb chop raw",125,5,2.20
+"Lamb saddle raw",125,2,2.50
+"Lamb shoulder raw",125,3,1.80
+"Chocolate dark sugar-free",30,3,2.00
+"Chocolate milk w hazelnuts wo sugar",30,2,2.00
+"Beetroot pickled glass",50,5,0.40
+"Potato puree powder av",30,6,0.60
+"Chips pre-fried frozen unprepared",150,8,0.30
+"Potatoes fried",150,8,0.30
+"Seitan seasoned",100,4,1.50
+"Wheat currant bread wholemeal",70,5,0.60
+"Cake Dutch spiced Ontbijtkoek w ginger",40,6,0.60
+"Sesame paste tahin salt added",15,4,1.50
+"Juice pineapple",200,5,0.30
+"Fruit juice drink minimal 2 fruits",200,7,0.30
+"Milk chocolate-flavoured semi-skimmed",200,7,0.25
+"Liqueur <15 vol% alcohol",35,4,2.00
+"Liqueur >25 vol% alcohol",35,4,2.50
+"Beer >7 vol% alcohol",330,7,0.40
+"Cream custard",150,6,0.40
+"Berliner pastry",70,4,1.00
+"Biscuit w chocolate",20,8,1.00
+"Butter cream",30,3,1.50
+"Doughnut plain",60,5,1.00
+"Ice lolly",50,7,0.80
+"Eclair w whipped cream filling",80,5,1.50
+"Meringue w butter-cream",50,3,1.50
+"Biscuits sugar-free",20,4,1.20
+"Flan fruit and crumble topping",120,6,1.20
+"Cheesecake made w cream cheese",120,6,1.50
+"Biscuit Jaffa cakes/Cake PiM's",20,6,1.00
+"Rice cakes puffed natural w (sea)salt",15,7,1.00
+"Kale curly w mashed potato wo meat prepared",300,8,0.30
+"Onions crisp fried ready-to-eat",15,6,1.20
+"Hotchpotch carrots/onions wo meat prepared",300,8,0.30
+"Sauerkraut w mashed potato wo meat prep",300,8,0.30
+"Cheese Brie 60+",30,7,1.60
+"Pastry puff cheese filled frozen unprepared",80,6,1.00
+"Cheese fresh light 8% fat",30,4,1.20
+"Lasagna bolognese ready to eat",350,7,0.60
+"Gravy average clear prep wo gravy instant powder",30,7,0.50
+"Tart w bread base w veg/egg/cheese",150,6,1.00
+"Salad fish",50,5,1.20
+"Salad ham and leek",50,4,1.00
+"Salad chicken curry",50,6,1.00
+"Salad egg",50,8,0.80
+"Herb and dried vegetable mix unprepared",5,5,2.00
+"Yoghurt half fat",200,6,0.30
+"Crisps potato light unflavoured",40,6,1.50
+"Eclair cheese cream filled",80,4,1.50
+"Fondant cream",20,3,1.50
+"Chocolates filled/Belgium chocolate",20,6,2.50
+"Muesli bar w chocolate",30,7,1.20
+"Schnitzel vegetarian based on soya/wheat unprepared fortified w iron and vit B12",100,7,1.50
+"Sauce based on roux prepared",50,6,0.40
+"Saus op basis groentenat/melk bereid z vet",50,3,0.30
+"Sauce mix packet <3% fat prepared",50,6,0.50
+"Sauce mix packet >3% fat prepared",50,6,0.50
+"Beer alcohol free <0,1 vol%",330,6,0.30
+"Beer low alcohol 0,1-1,2 vol%",330,4,0.30
+"Juice drink light",200,6,0.25
+"Soft drink light wo caffeine",250,6,0.20
+"Cola light soft drink w caffeine",250,8,0.20
+"Sauce tomato ready-to-eat jar",100,8,0.40
+"Stock from cube prepared",250,8,0.10
+"Butter product half fat",15,7,0.80
+"Endive raw w mashed potatoes wo meat prepared",300,7,0.30
+"Quiche w vegetables/cheese/egg",150,6,1.00
+"Beef rump steak prepared",100,6,3.00
+"Beef prime rib prepared",100,4,2.50
+"Beef frying steak prepared",100,7,2.50
+"Minced beef shallow fried",100,9,1.20
+"Beef rib prepared",100,4,2.20
+"Liver ox prepared",100,2,1.00
+"Beef stewing meat prepared",150,7,1.80
+"Beef rolled prepared",100,4,2.50
+"Beef roast prepared",100,5,2.80
+"Beef shank prepared",100,4,1.80
+"Beef rib steak prepared",100,5,3.00
+"Beef streaked/marbled prepared",100,4,2.20
+"Beef stewing steak prepared",150,7,1.80
+"Beef steak tartare prepared",100,5,1.80
+"Sausage pork Braadworst prepared",100,8,1.50
+"Pork fillet prepared",100,6,1.80
+"Pork fricandeau part of leg prepared",100,5,1.50
+"Pork chop prepared",100,8,1.50
+"Minced pork prepared",100,7,1.10
+"Pork tenderloin prepared",100,7,2.20
+"Pork gammon steak prepared",100,5,1.50
+"Pork loin chop prepared",100,7,1.50
+"Pork shoulder chop prepared",100,6,1.30
+"Liver pork prepared",100,2,0.90
+"Pork spare rib prepared",100,6,1.20
+"Pork tenderloin medaillon prepared",100,6,2.20
+"Pork shoulder prepared",100,5,1.20
+"Kromesky meat filled prepared",80,4,1.50
+"minced meat ball beef/pork w egg prepared",100,9,1.20
+"Hamburger prepared",100,8,1.50
+"Veal prime rib prepared",100,3,3.00
+"Veal olive prepared",100,3,3.00
+"Veal fricandeau prepared",100,3,3.00
+"Liver calf's prepared",100,2,1.80
+"Veal shank prepared",100,3,2.50
+"Lamb leg prepared",100,4,2.50
+"Minced lamb prepared",100,4,1.80
+"Lamb chop prepared",100,5,2.80
+"Lamb saddle prepared",100,2,3.00
+"Lamb shoulder prepared",100,3,2.20
+"Mussels fried in vegetable oil",150,5,1.50
+"Squid rings deep-fried in vegetable oil",100,5,1.50
+"Halibut smoked",50,3,3.50
+"Mackerel fillet smoked",100,6,1.80
+"Salmon farmed raw",125,7,2.50
+"Anchovy in oil canned",15,5,2.00
+"Tuna in oil tinned",100,7,1.50
+"Tuna in water tinned",100,7,1.50
+"Chilli con carne bean dish",250,7,0.60
+"Fructose powder",10,2,0.80
+"Minced beef ball prepared wo egg",100,6,1.20
+"Kippers steamed",100,2,1.50
+"Sprat fillet smoked",50,2,2.00
+"Mackerel prepared in microwave oven no ingredients added",100,4,1.50
+"Mackerel in oil tinned",100,4,1.20
+"Salmon farmed prep in microwave oven no ingredients added",125,6,2.50
+"Trout prepared in microwave oven no ingredients added",125,3,1.80
+"Rainbow trout prepared in microwave oven no ingredients added",125,3,1.80
+"Cod prepared in microwave oven no ingredients added",125,5,2.50
+"Haddock prepared in microwave oven no ingredients added",125,4,2.50
+"Pollack (Atlantic) prep in microwave oven no ingredients added",125,4,1.50
+"Whiting prepared in microwave oven no ingredients added",125,3,1.80
+"Plaice prepared in microwave oven no ingredients added",125,4,2.00
+"Schar/tongschar bereid in magnetron z toev",125,2,2.00
+"Sole prepared in microwave oven no ingredients added",125,4,3.00
+"Flounder prepared in microwave oven no ingredients added",125,2,1.80
+"Gurnard prepared in microwave oven no ingredients added",125,2,2.00
+"Ocean perch prepared in microwave oven no ingredients added",125,3,2.00
+"Wolf fish prepared in microwave oven no ingredients added",125,2,2.50
+"Eel prepared in microwave oven no ingredients added",100,2,3.50
+"Paling zee- bereid in magnetron z toev",100,2,3.50
+"Soft/hard roe fried",50,1,1.50
+"Soft/hard roe from fat bloater",50,1,1.50
+"Spawn/hard roe coloured glass",30,1,2.00
+"Mussels pickled glass",50,4,1.50
+"Shrimps in water tinned",50,5,3.00
+"Squid prepared in microwave oven no ingredients added",100,3,1.50
+"Chicken w skin prepared",125,7,1.20
+"Chicken fillet raw",150,9,1.00
+"Chicken wo skin prepared",125,9,1.20
+"Chicken rolled prepared",100,4,1.50
+"Chicken rolled raw",125,4,1.20
+"Chicken nuggets prepared in oven",100,7,1.00
+"Chicken nuggets prepared in frying fat",100,7,1.00
+"Chicken burger breaded prepared",100,6,1.20
+"Pork steak/chop prepared",100,8,1.50
+"Pork rib chop prepared",100,7,1.50
+"Cheese goat fresh",30,5,1.80
+"Syrup barley malt",15,2,1.00
+"Syrup corn",15,2,0.80
+"Syrup rice malt",15,2,1.00
+"Fruit juice concentrated",20,6,0.60
+"Juice carrot",200,3,0.30
+"Juice sauerkraut",200,1,0.30
+"Beef <5% fat raw av",125,7,2.50
+"Beef >5% fat raw av",125,7,2.00
+"Beef <10% fat prepared av",100,7,3.00
+"Beef >10% fat prepared av",100,7,2.50
+"Pork <5% fat raw av",125,7,1.50
+"Pork 5-14% fat raw av",125,8,1.20
+"Pork >15% fat raw av",125,6,1.00
+"Pork <10% fat prepared av",100,7,1.80
+"Pork 10-19% fat prepared av",100,8,1.50
+"Pork >19% fat prepared av",100,6,1.20
+"Veal <5% fat raw av",125,3,2.50
+"Veal >5% fat raw av",125,3,2.20
+"Lamb >10 g fat raw av",125,4,2.00
+"Meat av raw <5% fat excl liver",125,8,2.00
+"Meat av raw >5% fat excl liver",125,8,1.50
+"Potatoes sliced frozen deep-fried in vegetable oil",150,8,0.30
+"Chips oven frozen prepared in oven",150,8,0.35
+"Potato croquettes frozen prepared",100,6,0.40
+"Toddler formula Nutrilon 2 p 100 ml",100,1,0.50
+"Biscuits & snacks cheesy",30,7,1.00
+"Milk semi-skimmed fortified w calcium",200,4,0.20
+"Custard several flavours full fat",150,6,0.35
+"Yoghurt vanilla half fat",200,7,0.30
+"Porridge semolina",200,4,0.25
+"Cheese 20+",30,6,1.20
+"Cheese 50+",30,7,1.50
+"Cheese Dutch in Swiss-style 45+",30,5,1.50
+"Cheese 40+ Leiden w cumin/Fries clove",30,4,1.50
+"Infant food fruit 12 months",150,1,1.50
+"Infant food meal 18 months",200,1,1.20
+"Liver pate/Berliner liver sausage",30,6,1.00
+"Pork fricandeau fried (processed meat product)",30,6,1.50
+"Brawn, pork pickled in vinegar",30,3,1.00
+"Sausage tongue",30,2,1.50
+"Bacon rasher streaky grilled",30,7,1.50
+"Ham lean grilled",30,7,1.50
+"Gammon boiled deboned",50,5,1.50
+"Crispbread wholemeal",20,8,0.70
+"Pork rib chop raw",125,7,1.20
+"Pork schnitzel not breaded prepared",100,6,1.80
+"Pork schnitzel not breaded raw",125,6,1.50
+"Cream whipped w sugar canned",20,7,0.80
+"Dfr Modifast Intensive Muesli",50,2,3.00
+"Crispbread Sandwich Wasa",30,6,1.00
+"Sauce oriental ready-to-eat jar/bag",100,6,0.60
+"Creme fraiche",30,7,0.80
+"Cheese 45+",30,7,1.40
+"Fruit drink concentrate Karvan Cevitam",20,8,0.60
+"Beans long yard Kousenband boiled",150,5,0.60
+"Nectarine",120,7,0.40
+"Milk based drink Yakult original",65,6,0.60
+"Yoghurt drink Vifit fruit",200,6,0.35
+"Salad cucumber",50,6,0.60
+"Salad meat",50,6,0.80
+"Fruit juice drink Roosvicee Multivit",200,6,0.30
+"Seasoning flavoured powder low sodium",5,3,1.50
+"Stock powder low sodium",5,3,1.20
+"Water av",250,9,0.00
+"Mango chutney",15,4,1.00
+"Dates fresh",30,4,1.50
+"Carambola",50,2,2.00
+"Couscous unprepared",75,7,0.40
+"Barley whole grain raw",50,2,0.40
+"Horse-radish raw",10,2,1.50
+"Cabbage pak-choi raw",150,5,0.50
+"Cheese Bel Paese",30,3,1.80
+"Beans kidney red dried",75,5,0.40
+"Pecan nuts unroasted unsalted",30,6,2.50
+"Pistachio nuts salted",30,7,2.00
+"Seaweed kelp raw",15,2,2.50
+"Seaweed agar agar dried",5,2,5.00
+"Coquilles scallop shell St. Jacques raw",100,3,4.00
+"Goat meat raw av",125,2,2.00
+"Kidney pork raw",100,1,1.00
+"Kidney ox raw",100,1,1.00
+"Kidney lamb raw",100,1,1.20
+"Vegetables av boiled",200,9,0.35
+"Vegetables av raw",150,8,0.40
+"Fruit fresh av including citrus",150,8,0.40
+"Processed meat prod excl liver av",30,8,1.20
+"Processed meat prod <10 g fat excl liver av",30,7,1.50
+"Sausage excl liver products av",30,7,1.20
+"Processed meat prod 20-30 g fat excl liver av",30,7,1.20
+"Processed meat prod >30 g fat excl liver av",30,6,1.50
+"Sauce Chinese soursweet home-made",50,6,0.50
+"Peanut sauce homemade w water w fat",50,7,0.50
+"Dough for pizza and savoury pie unprepared",100,6,0.50
+"Eclair wo filling",30,3,1.00
+"Cream whipped w added sugar",30,8,0.80
+"Flan bottom Limburg",80,5,1.00
+"Juice orange w pulp",200,7,0.25
+"Juice tomato/vegetable Appelsientje Tomatientje",200,4,0.30
+"Juice tomato Appelsientje Zontomaat",200,3,0.30
+"Nuts mixed salted",30,8,1.50
+"Turkey fillet raw",125,6,1.50
+"Crisps tortilla unflavoured",40,7,1.00
+"Peanut sauce packet prepared",50,8,0.50
+"Cheese Gorgonzola",30,5,1.80
+"Japanese rice cracker mix w peanuts",30,7,1.20
+"Bun w vanilla custard",70,5,1.00
+"Plant-based alternative to fruit/vanilla yoghurt based on soya sweetened fortified w calcium and vitamins",200,6,0.35
+"Cheese Mozzarella made from cow's milk",50,7,1.20
+"Low fat spread Becel pro-activ",15,6,1.00
+"Custard of milk and whipped cream",150,6,0.40
+"Porrdige buttermilk groats",200,3,0.25
+"Low fat margarine prod Blue Band Goede Start",15,7,0.60
+"Chocolate sprinkles milk",15,9,0.80
+"Chocolate sprinkles dark",15,9,0.80
+"Spread chocolate milk",15,7,0.80
+"Biscuit Liga Milkbreak milkbiscuit",20,6,1.00
+"Cake made w butter",40,7,0.80
+"Biscuits assorted w butter av",20,7,0.80
+"Toddler formula Nutrilon 3 p 100 ml",100,1,0.50
+"Breakfast cereal porridge Olvarit 8 granen 12+ months",30,1,1.50
+"Breakfast cereal Frosties Kellogg's",40,5,0.90
+"Breakfast cereal Coco pops Kellogg's",40,6,0.90
+"Breakfast cereal All-Bran Fruit n Fibre Kellogg's",40,5,0.90
+"Breakfast cereal Special K Original Kellogg's",40,6,0.90
+"Breakfast cereal Smacks Kellogg's",40,5,0.90
+"Breakfast cereal Honey pops Loops Kellogg's",40,5,0.90
+"Tart fruit w shortbread base",120,6,1.50
+"Sponge cake w fruit",100,6,1.20
+"Dfr Modifast Intensive Pudding",50,2,3.00
+"Dfr Modifast Intensive Milkshake",50,2,3.00
+"Sports food Isostar Actifood",90,2,2.50
+"Sports food Isostar power tabs",12,2,3.50
+"Minced meat vegetarian based on mycoprotein unprepared",100,5,1.80
+"Pieces/chunks vegetarian based on mycoprotein unprepred",100,5,1.80
+"Sports drink AA Isotone",330,6,0.30
+"Sports drink hypertone w carbohydrates",330,5,0.30
+"Minced meat vegetarian based on soya unprepared",100,7,1.50
+"Peanuts dry roasted",30,8,0.80
+"Rice multi-grain raw",75,4,0.40
+"Breakfast cereal Brinta Wake Up breakfastdrink",50,4,0.60
+"Infant food meal 12 months",200,1,1.20
+"Infant food fruit 6 months",150,1,1.50
+"Lamb <10 g fat raw av",125,4,2.20
+"Mutton <10g fat raw av",125,2,1.80
+"Low fat margarine 40% fat <17 g sat fa salted",15,7,0.60
+"Low fat margarine prod 35% fat <10 g sat fa unsalted",15,6,0.60
+"Margarine 80% fat >24 g sat fa salted",15,7,0.50
+"Cooking fat liquid 97% fat <17 g sat fa salted",15,8,0.60
+"Cooking fat solid 97% fat >17 g sat fa salted",15,6,0.50
+"Frying fat liquid",15,7,0.40
+"Frying fat solid",15,5,0.40
+"Margarine product 60% fat <17 g sat fa unsalted",15,7,0.60
+"Margarine liq 80% fat <17 g sat fa salted",15,8,0.60
+"Breakfast drink Coolbest FruitOntbijt",200,6,0.30
+"Breakfast cereal Cornflakes",40,7,0.60
+"Mayonnaise product w olive oil",20,6,0.60
+"Ice tea w sugar 5-<7 g CHO",250,8,0.20
+"Ice tea light",250,7,0.20
+"Ice tea w sugar and sweetener",250,7,0.20
+"Ostrich, raw",125,1,3.50
+"Chicken drumstick w skin raw",150,8,0.90
+"Chips fried in solid frying fat",150,6,0.40
+"Chips fried in liquid frying fat",150,8,0.40
+"Chips prepared av",150,8,0.40
+"Cassava boiled",150,3,0.50
+"Taro boiled",150,2,0.60
+"Yam boiled",150,2,0.60
+"Potato sweet boiled",150,6,0.40
+"Pumpkin boiled",150,5,0.30
+"Juice drink Dubbelfrisss",200,8,0.25
+"Juice drink Tintelfruit w sugar",200,5,0.20
+"Juice drink Tintelfruit light",200,5,0.20
+"Mineral water w sweetener",250,6,0.15
+"Wine white sweet",150,6,0.80
+"Juice apple fortified w vitamin C",200,6,0.25
+"Japanese rice cracker mix wo peanuts",30,6,1.20
+"Pasta wholemeal boiled",200,7,0.35
+"Couscous boiled",200,7,0.40
+"Millet boiled",150,3,0.40
+"Biscuit Cafe noir",20,6,0.80
+"Crisps maize Bugles",40,7,1.20
+"Crisps based on potato dough",40,7,1.20
+"Pine nuts",15,7,3.50
+"Basil fresh",5,7,2.50
+"Pesto green",20,8,1.50
+"Brownie w nuts",50,6,1.20
+"Infant formula Hero Baby Standaard 1 p 100 ml",100,1,0.50
+"Toddler formula Hero Baby Standaard 2 p 100 ml",100,1,0.50
+"Toddler formula Hero Baby Standaard 3 p 100 ml",100,1,0.50
+"Sports drink Extran Energy",330,6,0.30
+"Sports drink Extran Hydro",330,5,0.30
+"Biscuit baby/toddler Bolletje",15,1,1.00
+"Biscuit filled",20,7,0.80
+"Biscuit w chocolate layer Scholiertje",20,7,1.00
+"Cracker VitaLU",20,6,0.80
+"Rice cakes puffed w chocolate",20,6,1.00
+"Biscuit fruit",20,7,0.90
+"Cake Dutch spiced Ontbijtkoek w raisin",40,6,0.60
+"Cereal bar Hero B'tween",30,6,1.20
+"Cereal bar wo sugar",30,5,1.20
+"Cereal bar Special K Kellogg's",30,5,1.20
+"Cereal bar w milk Kellogg's",30,5,1.20
+"Muesli bar",30,7,1.00
+"Milk goats- full fat",200,3,0.30
+"Yoghurt snack Breaker",200,6,0.40
+"Yoghurt cream- w fruit",150,7,0.40
+"Quark low fat w fruit/vanilla w sweetener",150,7,0.40
+"Quark w fruit Danoontje",50,6,0.80
+"Ice lolly Festini",50,8,0.80
+"Ice cream dairy w chocolate coating",80,8,1.00
+"Ice cream dairy w fruitcoating",80,6,1.00
+"Yoghurt drink w sweetener",200,7,0.30
+"Yoghurt drink Fristi w sweetener",200,7,0.30
+"Breakfast drink Goede Morgen Vifit",200,6,0.35
+"Yoghurt drink Actimel plain",100,6,0.60
+"Drink soya Groeidrink 1-3+ Alpro",200,1,0.35
+"Plant-based alternative to cream based on soya",30,5,0.80
+"Cheese 10+",30,3,1.50
+"Milk based drink Yakult Balance",65,5,0.60
+"Chocolate white",30,7,1.20
+"Custard no fat w sweetener",150,5,0.30
+"Creme fraiche half fat",30,6,0.80
+"Pasta gluten free raw",100,4,0.60
+"Fatless sponge",50,4,0.80
+"Cream cooking",30,7,0.60
+"Cream cooking light",30,6,0.60
+"Yoghurt full fat w cereal/muesli Activia",200,6,0.40
+"Cream type product Blue Band Finesse voor koken",30,6,0.60
+"Fruit drink conc w sugar and sweetener 40-45 g CHO",20,6,0.50
+"Fruit drink concentrate light",20,7,0.50
+"Coconut milk",50,7,0.60
+"Candy sugar-free",20,6,1.20
+"Tomatoes tinned",100,9,0.25
+"Pollack (Atlantic) raw",125,5,1.50
+"Tuna raw",125,6,2.50
+"Sole raw",125,4,3.50
+"Tilapia raw",125,7,1.50
+"Sausage smoked lean cooked",100,6,1.50
+"Sausage smoked beef cooked",100,5,1.80
+"Sausage frankfurter lean tinned",70,6,1.00
+"Sausage cooked lean",30,6,1.20
+"Salami sausage saveloy lean",30,6,1.50
+"Sausage luncheon meat lean",30,5,1.00
+"Yoghurt drink Becel pro-activ",100,4,0.80
+"Breezer",275,5,0.60
+"Roti Surinam pancake",100,6,0.80
+"Beef salted cooked Surinam",50,4,2.00
+"Peas split yellow boiled",150,5,0.30
+"Tannia prepared wo fat",150,1,0.80
+"Tannia leaves prepared wo fat",100,1,1.00
+"Brown beans w rice Surinam",250,5,0.40
+"Roti w white flour and potato",150,6,0.60
+"Sauce w yellow split peas Dahl Surinam",100,4,0.50
+"Casserol w tannia Pom Surinam",200,4,1.00
+"Dish w veg and meat Moksi-alesi Surinam",250,4,0.80
+"Potatoes mashed instant prep w s-sk milk",200,6,0.30
+"Potatoes mashed instant prepared w water",200,5,0.25
+"Potatoes mashed fresh prep w s-sk milk wo fat",200,8,0.20
+"Potatoes boiled w skin av",200,6,0.20
+"Potato croquettes frozen unprepared",100,7,0.35
+"Cake Dutch spiced Ontbijtkoek less sugar",40,6,0.60
+"Bami vegetables boiled",200,7,0.40
+"Minced meat raw av",100,9,1.00
+"Minced meat ball beef/pork raw w egg/brcrumbs",100,9,1.20
+"Meat av raw excl liver",125,8,1.50
+"Beef av raw",125,8,2.00
+"Minced beef ball raw w egg and breadcrumbs",100,8,1.20
+"Beef olives raw",125,6,1.80
+"Pork schnitzel breaded raw",125,8,1.50
+"Chicken fillet breaded raw",125,8,1.50
+"Chicken fillet in batter raw",125,6,1.50
+"Jelly",100,4,0.50
+"Pork filled w ham and cheese raw",125,7,1.80
+"Peanuts sugar coated",30,6,1.00
+"Lettuce av raw",50,9,0.40
+"Tortellini boiled",200,7,0.50
+"Wheat bread wholemeal av fine and coarse w pumpkin seeds",70,7,0.50
+"Multigrain bread av white and brown w seeds w extra linseed",70,6,0.50
+"Multigrain bread av white and brown w seeds",70,8,0.45
+"Wheat bread white av milk/water based",70,8,0.35
+"Wheat currant bread white w almond paste",70,6,0.80
+"Wheat muesli bread brown/wholemeal",70,6,0.50
+"Wheat nut bread wholemeal ",70,5,0.60
+"Wheat sugar bread white",70,5,0.60
+"Wheat baguette white w cheese and onion",70,6,0.60
+"Wheat bread wholemeal av fine and coarse w sunflower seeds",70,8,0.45
+"Wheat bread white av milk/water based w sunflower seeds",70,6,0.40
+"Wrap/tortilla wheat white",60,8,0.50
+"Rice cakes puffed w caramel",15,6,1.20
+"Sausage Dutch Frikandel frozen unprep",85,8,0.60
+"Minced meat w ham and cheese raw",125,6,1.50
+"Chicken schnitzel breaded raw",125,8,1.50
+"Chicken cordon bleu raw",125,8,1.80
+"Peanut butter light",15,5,0.70
+"Breadsticks",20,6,1.00
+"Cocktail snacks based on corn",30,7,1.20
+"Tiramisu",100,7,1.50
+"Raisins coated w milkchocolate",30,6,1.20
+"After eight chocolate mints",15,5,2.00
+"Chocolate milk w raisins",30,6,1.20
+"Chocolate dark w hazelnuts",30,7,1.20
+"Chocolate milk w puffed rice",30,5,1.20
+"Tomatoes dried in oil tin/glass, drained",20,7,1.50
+"Tomato sun-dried",20,7,1.50
+"Raisins soaked in water",30,4,0.60
+"Toffee w chocolate",20,5,1.50
+"Pate spreadable lean",30,6,1.20
+"Wheat bread brown w sunflower seeds",70,8,0.45
+"Nougat w chocolate",30,5,1.50
+"Liquorice w peppermint",30,6,1.00
+"Salty liquorice lolly",15,5,1.50
+"Nougat",30,5,1.50
+"Popcorn sweet popped wo oil",30,6,0.60
+"Fruit drink conc Albert Heijn",20,7,0.50
+"Cake marble-",40,6,0.80
+"Cake apple- wo butter",40,5,0.80
+"Cake raisins-",40,6,0.80
+"Eclair filled w banana and whipped cream",80,4,1.50
+"Chocolate eclair w whipped cream filling",80,5,1.50
+"Chocolate cake w whipped cream",100,5,1.50
+"Cake Dutch spiced Ontbijtkoek w nuts",40,5,0.60
+"Cake Dutch spiced Ontbijtkoek w rockcandy",40,5,0.60
+"Spiced cake Indonesian- Spekkoek made w butter",30,6,1.50
+"Croissant chocolate-",50,6,1.00
+"Tarts filled w jam",50,5,1.20
+"Capers",10,6,1.50
+"Cup cake iced",50,5,1.20
+"Chocolate chip cookie",20,8,1.00
+"Biscuit children's av",20,7,0.80
+"Biscuit Dutch shortbread sprits w choc",20,7,0.90
+"Teacakes chocolate coated marshmallow",25,7,1.00
+"Biscuit Dutch Kletskop",20,6,1.20
+"Cake wrapped in marzipan and chocolate",50,5,1.50
+"Ice cream dairy stracciatella",100,7,0.80
+"Cake Dutch w icing & cream Oranjekoek",80,4,1.50
+"Sauce hot liquid ready-to-eat <12% fat",50,6,0.50
+"Sauce cheese- based on roux prepared",50,6,0.60
+"Sauce hot liquid ready-to-eat >12% fat",50,6,0.50
+"Low fat margarine prod Becel Omega3 Plus",15,7,0.80
+"Chocolate sprinkles white",15,7,0.80
+"Wafer galette",20,5,1.00
+"Spice biscuit sprinkles Bolletje",15,6,0.80
+"Wafer w milk & hazelnuts Knoppers",25,6,1.20
+"Cake w nuts",40,6,0.90
+"Fritter banana",80,4,1.00
+"Gateau fatless sponge w marzipan",100,4,1.80
+"Nuts cake",40,5,1.00
+"Rice drink wo sugar  fortified w calcium and vitamines",200,4,0.30
+"Soft drink w sugar and sweetener 2-<5 g CHO wo caffeine",250,7,0.20
+"Juice drink w sugar and sweetener 4-6 g CHO",200,6,0.25
+"Juice drink Capri-Sun Multivitamin",200,6,0.30
+"Fruit drink conc diluted 1 to 7",200,7,0.15
+"Tea herbal instant sweetend prepared",150,4,0.30
+"Sauce butter-",30,5,0.80
+"Sauce w semi-skimmed milk and corn starch",50,4,0.40
+"Gravy 25% fat clear prep w gravy instant powder ",30,6,0.40
+"Gravy 50% fat clear prepared w gravy instant powder",30,7,0.40
+"Gravy 25% fat thickend prep w gravy instant powder ",30,6,0.40
+"Gravy 25% fat thickend prep wo gravy instant powder ",30,5,0.40
+"Gravy 50% fat thickend prep wo gravy instant powder",30,6,0.40
+"Gravy 75% fat thickend prep wo gravy instant powder",30,4,0.40
+"Sauce Aardappel Anders av",50,6,0.50
+"Gravy 5% fat thickend prep wo gravy instant powder",30,4,0.40
+"Peanutsauce homemade w s-sk milk wo fat",50,4,0.50
+"Peanutsauce homemade w water wo fat",50,7,0.40
+"Gravy 50% fat clear prep wo gravy instant powder",30,6,0.40
+"Gravy 75% fat clear prep wo gravy instant powder",30,4,0.40
+"Gravy 50% fat thickend prep w gravy instant powder",30,7,0.40
+"Gravy 5% fat clear prep wo gravy instant powder",30,4,0.40
+"Salad dressing vinaigrette",30,7,0.50
+"Sauce for chips approx 13% oil",20,6,0.40
+"Salad dressing honey/mustard",30,8,0.60
+"Sauce for chips 5% oil",20,5,0.40
+"Mayonnaise product approx 35% oil",20,8,0.40
+"Oil wok",15,7,0.60
+"Herb paste boemboe",20,7,1.00
+"Coffee cappuccino freshly made",150,8,0.80
+"Coffee cappuccino instant prepared",150,7,0.40
+"Coffee cappuccino instant powder",15,7,1.50
+"Energy drink Golden Power/Bullit/Freeway",250,7,0.20
+"Fruit juice drink ACE",200,6,0.25
+"Soup veg & meat based ready-to-eat",250,8,0.40
+"Soup vegetable & meat based prepared pack",250,7,0.30
+"Spread speculaas flavoured",15,7,0.80
+"Fruit juice drink multivit 12 fruits nectar light",200,6,0.25
+"Fruit juice drink w sweetener 5-<8 g CHO",200,6,0.20
+"Potato puree powder wo milkpowder wo fat",30,5,0.50
+"Milk chocolate-flavoured w s-sk milk and sweetened cocoa powder",200,7,0.25
+"Dairy drink Campina Fruitmelk",200,6,0.30
+"Tomato sieved pack",100,8,0.25
+"Potato puree powder w milkpowder w fat",30,6,0.60
+"Yoghurt half fat w fruit",200,7,0.35
+"Yoghurt Greek full fat",150,8,0.45
+"Quark full fat w fruit",150,7,0.45
+"Fruit dried in brandy",30,2,2.00
+"Juice multifruit",200,7,0.25
+"Cider",250,5,0.40
+"Fruit juice concentrated diluted 1 to 13",200,7,0.15
+"Fruit juice drink Surango multivit nectar light",200,4,0.25
+"Cheese spread 15+ Balans ERU",15,5,1.20
+"Cheese spread Kids ERU",15,6,1.20
+"Cheese goat hard",30,6,2.00
+"Custard half fat all flavours",150,6,0.35
+"Pudding airy",100,5,0.50
+"Porridge milk w wheat flour white Lammetjespap",250,2,0.20
+"Custard 2 flavours w syrup vlaflip Campina",150,7,0.40
+"Chili pepper raw",5,6,1.00
+"Frying fat horeca",15,5,0.30
+"Biscuit savoury Sultana Crunchers",20,7,0.90
+"Croutons",15,6,1.00
+"Potato crisps oven baked",40,7,1.20
+"Maltesers",40,7,1.50
+"Chocolate flakes av",15,8,1.00
+"Liquorice sugar-free",30,6,1.20
+"Wine gum w liquorice",30,7,1.00
+"Cocoa powder sweetened Nesquik",15,7,0.80
+"Dessert made of custard, yoghurt & syrup",150,6,0.40
+"Blancmange home-made w semi-sk milk",150,5,0.35
+"Custard soft & airy ",100,6,0.50
+"Soup noodle prepared",250,6,0.30
+"Sausage luncheon meat vegetarian fortified w iron and vit B12",30,5,1.50
+"Chinese noodle ball frozen unprepared",100,7,0.80
+"Croquette meat ragout frozen unprep",70,8,0.60
+"Spring roll frozen unprepared",150,7,0.50
+"Croissant ham and cheese",70,7,1.20
+"Chicken sticks breaded frozen unprepared",100,6,0.80
+"Cheese pastry w puff pastry",80,8,1.00
+"Viandel unprepared Mora",85,6,0.80
+"Biscuit LU Time Out",20,6,1.00
+"Margarine 80% fat >24 g sat fa unsalted",15,5,0.50
+"Margarine liq 80% fat <17g sat fa unsalted",15,6,0.60
+"Low fat margarine prod Bewust light 30% fat <10g sat fa unsalted",15,6,0.60
+"Apple turnover w puff pastry wo butter",100,6,1.20
+"Soup thickened no filling",250,5,0.30
+"Cooking fat liq 97% fat <17g sat fa unsalted",15,5,0.60
+"Cooking fat sol 97% fat >17g sat fa unsalted",15,4,0.50
+"Margarine 80% fat <24 g sat fa unsalted",15,6,0.50
+"Low fat margarine 40% fat <17 g sat fa unsalted",15,6,0.60
+"Low fat margarine prod AH chol reducing",15,5,1.20
+"Flan w custard and crumble topping",120,6,1.20
+"Cake Dutch spiced Ontbijtkoek w nuts & fruit",40,5,0.60
+"Flan w custard and fruit",120,7,1.20
+"Cake w Dutch Amaretti Bitterkoekjes",40,4,1.00
+"Sauce garlic 20-<30% oil",20,8,0.50
+"Potatoes mashed fresh prep w whole milk and margarin",200,8,0.25
+"Cake apple made w butter",100,7,1.00
+"Gravy 5% fat thickend prep w gravy instant powder",30,5,0.40
+"Pancake wholemeal homemade prepared w liquid margarin",150,6,0.35
+"Pancake wholemeal homemade prepared w margarin",150,6,0.35
+"Biscuit peanut",20,6,0.80
+"Gravy 25% fat clear prep wo gravy instant powder",30,5,0.40
+"Candybar KitKat",45,8,1.50
+"Salad dressing olive oil-vinegar",30,7,0.60
+"Mix for marinade powder unprepared",10,6,1.50
+"Biscuit w nuts and chocolate",20,7,1.00
+"Biscuits w nuts",20,6,0.90
+"Wine rose",150,7,0.80
+"Sauce Joppie",20,7,0.60
+"Tapenade olive",15,6,1.50
+"Mix seasoning Mexican unprepared",10,7,1.50
+"Salsa tomato dip",30,7,0.80
+"Vinegar",10,7,0.20
+"Bread stuffed Bapao meat",100,7,0.80
+"Meatball Berenklauw unprepared",120,6,0.80
+"Appel pie Dutch w shortbread w butter",100,8,1.20
+"Coffee instant powder",3,7,2.00
+"Fruit juice drink minimal 2 fruits fortified w vit C",200,6,0.30
+"Smoothie fruit",200,7,0.50
+"Smoothie fruit w dairy",200,6,0.50
+"Soft drink w sugar and sweetener 2-<5 CHO w caffeine",250,7,0.20
+"Sports drink Aquarius",330,6,0.30
+"Coffee w sugar and milk vending machine",150,7,0.50
+"Coffee w milk vending machine",150,8,0.50
+"Tea herbal instant sweetend powder",5,3,1.50
+"Gravy prep wo fat w gravy instant powder ",30,4,0.40
+"Sauce cocktail/party/table >25% oil",20,7,0.60
+"Rice cakes w spices",15,6,1.20
+"Chicken (processed meat product)",30,7,1.50
+"Yoghurt 0% fat w fruit Activia",150,7,0.40
+"Chocolate sprinkles mix white and dark",15,8,0.80
+"Spread duo w chocolate",15,7,0.80
+"Spread duo wo chocolate",15,5,0.80
+"Sweets jelly/gums/foam",30,8,1.00
+"Wine gums w foam layer",30,7,1.00
+"Waffle Luikse",90,7,1.00
+"Waffle soft-/sugar-/flash-",30,6,0.80
+"Soft drink w sugar and sweetener 5-<8 g CHO w caffeine",250,7,0.20
+"Salad dressing 20% oil w yoghurt",30,7,0.50
+"Mix spice and herbs rice/Chinese noodles unprepared",10,8,1.50
+"Energy drink Red Bull",250,8,0.60
+"Energy drink Red Bull sugarfree",250,7,0.60
+"Muesli crunchy w nuts",40,8,0.60
+"Muesli crunchy w chocolate",40,7,0.60
+"Muesli crunchy w nuts and chocolate",40,7,0.60
+"Dairy spread plain/herbs",15,7,1.00
+"Dairy spread plain/herbs light",15,6,1.00
+"Mixed spices Wereldgerechten unprep",15,7,1.50
+"Rice multi-grain boiled",200,5,0.30
+"Breakfast cereal Coco pops Chocos Kellogg's",40,5,0.90
+"Breakfast cereal Spec K choc Kellogg's",40,6,0.90
+"Abricots dried and soaked",30,3,1.00
+"Apple sauce wo sugar w sweetener tinned",150,5,0.35
+"Biscuit spiced small Kruidnoten w dark choc",30,7,1.00
+"Biscuit spiced small Kruidnoten w milk choc",30,8,1.00
+"Sweet fruity chew",20,7,1.20
+"Biscuit Dutch Amaretti Bitterkoekjes",20,7,1.00
+"Cake chocolate made wo butter",40,5,0.80
+"Biscuit Dutch Frou frou",20,5,0.80
+"Biscuit w dried fruit & yoghurt Sultana Yofruit",20,7,1.00
+"Biscuit spiced small Kruidnoten w white choc",30,7,1.00
+"Wheat bread wholemeal av fine and coarse w seeds",70,8,0.45
+"Wheat bread brown w seeds",70,8,0.45
+"Breakfast cereal All-Bran flakes Kellogg's",40,5,0.80
+"Cassave crackers",20,6,1.20
+"Wheat corn bread white w sunflower seeds",70,6,0.50
+"Lettuce red raw",50,5,0.50
+"Cabbage red w apple pieces glass",150,7,0.35
+"Margarine product Albert Heijn Balans",15,6,0.60
+"Margarine product liquid <60% fat <17 g sat fa unsalted",15,6,0.60
+"Margarine product liquid <60% fat <17 g sat fa salted",15,7,0.60
+"Biscuit Liga Evergreen crunchy",30,7,0.80
+"Meringue",20,4,1.50
+"Doughnut iced",60,5,1.20
+"Waffle Luikse w chocolate",90,6,1.20
+"Ice tea w sugar 4-<5 g CHO",250,7,0.20
+"Carrot bunched raw",100,7,0.25
+"Carrot bunched boiled",150,6,0.25
+"Carrot winter raw",100,7,0.20
+"Carrot winter boiled",150,8,0.20
+"Tomato vine raw",100,8,0.50
+"Tomato cherry raw",50,8,0.80
+"Tomato beef raw",100,6,0.50
+"Tomato beef boiled",100,4,0.50
+"Tomato av raw",100,9,0.40
+"Tomato av boiled",100,7,0.40
+"Rocket raw",30,7,1.00
+"Onion Welsh raw",20,6,0.80
+"Onion Welsh boiled",20,4,0.80
+"Cucumber w skin raw",100,8,0.30
+"Sweet pepper yellow raw",100,7,0.60
+"Sweet pepper yellow boiled",100,5,0.60
+"Sweet pepper av raw",100,9,0.50
+"Sweet pepper av boiled",100,7,0.50
+"Potatoes Nicola wo skin boiled",200,7,0.25
+"Potatoes Eigenheimer wo skin boiled",200,6,0.25
+"Potatoes Red Baron wo skin boiled",200,5,0.25
+"Potatoes floury av wo skin boiled",200,8,0.20
+"Pear w skin",150,8,0.30
+"Grapes black w skin",150,7,0.50
+"Grapes white w skin",150,8,0.50
+"Apple Elstar w skin",150,9,0.25
+"Apple Elstar wo skin",150,7,0.25
+"Apple Jonagold w skin",150,8,0.25
+"Apple Jonagold wo skin",150,6,0.25
+"Juice orange freshly squeezed",200,8,0.50
+"Cheese Gouda 48+ age 4-8 weeks",30,9,1.20
+"Cheese Gouda 48+ age 8 wk-4 mths",30,9,1.30
+"Cheese Gouda 48+ age 4-7 mths",30,8,1.40
+"Cheese Gouda 48+ age 10-12 mths",30,7,1.60
+"Hot chocolate from vending machine",200,6,0.50
+"Almond paste filled tarts w butter",50,6,1.50
+"Almond paste filled tarts wo butter",50,4,1.20
+"Biscuit spiced Speculaas w butter",20,7,0.80
+"Biscuit spiced Speculaas wo butter",20,8,0.60
+"Pangasius bereid in magnetron z toev",125,5,1.20
+"Sausage smoked pork cooked",100,8,1.20
+"Sausage smoked pork traditional cooked",100,7,1.40
+"Sausage raw beef",100,6,1.50
+"Egg whole chicken free-range raw",50,8,0.60
+"Egg whole chicken free-range boiled",50,8,0.60
+"Egg whole chicken organic raw",50,6,0.80
+"Egg whole chicken organic boiled",50,6,0.80
+"Egg whole chicken corn-fed raw",50,4,0.50
+"Egg whole chicken corn-fed boiled",50,4,0.50
+"Biscuit brown/digestive w chocolate",20,7,1.00
+"Flan apple and crumble topping",120,7,1.20
+"Flan hard shell w custard cream",120,6,1.20
+"Flan sponge w custard cream",120,5,1.00
+"Pasta white wo egg boiled",200,8,0.30
+"Pasta white w egg boiled",200,6,0.35
+"Pasta white fresh boiled",200,6,0.60
+"Wheat bread wholemeal coarse",70,8,0.40
+"Multigrain bread white w seeds",70,6,0.45
+"Multigrain bread brown w seeds",70,8,0.45
+"Wheat corn bread white",70,6,0.40
+"Wheat bread av brown and wholemeal w pumpkin seeds",70,7,0.50
+"Wheat bread av brown and wholemeal w sunflower seeds",70,8,0.45
+"Wheat sourdough bread wholemeal",70,6,0.60
+"Wheat ciabatta white no filling",60,6,0.50
+"Wheat bread white pita",50,7,0.40
+"Stollen w almond/imitat paste wo nuts",70,5,0.80
+"Stollen w almond/imitat paste w nuts",70,6,1.00
+"Wheat baguette white",50,8,0.40
+"Wheat baguette brown",50,6,0.45
+"Wheat bread roll white hard",50,8,0.50
+"Wheat bread roll brown hard",50,7,0.50
+"Wheat bread roll brown soft",50,7,0.50
+"Wheat bread roll wholemeal soft",50,8,0.50
+"Multigrain roll brown hard",50,7,0.60
+"Multigrain roll brown soft",50,7,0.60
+"Croissant prepared w butter",50,8,1.00
+"Croissant prepared wo butter",50,5,0.80
+"Wheat currant bun white",50,7,0.60
+"Wheat muesli bun brown/wholemeal",50,5,0.70
+"Poppy seeds",5,3,1.50
+"Pumpkin seeds",10,5,1.20
+"Almond/imitation paste av",20,6,1.00
+"Muesli w fruit/plain",40,8,0.60
+"Waffle syrup wo butter",30,6,0.80
+"Wheat bread wholemeal fine",70,9,0.35
+"Wheat bread currant/raisin white av w almond paste",70,7,0.80
+"Wheat bread currant/raisin white av",70,8,0.60
+"Wheat raisin bread white w almond paste",70,6,0.80
+"Wheat bread brown Tijger",70,8,0.40
+"Wheat bread white Tijger",70,8,0.40
+"Stollen w almond/imitat paste av w and wo nuts",70,6,0.90
+"Croissant av",50,8,0.90
+"Salt not fortified w iodine",2,6,0.10
+"Waffle syrup w butter",30,8,0.90
+"Wheat bread brown w pumpkin seeds",70,7,0.50
+"Yoghurt low fat w fruit/vanilla w sweetener",200,7,0.30
+"Yoghurt stracciatella full fat ",150,6,0.40
+"Chicken schnitzel satay breaded raw",125,6,1.50
+"Pork schnitzel satay breaded raw",125,6,1.50
+"Liqueur w cream 15-25 vol% alcohol",35,4,2.50
+"Chocolate bar filled Kinder",20,7,1.50
+"Croissant cheese",50,7,1.20
+"Fruit drink conc w sugar and sweetener 10-15 g CHO",20,6,0.50
+"Cake chocolate made w butter",40,6,1.00
+"Potato waffles/balls frozen unprepared",100,6,0.40
+"Coffee iced",250,5,0.40
+"Sausage grill w cheese",100,5,1.20
+"Beer w fruit flavour",330,6,0.40
+"Cabbage red w apple pieces home-made",200,8,0.30
+"Pineapple in own juice tinned",100,7,0.40
+"Nuts macadamia unsalted",30,4,3.00
+"Fruit drink w dairy Taksi w sweetener",200,5,0.25
+"Juice multifruit mild w vit C",200,6,0.30
+"Drink soya light fortified w calcium and vitamins Alpro",200,4,0.35
+"Pancake w cheese homemade",150,7,0.40
+"Pancake w apple and raisin homemade",150,7,0.40
+"Pie apple-nuts",120,6,1.20
+"Biscuit syrup w chocolate",30,6,1.00
+"Pancake homemade preprared w liquid margarin",150,7,0.30
+"Fritter apple",80,5,1.00
+"Candybar Lion",50,7,1.50
+"Sauce caramel for pudding",20,5,0.60
+"Fruit snack Knijpfruit/Slurpfruit",90,6,1.00
+"Brioche",50,4,0.80
+"Breakfast cereal Weetabix original",40,4,1.00
+"Coffee wiener melange instant powder",15,4,1.50
+"Coffee wiener melange instant prepared",150,4,0.40
+"Beef smoke-dried lightly salted",30,5,2.50
+"Cane sugar",10,5,0.30
+"Cranberry compote sweetened",30,4,1.00
+"Cashew nuts salted",30,8,2.00
+"Almonds blanched salted",30,6,2.00
+"Plant-based alternative to yoghurt based on soya sweetened fortified w calcium and vitamins",200,6,0.35
+"Cranberries dried sweetened",30,5,1.50
+"Biscuit Dutch Jodekoek",20,7,0.80
+"Waffle penny-",20,5,0.80
+"Cake Indonesian",30,5,1.20
+"Biscuit digestive",20,7,0.80
+"Low fat spread AH omega-3",15,6,0.80
+"Juice drink Ocean Spray Cranberry classic",200,5,0.30
+"Horse meat smoked",30,1,2.50
+"Scrapple, pork",50,2,1.20
+"Sweetcorn tinned",100,7,0.40
+"Sausage beef Braadworst prepared",100,6,1.80
+"Beef breast boneless prepared",100,4,2.50
+"Beef olives prepared",125,6,2.00
+"Beef T-bone steak prepared",150,4,3.50
+"Beef ribeye steak prepared",150,5,3.00
+"Pork shoarma seasoning prepared",150,8,1.50
+"Bacon lean smoked prepared",30,7,1.50
+"Pork sparerib prepared",150,7,1.50
+"Pork stewing meat prepared",150,6,1.20
+"Veal stewing meat prepared",150,3,2.00
+"Veal stewing steak prepared",150,3,2.50
+"Sausage veal Braadworst prepared",100,3,2.00
+"Veal rib steak prepared",100,2,3.00
+"Veal frying steak prepared",100,3,3.00
+"Veal tenderloin medaillon prepared",100,2,4.00
+"Cracker VitaLU fortified w calcium",20,5,0.90
+"Yoghurt drink 7-9g CHO",200,6,0.30
+"Potatoes waxy av wo skin boiled",200,8,0.20
+"Crisps potato unflavoured",40,8,1.20
+"Crisps potato flavoured",40,8,1.20
+"Mascarpone cheese",30,6,1.50
+"Crisps potato light flavoured",40,6,1.50
+"Crisps potato straws natural",40,6,1.20
+"Crisps potato straws flavoured",40,6,1.20
+"Crisps potato Lays Sensations flavoured",40,7,1.50
+"Chocolate spread white",15,5,0.80
+"Soup portion prepared",250,8,0.40
+"Sponge cake wholemeal/multigrain",40,4,0.80
+"Low fat spead Becel pro-activ calorie light",15,5,1.20
+"Yoghurt full fat plain Activia",150,7,0.40
+"Yoghurt drink Activia",100,6,0.60
+"Toast Melba natural",15,7,1.00
+"Toast Melba other varieties",15,6,1.00
+"Plant-based alternative to icecream based on coconut",100,4,1.20
+"Pizza w cheese and vegetables frozen unprepared",350,7,0.60
+"Pizza w meat frozen unprepared",350,7,0.70
+"Pizza w fish frozen unprepared",350,5,0.80
+"Pizza salami frozen unprepared",350,8,0.70
+"Pizza w ham and pineapple frozen unprep",350,7,0.70
+"Herring pickled w gherkin",100,6,1.50
+"Salad egg w potato",50,6,0.80
+"Salad salmon w potato",50,5,1.20
+"Salad meat w potato",50,6,0.80
+"Biscuit spiced small Kruidnoten w chocolate av",30,8,1.00
+"Salt sea",2,7,0.20
+"Apple dried soaked in water",50,3,0.80
+"Pear dried soaked in water",50,2,1.00
+"Prunes soaked in water",50,4,0.80
+"Fruit mixed dried soaked in water",50,3,0.80
+"Toddler formula Nutrilon 4 p 100 ml",100,1,0.50
+"Toddler formula Nutrilon 5 p 100 ml",100,1,0.50
+"Cheese spread 45+",15,7,1.00
+"Sausage Chorizo",30,7,1.50
+"Sausage grill",100,6,1.20
+"Turkey (processed meat product)",30,6,1.20
+"Bacon smoked Katenspek",30,8,1.50
+"Sausage beef frankfurter type tinned",70,6,1.00
+"Wheat bread brown carbohydrate reduced",70,5,0.60
+"Shandy",330,4,0.30
+"Veal schnitzel not breaded raw",125,4,2.50
+"Minced veal raw",100,3,1.80
+"Veal tenderloin medaillon raw",125,2,3.50
+"Veal frying steak raw",125,3,2.50
+"Veal rib steak raw",125,2,2.50
+"Sausage veal Braadworst raw",100,2,1.80
+"Veal stewing steak raw",125,3,2.00
+"Veal stewing meat raw",125,3,1.80
+"Pork stewing meat raw",125,6,1.00
+"Bacon lean smoked raw",30,7,1.20
+"Bacon rasher prepared in own fat",30,7,1.50
+"Pork shoarma seasoning raw",150,8,1.20
+"Beef breast boneless raw",125,3,1.80
+"Minced veal shallow fried",100,3,2.20
+"Sausage beef Braadworst raw",100,6,1.50
+"Pork sparerib raw",150,7,1.00
+"Beef ribeye steak raw",150,5,2.50
+"Beef T-bone steak raw",150,3,3.00
+"Minced beef lean raw",100,9,1.20
+"Minced beef lean shallow fried",100,9,1.50
+"Gravy 75% fat thickend prep w gravy instant powder",30,4,0.50
+"Gravy 75% fat clear prep w gravy instant powder",30,4,0.50
+"Gravy 5% fat clear prep w gravy instant powder",30,5,0.40
+"Veal schnitzel not breaded prepared",100,4,3.00
+"Schnitzel vegetarian based on milk filled w cheese unprepared fortified w iron",100,6,1.50
+"Schnitzel vegetarian based on milk filled several flavours unprepared fortified w iron",100,6,1.50
+"Pizza Turkish wo extras",200,6,0.80
+"Yoghurt Turkish 4% fat",150,5,0.40
+"Cheese Turkish 60+ cow's milk canned",30,4,1.50
+"Cheese sheep/goat Turkish 50+ canned",30,3,1.80
+"Wheat bread brown Turkish",70,4,0.50
+"Yoghurt Turkish 10% fat",150,5,0.45
+"Sweet pepper orange raw",100,7,0.60
+"Beans white canned",150,6,0.30
+"Porridge oatmeal prepared w semi-skimmed milk unsweetened",250,7,0.20
+"Oil linseed",10,3,1.00
+"Butter product melange unsalted",15,5,0.80
+"Wheat bread brown low sodium",70,3,0.50
+"Oat bran",20,5,0.50
+"Apple turnover w puff pastry w butter",100,7,1.50
+"Syrup maple",15,4,1.50
+"Syrup apple fortified w iron",15,5,0.50
+"Cream whipped low fat w sugar canned",20,6,0.80
+"Sweets cream hard",20,5,1.00
+"Vegetables for soup cooked",150,8,0.40
+"Tuna prepared wo fat",100,7,1.80
+"Tilapia prepared wo fat",100,7,1.80
+"Deep fried legumes Bara Surinam",100,4,1.00
+"Beans mung boiled",150,3,0.40
+"Yoghurt full fat w fruit/vanilla Activia",150,6,0.40
+"Pastry puff cheese filled deep-fried in liquid fat",80,6,1.20
+"Puff pastry w butter baked",30,6,1.20
+"Crispbread gluten free Fette Croccanti Schar",20,3,1.50
+"Processed meat prod 10-20 g fat excl liver av",30,7,1.20
+"Mustard leaves boiled",150,2,0.80
+"Cabbage pak-choi cooked",150,5,0.50
+"Toddler formula Hero Baby 4 p 100 ml",100,1,0.50
+"Toddler formula Hero Baby 5 p 100 ml",100,1,0.50
+"Parsnip raw",100,4,0.60
+"Parsnip boiled",150,4,0.60
+"Toddler formula Nestle groeimelk 1+ p 100 ml",100,1,0.50
+"Toddler formula Nestle groeimelk 2+ p 100 ml",100,1,0.50
+"Bitter gourd pods boiled",100,2,0.80
+"Okra boiled",150,3,0.80
+"Cod dried, salted, soaked, boiled",125,3,2.50
+"Soy sauce based on Ketjap",15,8,0.60
+"Mince chicken raw",100,7,1.00
+"Margarine product 60% fat >17 g sat fa salted",15,6,0.50
+"Quinoa raw",75,6,0.60
+"Quinoa cooked",200,6,0.60
+"Cheese 30+ age 4-8 weeks",30,6,1.20
+"Infant formula Kruidvat Standaard 1 p 100 ml",100,1,0.40
+"Toddler formula Kruidvat Standaard 2 p 100 ml",100,1,0.40
+"Toddler formula Kruidvat Standaard 3 p 100 ml",100,1,0.40
+"Cheese 30+ age 8 wk-4 mths",30,6,1.30
+"Cheese 30+ age 4-7 mths",30,5,1.40
+"Cheese 30+ age 10-12 mths",30,4,1.50
+"Cheeseproduct w veg fat Kees jong belegen",30,3,1.20
+"Cheeseprod w veg fat Kees oud",30,3,1.40
+"Sandwich spread other flavours",15,6,0.60
+"Salad coleslaw",50,6,0.60
+"Plant-based alternative to cream based on soya Alpro Cuisine Light",30,5,0.80
+"Drink soya wo sugar fortified w calcium and vitamins",200,6,0.30
+"Beans kidney red canned",150,6,0.30
+"Peas chick canned",150,7,0.30
+"Wheat bread wholemeal fortified w vit D and fibre Vollerkoren",70,6,0.45
+"Pasta fortified w fibre raw",100,5,0.40
+"Stock portion prepared",250,8,0.15
+"Multigrain bread brown w seeds fortified w iron and vitamins Vikorn Vitaminebrood",70,5,0.50
+"Multigrain bread brown w seeds fortified w iron and vitamins Vikorn Volvezel",70,5,0.50
+"Medlar",50,1,2.00
+"Anchovy raw",15,4,2.50
+"Bulgur wheat cooked",200,5,0.40
+"Yogurt drink Ayran Turkish",200,4,0.40
+"Manti stuffed pasta cooked Turkish",200,3,0.80
+"Beef salted dried seasoned Pastirma Turkish",30,3,2.50
+"Minced beef from butcher raw",100,8,1.20
+"Noodles boiled",200,8,0.30
+"Hummus natural",30,8,1.00
+"Glasswort raw",50,3,2.00
+"Wheat bread wholemeal fine w seeds",70,8,0.45
+"Wheat bread wholemeal fine w sunflower seeds",70,8,0.45
+"Wheat bread wholemeal coarse w seeds",70,8,0.45
+"Wheat bread wholemeal coarse w sunflower seeds",70,8,0.45
+"Wheat bread wholemeal coarse w pumpkin seeds",70,7,0.50
+"Beer white",330,7,0.40
+"Vodka",35,5,3.00
+"Peas split green boiled",150,6,0.30
+"Fruit juice drink apple nectar",200,6,0.20
+"Kiwi fruit yellow",100,7,0.80
+"Asparagus green raw",150,6,1.50
+"Olives ripe in brine tinned/glass",30,7,0.80
+"Pesto red",20,7,1.50
+"Sausage grill chicken",100,5,1.20
+"Vegetables for stir-frying Dutch cooked",200,8,0.50
+"Vegetables for stir-frying Italian cooked",200,8,0.60
+"Vegetables for stir-frying oriental cooked",200,8,0.60
+"Seaweed nori dried",5,6,4.00
+"Noodles instant prepared",250,7,0.40
+"Salad chicken satay",50,6,1.00
+"Salad salmon",50,6,1.20
+"Salad tuna",50,7,1.00
+"Salad crab",50,5,1.20
+"Salad shrimp",50,4,1.50
+"Popcorn salted popped wo oil",30,6,0.60
+"Wheat baguette white w herb butter ready-to-eat",70,8,0.80
+"Doughnut Dutch style plain",60,5,1.00
+"Brownie wo filling",50,6,1.20
+"Biscuit Dutch Taai-taai",20,6,0.80
+"Milk semi-skimmed lactose free",200,5,0.25
+"Herb butter",15,8,1.00
+"Golden syrup pourable",15,5,0.60
+"Oil coconut",15,5,1.00
+"Fudge/caramel soft",20,5,1.00
+"Aniseed comfits crushed/pink&white/blue&white",15,5,1.50
+"Chocolate flakes mix white and dark",15,7,1.00
+"Fruit drink conc w sugar and sweetener 20-25 g CHO",20,6,0.50
+"Fruit drink conc w 45-50 mg vit C",20,5,0.60
+"Mentos cheewy dragee",10,7,1.50
+"Pasta gluten free cooked",200,4,0.60
+"Pasta fortified w fibre boiled",200,5,0.40
+"Surimi",50,5,1.00
+"Crisps tortilla several flavours",40,8,1.00
+"Vegetables for stir-frying mushroom cooked",200,7,0.60
+"Sardines grilled",100,4,1.50
+"Fish fatty >5 g fat prepared in microwave oven no ingredients added",125,6,2.00
+"Filo pastry unprepared",50,5,0.80
+"Milkbased drink Yakult Plus",65,5,0.60
+"Beer w fruitjuice Radler",330,7,0.40
+"Beer bock",300,5,0.50
+"Yoghurt semi-skimmed lactose free",200,4,0.30
+"Yoghurt drink Actimel fruit",100,6,0.60
+"Pollock (Alaska) raw",125,6,1.20
+"Pollock (Alaska) steamed",125,6,1.20
+"Prawns cooked",100,6,2.50
+"Lemon sole raw",125,3,3.00
+"Pangasius raw",125,6,1.00
+"Rosti rounds frozen unprepared",100,6,0.50
+"Processed meat products low sodium",30,3,1.50
+"Rice cake puffed plain wo salt",15,6,0.80
+"Wheat bread wholemeal fine w pumpkin seeds",70,6,0.50
+"Wheat bread av brown and wholemeal ",70,9,0.40
+"Wheat bread av brown and wholemeal w seeds",70,8,0.45
+"Low fat margarine product Vita d'Or Goed begin",15,5,0.50
+"Artichoke hearts canned",50,4,1.00
+"Lettuce romaine raw",50,6,0.50
+"Potato product natural precooked chilled",150,8,0.30
+"Oil rice bran",15,3,0.80
+"Frying oil",15,8,0.30
+"Olives av in brine tinned/glass",30,7,0.80
+"Low fat margarine 40% fat <17g sat fa fortified w vit E salted",15,6,0.60
+"Melon cantaloupe",150,6,0.50
+"Cooking fat liq Vita d'Or vlees&jus",15,5,0.40
+"Sauce chilli",15,8,0.50
+"Sauce garlic 30-<40% oil",20,8,0.50
+"Roastbeef",30,7,2.00
+"Breakfast cereal Special flakes w chocolate",40,6,1.00
+"Sauce bolognese ready-to-eat jar",100,8,0.50
+"Chocolate sprinkles extra dark",15,7,0.80
+"Marmalade",15,5,0.60
+"Soup instant powder",15,7,1.00
+"Cocktail snacks based on corn Organix Goodies",15,3,2.00
+"Chocolate flakes white",15,6,1.00
+"Cheesespread Heks'n kaas",30,7,1.50
+"Syrup ginger",15,3,1.20
+"Solid foamed candy Dutch Schuimpje",20,5,1.00
+"Coconut water plain",200,4,0.40
+"Syrup apple-pear",15,6,0.50
+"Cheese Feta",30,7,1.50
+"Rice ball spiced frozen unprepared",100,6,1.00
+"Yoghurt drink fortified w calcium",200,5,0.35
+"Fruit drink w dairy w sugar and sweetener",200,6,0.25
+"Croquette oven meat frozen unprepared",70,7,1.20
+"Cheese cream w herbs 25-30 g fat",30,7,1.20
+"Sorbet",100,6,0.80
+"Cheese white 45+ feta-like from cow's milk",30,6,1.20
+"Croquette Dutch Bitterbal oven frozen unprepared",50,7,1.20
+"Low fat margarine product Vita d'Or Bewust light",15,4,0.40
+"Snack roll puff pastry w Dutch sausage Frikandel",100,7,1.00
+"Focaccia",70,6,0.80
+"Salty puff pastry cocktail snacks",30,6,1.50
+"Oil sesame",15,6,1.20
+"Cheese Ricotta",50,6,1.20
+"Peanuts milkchocolate coated",30,7,1.20
+"Toddler formula Kruidvat 4 p 100 ml",100,1,0.40
+"Toddler formula Kruidvat 5 p 100 ml",100,1,0.40
+"Breakfast cereal Tresor Kellogg's",40,6,1.00
+"Breakfast cereal Honey pops Kellogg's",40,5,0.90
+"Goji berries dried",15,4,2.50
+"Hemp seed",10,3,2.50
+"Chia seeds dried",10,4,2.00
+"Mulberries raw",30,2,2.00
+"Oil rapeseed",15,5,0.40
+"Mint fresh",5,7,2.00
+"Oil palm",15,3,0.30
+"Coffee latte macchiato freshly made",200,7,0.80
+"Wheat bread wholemeal Tijger",70,8,0.40
+"Oil vegetable av",15,8,0.30
+"Liquorice Dutch type sweet w foam",30,7,0.80
+"Wheat corn bread white w seeds",70,6,0.45
+"Wheat bread white av milk/water based w seeds",70,7,0.40
+"Potato product seasoned precooked chilled",150,8,0.35
+"Almonds w skin unsalted",30,7,1.80
+"Brazil nuts salted",30,4,2.50
+"Biscuit milkbiscuit AH/Jumbo",20,6,0.80
+"Tea vending machine w sugar",150,7,0.30
+"Coffee from vending machine w sugar",150,8,0.50
+"Soup tomato w noodles",250,7,0.30
+"Biscuit Liga Belvita ontbijtbiscuits",40,6,1.00
+"Frogs/mice fondant w chocolate",20,5,1.20
+"Juice fruit Healthy People Cranberry",200,5,0.35
+"Beer w fruit juice Radler alcohol free",330,7,0.40
+"Rice white raw w candied fruit, nuts and seeds",75,4,0.80
+"Salad cheese",50,5,1.00
+"Peach w skin",150,7,0.45
+"Fruit juice drink juice and water",200,6,0.25
+"Cake Dutch spiced ontbijtkoek w chocolate",40,6,0.80
+"Porridge Nestle Pyjamapapje ready-to-eat",200,1,0.80
+"Minced meat vegetarian based on soya unprepared fortified w iron and vitamin B12 De Vegetarische Slager",100,7,1.80
+"Sugar powdered",10,7,0.40
+"Chocolate filled w caramel Rolo",30,7,1.50
+"Pork rolled (processed meat product)",30,5,1.50
+"Cracker mini unflavoured",20,6,1.00
+"Cracker mini flavoured",20,6,1.00
+"Potatoes slices/parts frozen w spices unprepared",150,7,0.30
+"Tapenade tomato",15,6,1.50
+"Rice drink wo sugar",200,4,0.30
+"Aioli",20,7,1.00
+"Crispbread Oerknack Bolletje",20,6,1.00
+"Crispbakes Dutch farmers type",20,7,0.80
+"Walnuts salted",30,6,2.00
+"Nuts macadamia salted",30,5,3.00
+"Pistachio nuts unsalted",30,6,2.00
+"Almonds w skin salted",30,6,1.80
+"Drink almond w sugar fortified w calcium and vitamins",200,6,0.40
+"Drink almond unsweetened fortified w calcium and vitamins",200,6,0.40
+"Kiwi fruit av",100,8,0.60
+"Guacamole",30,7,1.20
+"Icing (sugar)",20,5,0.50
+"Breakfast cereal cornflakes Plus/1 de Beste",40,5,0.60
+"Butter product melange salted",15,6,0.80
+"Breakfast cereal Honey hoops Crownfield",40,4,0.60
+"Breakfast cereal Chocoschelpjes G'woon",40,4,0.60
+"Fruit drink concentrate w sweetener Karvan Cevitam",20,7,0.60
+"Rice cakes puffed w fruit flavour Organix",15,3,1.50
+"Tzatziki",30,7,0.80
+"Cake madeleine cake bars Lotus",30,6,1.20
+"Biscuit spiced small Kruidnoten",30,8,0.60
+"Chocolate extra dark",30,7,1.20
+"Bakery mix for pancakes multigrain",50,6,0.50
+"Ice cream dairy w caramel and nuts",100,7,1.20
+"Sauce oyster",15,7,0.80
+"Anise seed",2,4,2.00
+"Pecannuts oil roasted salted",30,6,2.50
+"Rice white boiled w candied fruit, nuts and seeds",200,4,0.40
+"Minced meat ball pork raw w egg and breadcrumbs",100,8,1.20
+"Breakfast cereal honey loops 1 de Beste",40,4,0.60
+"Sausage dried metworst",30,8,1.50
+"Beans black eyed canned",150,4,0.40
+"Beans brown boiled",200,7,0.30
+"Lentils brown canned",150,6,0.35
+"Beans cannellini canned",150,5,0.40
+"Beans chilli canned",150,7,0.45
+"Peas marrowfat young canned",150,6,0.40
+"Beans kidney red boiled",200,6,0.30
+"Lentils red boiled",200,6,0.35
+"Beans white boiled",200,6,0.30
+"Beans black canned",150,6,0.40
+"Soup split pea w meat",300,8,0.40
+"Meatball Berenklauw deep-fried in liquid fat",120,6,1.00
+"Chicken sticks breaded deep-fried in liquid fat",100,6,1.00
+"Fat chicken",15,2,0.60
+"Oil palmkernel",15,2,0.50
+"Toddler formula Nutrilon 6 p 100 ml",100,1,0.50
+"Infant formula Hero Baby Nutrasense Standaard 1 p 100 ml",100,1,0.60
+"Toddler formula Hero Baby Nutrasense Standaard 2 p 100 ml",100,1,0.60
+"Toddler formula Hero Baby Nutrasense 3 p 100 ml",100,1,0.60
+"Toddler formula Hero Baby Nutrasense 4 p 100 ml",100,1,0.60
+"Infant formula Hipp Biologisch Combiotik 1 p 100 ml",100,1,0.70
+"Toddler formula Hipp Biologisch Combiotik 2 p 100 ml",100,1,0.70
+"Toddler formula Hipp Biologisch Combiotik 3 p 100 ml",100,1,0.70
+"Infant formula Jumbo Standaard 1 p 100 ml",100,1,0.40
+"Toddler formula Jumbo Standaard 2 p 100 ml",100,1,0.40
+"Toddler formula Jumbo Standaard 3 p 100 ml",100,1,0.40
+"Toddler formula Jumbo Standaard 4 p 100 ml",100,1,0.40
+"Toddler formula Jumbo Standaard 5 p 100 ml",100,1,0.40
+"Infant formula Albert Heijn Standaard 1 p 100 ml",100,1,0.40
+"Toddler formula Albert Heijn Standaard 2 p 100 ml",100,1,0.40
+"Toddler formula Albert Heijn Standaard 3 p 100 ml",100,1,0.40
+"Toddler formula Albert Heijn Standaard 4 p 100 ml",100,1,0.40
+"Infant formula Albert Heijn Biologisch Standaard 1 p 100 ml",100,1,0.50
+"Toddler formula Albert Heijn Biologisch Standaard 2 p 100 ml",100,1,0.50
+"Toddler formula Albert Heijn Biologisch Standaard 3 p 100 ml",100,1,0.50
+"Infant formula Bonbebe Standaard 1 p 100 ml",100,1,0.40
+"Toddler formula Bonbebe Standaard 2 p 100 ml",100,1,0.40
+"Toddler formula Bonbebe Standaard 3 p 100 ml",100,1,0.40
+"Toddler formula Bonbebe Standaard 4 p 100 ml",100,1,0.40
+"Infant formula Etos Standaard 1 p 100 ml",100,1,0.40
+"Toddler formula Etos Standaard 2 p 100 ml",100,1,0.40
+"Toddler formula Etos Standaard 3 p 100 ml",100,1,0.40
+"Toddler formula Etos Standaard 4 p 100 ml",100,1,0.40
+"Infant formula Etos Biologisch Standaard 1 p 100 ml",100,1,0.50
+"Toddler formula Etos Biologisch Standaard 2 p 100 ml",100,1,0.50
+"Toddler formula Etos Biologisch Standaard 3 p 100 ml",100,1,0.50
+"Cheese Danish Blue",30,5,1.50
+"Milk semi-skimmed fortified w calcium and vit D",200,6,0.20
+"Apple pie Dutch w shortbread average",100,8,1.20
+"Cake plain av",40,8,0.80
+"Puff pastry av baked",30,7,1.00
+"Cake apple av",100,7,1.00
+"Apple turnover av",100,8,1.20
+"Irish coffee",200,4,1.50
+"Cake chocolate av",40,7,1.00
+"Cheese fondue homemade",200,6,1.50
+"Milk chocolate-flavoured semi-skimmed w sweetner",200,6,0.25
+"Wine alcohol free",150,5,0.60
+"Plant-based alternative to yoghurt based on soya unsweetened fortified with calcium and vitamins",200,5,0.30
+"Cheesecake",120,7,1.50
+"Popcorn salted popped w oil",30,6,0.60
+"Popcorn sweet popped w oil",30,6,0.60
+"Vinegar Balsamic",15,7,1.00
+"Carrot cake",100,6,1.20
+"Banana bread",50,6,1.00
+"Bread crumbs w herbs",15,6,0.40
+"Sweet pepper stuffed w cream cheese",150,5,1.00
+"Chocolate sprinkles mix white and milk",15,8,0.80
+"Chocolate flakes mix white and milk",15,7,1.00
+"Skyr skimmed w fruit",150,7,0.50
+"Bakery mix for cake plain",50,7,0.40
+"Bami vegetables raw",100,7,0.60
+"Crispbread light plain",20,7,0.80
+"Tuna w vegetables and tomato sauce canned",150,6,1.00
+"Seafood cooked",100,6,2.50
+"Vegetables for stir-frying mushroom raw",150,7,0.60
+"Vegetables for stir-frying Dutch raw",150,8,0.50
+"Vegetables for stir-frying Italian raw",150,8,0.60
+"Vegetables for stir-frying Oriental raw",150,8,0.60
+"Yogurt Greek skimmed",150,7,0.40
+"Cake Dutch spiced Ontbijtkoek wo sugar",40,6,0.60
+"Fruitbar w nuts",30,6,1.50
+"Peanut butter 100% peanuts wo salt",15,8,0.80
+"Fat animal av",15,4,0.60
+"Fruit forest av",100,6,1.20
+"Veal av raw",125,4,2.50
+"Salt bakers w added iodin",2,8,0.15
+"Cocoa powder low fat",5,6,1.00
+"Nut paste mixed nuts unsalted",15,5,1.50
+"Ice cream yoghurt based w fruit",100,6,0.80
+"Skyr skimmed plain",150,7,0.45
+"Bakery mix for apple pie",50,7,0.40
+"Bakery mix for cheesecake",50,5,0.50
+"Chips vegetable pre-fried frozen unprepared",150,5,0.80
+"Soup instant powder 1 cup soup",15,7,1.50
+"Milk whole lactose free",200,4,0.25
+"Sweetener intensive based on carbohydrates",2,6,1.00
+"Baked chicory w cheese and ham",200,7,0.80
+"Ratatouille prepared wo meat",200,6,0.60
+"Legumes dish w vegetables in tomato sauce canned",200,6,0.50
+"Stewing pears cooked w sweetened liquid",150,6,0.60
+"Omelette/scrambled eggs",100,8,0.50
+"Omelette w ham and cheese",120,8,0.80
+"Omelette w potatoes Spanish tortilla",150,5,0.60
+"Omelette w potatoes, vegetables and bacon Spanish tortilla",150,5,0.80
+"Bobotie wo rice",200,5,0.80
+"Mussels raw",200,5,0.80
+"Sauce carbonara homemade",100,7,0.80
+"Meat-onion stew",200,7,1.20
+"Garlic cooked wo fat",5,8,1.00
+"Sweet pepper stuffed w minced meat",200,6,1.00
+"Yoghurt goatmilk full fat",150,3,0.60
+"Ice cream chocolate",100,7,0.80
+"Shashlik skewer pork w vegetables prepared",150,6,1.50
+"Fish cuisine pollock w breadcrumbs and herbs prepared",125,6,1.20
+"Ice cream dairy vanilla flavoured",100,8,0.80
+"Ice cream dairy w vegetal fat vanilla flavoured",100,6,0.60
+"Ice cream dairy w fruit",100,7,0.90
+"Ice cream dairy/non-dairy cornet w fruit",100,6,1.00
+"Bakery mix for pancakes wholemeal",50,6,0.50
+"Roll white hard w cheese, ham, egg and vegetables",150,8,0.80
+"Mousse chocolate ready-to-eat",100,7,0.80
+"Toasted ham-cheese sandwich w white bread",120,8,0.80
+"Hamburger (with roll) vegetables and sauce homemade",200,8,1.00
+"Sausage Dutch Frikandel w sauce and onion",120,8,0.80
+"Greek salad wo dressing",150,6,0.60
+"Risotto prepared",250,6,0.50
+"Sushi stuffed w salmon and cucumber",150,6,2.00
+"Wrap w chicken",200,7,0.80
+"Jerusalem artichoke raw",150,3,0.80
+"Melon av",150,7,0.40
+"Candybar av",50,8,1.50
+"Chocolate filled w peanuts",40,8,1.50
+"Candy mix",30,7,1.00
+"Fruit drink conc w sugar and sweetener 30-35 g CHO",20,6,0.50
+"French toast made w white wheat bread",120,6,0.40
+"Pancake bacon chilled",150,7,0.60
+"Salad nicoise w fish and dressing",200,5,1.00
+"Pasta dish carbonara homemade",300,7,0.60
+"French fries w sauce and onion",200,8,0.40
+"French fries w sauces and onions",220,8,0.45
+"French fries w shoarma, cheese and sauce",350,7,0.80
+"Noodles instant onbereid",80,7,0.60
+"Quiche Lorraine",150,6,1.00
+"Kale curly w marhed potatoes, smoked sausage and bacon",350,9,0.50
+"Endive raw w mashed potatoes, minced meat ball and bacon",350,8,0.50
+"Seeds and kernels av",15,6,1.20
+"Fruit spread",15,7,0.60
+"Fruit juice drink Dubbeldrank",200,7,0.30
+"Margarine product 60% fat <17g sat fa salted",15,7,0.50
+"Low fat margarine Blue Band",15,7,0.50
+"Gluten free bread dark",70,4,1.00
+"Gluten free bread light",70,4,1.00
+"Gluten free bread multiseeds",70,4,1.00
+"Gluten free bread sourdough",70,3,1.20
+"Herbs green fresh av",5,8,2.00
+"Margarine product 45% fat <17g sat fa unsalted",15,6,0.50
+"Gnocchi cooked",200,5,0.50
+"Gnocchi unprepared",100,5,0.60
+"Juice drink w sugar and sweetener 7-9 g CHO",200,6,0.25
+"Low fat margarine Albert Heijn light",15,7,0.40
+"Low fat margarine Albert Heijn Goed Begin",15,6,0.40
+"Low fat margarine Jumbo Goed Begin",15,6,0.40
+"Low fat margarine Jumbo",15,7,0.40
+"Gravy Smeltjus prepared",30,6,0.50
+"Drink oat wo sugar fortified w calcium and vitamins",200,6,0.35
+"Beans brown canned/glass no salt added",150,6,0.40
+"Lentils canned/glass no salt added",150,6,0.40
+"Peas chick canned/glass no salt added",150,6,0.40
+"Beans kidney red canned/glass no salt added",150,6,0.40
+"Pizza w mozzarella Margherita",350,8,0.60
+"Pizza quattro formaggi",350,7,0.80
+"Pulses average boiled",150,7,0.35
+"Infant formula Nestle Little steps 1 p 100ml",100,1,0.50
+"Toddler formula Nestle Little steps 2 p 100ml",100,1,0.50
+"Toddler formula Nestle Little steps 3 p 100ml",100,1,0.50
+"Vegetables mixed carrot-onion raw",150,8,0.30
+"Vegetables mixed carrot-onion boiled",200,8,0.30
+"Vegetables for stir-frying Mexican raw",150,7,0.50
+"Vegetables for stir-frying Mexican boiled",200,7,0.50
+"Taco w minced meat and beans",200,7,0.80
+"Burrito w minced meat",250,7,0.80
+"Lasagna w vegetables ready-to-eat",350,6,0.60
+"Onion red raw",30,8,0.30
+"Cheeseburger ready-to-eat",150,7,1.00
+"Onion red boiled",30,5,0.30
+"Corn cakes puffed plain w salt",15,6,1.00
+"Drink oat wo sugar",200,6,0.30
+"Drink almond unsweetened",200,6,0.35
+"Plant-based alternative to Gouda cheese based on coconut oil",30,4,1.50
+"Plant-based alternative to Gouda cheese based on coconut oil fortified w Ca and Vit B12",30,4,1.50
+"Hummus w vegetables",30,7,1.00
+"Breadsticks wholemeal",20,5,1.00
+"Peanut sauce concentrate",50,7,0.80
+"Soy sauce",15,9,0.80
+"Wok sauce teriyaki",50,7,0.80
+"Cocktail snacks based on potatoes ",30,7,1.20
+"Drink coconut w sugar fortified w calcium and vitamins",200,4,0.40
+"Chicken schnitzel breaded w corn flakes raw",125,6,1.50
+"Sausage luncheon meat vegetarian",30,6,1.50
+"Pate vegetarian based on soya/pea",30,5,1.50
+"Wrap/tortilla wheat wholemeal",60,7,0.60
+"Pieces/chunks vegetarian based on soya/wheat unprepared",100,7,1.80
+"Margarine product Becel Romig 60% fat",15,7,0.80
+"Low fat margarine product 20% fat <10g sat salted",15,5,0.50
+"Muesli crunchy w fruit fortified w fibre",40,6,0.60
+"Asparagus green boiled",150,6,1.50
+"Nuts mixed w cranberry unsalted",30,7,1.50
+"Muesli crunchy w nuts fortified w fibre",40,6,0.60
+"Muesli crunchy w chocolate fortified w fibre",40,6,0.60
+"Coconut grated, dried",15,6,1.00
+"Seroendeng",15,5,1.50
+"Stock concentrated w vegetables or meat pot",20,7,1.00
+"Pulses average dried",75,6,0.40
+"Protein bar w peanut",40,5,2.50
+"Protein bar w chocolate and sweetener",40,5,2.50
+"Wok sauce sweet and sour",50,7,0.80
+"Cake Dutch spiced Ontbijtkoek fortified w fibre",40,5,0.60
+"Cereal bar Sultana Good Morning",30,6,1.20
+"Muesli bar fortified w fibre",30,5,1.20
+"Biscuit fruit fortified w fibre",20,6,1.00
+"Biscuit multigrain several flavours fortified w fibre, vit and min",20,6,1.00
+"Vegetable balls/burgers vegetarian based on soya unprepared fortified w iron and vit B12",100,7,1.80
+"Cheese w cumin 48+ average",30,7,1.50
+"Locust bean gum",5,2,2.00
+"Couscous wholemael unprepared",75,6,0.45
+"Tofu unprepared",100,6,0.60
+"Turnip raw",100,2,0.50
+"Turnip boiled",150,2,0.50
+"Pork av raw",125,8,1.20
+"Fish lean <5 g fat average prepared in microwave oven no ingredients added",125,6,2.00
+"Sauce bolognese homemade",150,8,0.50
+"Spaghetti bolgonese w cheese homemade",350,8,0.60
+"Salad dish w chicken, pasta and dressing",250,7,0.80
+"Salad potato",150,6,0.60
+"Toasted ham-cheese sandwich w brown/wholemeal bread",120,7,0.80
+"Peppers pickled canned/glass",30,5,0.80
+"Quark low fat lactose-free",150,4,0.40
+"Couscous wholemeal boiled",200,6,0.40
+"Biscuit spiced with candy mix",20,5,1.00
+"Drink soya  fruit/vanilla w sugar fortified w calcium and vitamins",200,5,0.30
+"Drink coconut wo sugar",200,4,0.40
+"Jackfruit in water canned",100,3,0.80
+"Plant-based alternative to yoghurt based on coconut unsweetened",150,4,0.60
+"Tofu pieces/chunks seasoned unprepared",100,6,0.80
+"Falafel unprepared",100,7,1.00
+"Cheese schnitzel vegetarian unprepared",100,6,1.50
+"Meatballs/burgers vegetarian based on soya/wheat unprepared",100,7,1.80
+"Fish fingers vegetarian based on rice/wheat unprepared",100,5,1.80
+"Meatballs/burgers vegetarian based on soya/wheat unprepared fortified w iron and vit B12",100,7,1.80
+"Meatballs/burgers vegetarian based on pea unprepared",100,6,1.80
+"Vegetable balls/burgers vegetarian based on soya unprepared",100,6,1.50
+"Pieces/chunks vegetarian based on soya/wheat unprepared fortified w iron and vit B12",100,7,1.80
+"Nuggets vegetarian based on wheat/pea frozen unprepared",100,6,1.50
+"Filet americain vegetarian based on milk fortified w iron",30,5,1.80
+"Croquette oven vegetarian frozen unprepared",70,6,1.20
+"Dextrose tablets non-fortified",10,5,1.00
+"Rempejek peanut biscuit",20,3,1.50
+"Croquette Dutch Bitterbal deep-fried in liquid fat",50,8,1.20
+"Minced meat vegetarian based on soya unprepared fortified w iron and vit B12",100,7,1.80
+"Margarine 80% fat >24 g sat fatty acids salted for NEVO recipes",15,7,0.50
+"Sausage roast- vegetarian based on pea unprepared",100,5,1.50
+"Sausage roast- vegetarian based on soya/wheat unprepared fortified w iron and vit B12",100,6,1.50
+"Schnitzel/burger vegetarian based on milk unprepared",100,5,1.80
+"Burger vegetarian filled w vegetables and cheese unprepared",100,6,1.80
+"Crispbread light wholemeal",20,7,0.80
+"Plant-based alternative to cream based on oat",30,5,0.80
+"Drink soya chocolate w sugar fortified w calcium and vitamins",200,5,0.35
+"Bacon vegetarian unprepared",30,5,2.00
+"Tempeh unprepared",100,5,0.80
+"Bakery mix for doughnuts Dutch style",50,5,0.50
+"Cheese 35+",30,6,1.40
+"Flour spelt",50,5,0.40
+"Flour spelt wholemeal",50,5,0.40
+"Flour almond",30,4,1.50
+"Semolina wheat",50,5,0.30
+"Flour oat wholemeal",50,6,0.30
+"Flakes spelt",40,4,0.40
+"Flakes barley",40,3,0.35
+"Flour rice wholemeal",50,4,0.40
+"Bakery mix for pancakes gluten free",50,4,0.80
+"Flour coconut",30,3,1.00
+"Pancake ready-to-eat plain",150,7,0.60
+"Dutch Poffertjes ready-to-eat plain",100,7,0.80
+"Wrap/tortilla wheat and carrot",60,6,0.80
+"Muesli w fruit and nuts",40,8,0.60
+"Muesli crunchy plain",40,7,0.50
+"Muesli crunchy w fruit",40,7,0.60
+"Muesli w fruit seeds and kernels",40,7,0.70
+"Pancake gluten free homemade",150,4,0.80
+"Dutch Poffertjes homemade",100,7,0.60
+"Bakery mix for bread white gluten free",50,4,0.80
+"Bakery mix for bread brown/multigrain gluten free",50,4,0.80
+"Prawns marinated",100,6,3.00
+"Breakfast cereal Special flakes plain",40,6,0.80
+"Breakfast cereal 7 cereals breakfast",40,5,0.70
+"Mushroom fried wo fat",100,7,0.80
+"Beans lupin dried",75,2,0.60

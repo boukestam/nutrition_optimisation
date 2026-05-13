@@ -1,4 +1,5 @@
 export const BANNED_FOOD_GROUPS = [
+  // Frida
   "Infant food",
   "Animal fats",
   "Offal and fish eggs",
@@ -26,18 +27,31 @@ export const BANNED_FOOD_GROUPS = [
   " Ready meals, fastfood and composite foods",
   "Potato chip and snacks",
   "Processed cheese",
+
+  // Nevo
+  "Mixed dishes",
+  "Miscellaneous foods",
+  "Foods for special nutritional use",
 ];
 
 export const VEGAN_GROUPS = [
+  // Frida
   "Meat and meat products",
   "Fish, quatic animals and their products",
   "Poultry",
   "Animal fats",
   "Butter",
-
   "Eggs and egg products",
   "Cheese and cheese products",
   "Milk and milk preserves",
+
+  // Nevo
+  "Eggs",
+  "Meat and poultry",
+  "Fish, crustacean and shellfish",
+  "Milk and milk products",
+  "Cheese",
+  "Cold meat cuts",
 ];
 
 export const BANNED_WORDS = [
@@ -60,6 +74,119 @@ export const BANNED_WORDS = [
   "in brine",
 ];
 
+export type Nutrient =
+  | "Energy"
+  | "Protein"
+  | "Water"
+  | "Carbohydrate"
+  | "Added Sugar"
+  | "Fibre"
+  | "Saturated Fat"
+  | "Trans Fat"
+  | "Sodium"
+  | "Calcium"
+  | "Iron"
+  | "Potassium"
+  | "Magnesium"
+  | "Zinc"
+  | "Vitamin A"
+  | "Vitamin B1"
+  | "Vitamin B2"
+  | "Vitamin B3"
+  | "Vitamin B5"
+  | "Vitamin B6"
+  | "Biotin"
+  | "Folate"
+  | "Vitamin B12"
+  | "Vitamin C"
+  | "Vitamin E"
+  | "Vitamin K"
+  | "Iodine"
+  | "Selenium"
+  | "Copper"
+  | "Manganese"
+  | "Phosphorus"
+  | "Omega-3"
+  | "Lead"
+  | "Cadmium"
+  | "Arsenic";
+
+export const FRIDA_TO_KEY: Record<string, Nutrient> = {
+  "Energy (kcal)": "Energy",
+  Protein: "Protein",
+  Water: "Water",
+  "Carbohydrate by difference": "Carbohydrate",
+  "Added Sugar": "Added Sugar",
+  "Dietary fibre": "Fibre",
+  "Sum saturated fatty acids": "Saturated Fat",
+  "Sum trans fatty acids": "Trans Fat",
+  Sodium: "Sodium",
+  Calcium: "Calcium",
+  Iron: "Iron",
+  Potassium: "Potassium",
+  Magnesium: "Magnesium",
+  Zinc: "Zinc",
+  "Vitamin A": "Vitamin A",
+  "Thiamin (Vitamin B1)": "Vitamin B1",
+  "Riboflavin (Vitamin B2)": "Vitamin B2",
+  "Niacin equivalent": "Vitamin B3",
+  "Pantothenic acid": "Vitamin B5",
+  "Vitamin B6": "Vitamin B6",
+  Biotin: "Biotin",
+  Folate: "Folate",
+  "Vitamin B12": "Vitamin B12",
+  "Vitamin C": "Vitamin C",
+  "Vitamin E": "Vitamin E",
+  "Vitamin K": "Vitamin K",
+  Iodine: "Iodine",
+  Selenium: "Selenium",
+  Copper: "Copper",
+  Manganese: "Manganese",
+  Phosphorus: "Phosphorus",
+  "C18:3,n-3": "Omega-3",
+  Lead: "Lead",
+  Cadmium: "Cadmium",
+  Arsenic: "Arsenic",
+};
+
+export const NEVO_TO_KEY: Record<string, Nutrient> = {
+  "ENERCC (kcal)": "Energy",
+  "PROT (g)": "Protein",
+  "WATER (g)": "Water",
+  "CHO (g)": "Carbohydrate",
+  "NVSUGAF (g)": "Added Sugar",
+  "FIBT (g)": "Fibre",
+  "FASAT (g)": "Saturated Fat",
+  "FATRS (g)": "Trans Fat",
+  "NA (mg)": "Sodium",
+  "CA (mg)": "Calcium",
+  "FE (mg)": "Iron",
+  "K (mg)": "Potassium",
+  "MG (mg)": "Magnesium",
+  "ZN (mg)": "Zinc",
+  "CU (mg)": "Copper",
+  "SE (µg)": "Selenium",
+  "ID (µg)": "Iodine",
+  "MN (mg)": "Manganese",
+  "P (mg)": "Phosphorus",
+  "VITA_RAE (µg)": "Vitamin A",
+  "THIA (mg)": "Vitamin B1",
+  "RIBF (mg)": "Vitamin B2",
+  "NIAEQ (mg)": "Vitamin B3",
+  "PANTO (mg)": "Vitamin B5",
+  "VITB6 (mg)": "Vitamin B6",
+  "BIOT (µg)": "Biotin",
+  "FOL (µg)": "Folate",
+  "VITB12 (µg)": "Vitamin B12",
+  "VITC (mg)": "Vitamin C",
+  "VITE (mg)": "Vitamin E",
+  "VITK (µg)": "Vitamin K",
+  "F18:3CN3 (g)": "Omega-3",
+  "PB (µg)": "Lead",
+  "CD (µg)": "Cadmium",
+  "AS (µg)": "Arsenic",
+};
+
 export interface Constraint {
   min?: number;
   max?: number;
@@ -67,8 +194,8 @@ export interface Constraint {
   unit: string;
 }
 
-export const CONSTRAINTS: Record<string, Constraint> = {
-  "Energy (kcal)": {
+export const CONSTRAINTS: Record<Nutrient, Constraint> = {
+  Energy: {
     label: "Calories",
     min: 2450,
     max: 2550,
@@ -87,7 +214,7 @@ export const CONSTRAINTS: Record<string, Constraint> = {
     unit: "g",
   }, // Prevents things like 1L of milk
 
-  "Carbohydrate by difference": {
+  Carbohydrate: {
     label: "Carbohydrates",
     min: 130,
     unit: "g",
@@ -99,20 +226,20 @@ export const CONSTRAINTS: Record<string, Constraint> = {
     unit: "g",
   },
 
-  "Dietary fibre": {
+  Fibre: {
     label: "Fiber",
     min: 25,
     max: 40,
     unit: "g",
   },
 
-  "Sum saturated fatty acids": {
+  "Saturated Fat": {
     label: "Saturated Fat",
     max: 20,
     unit: "g",
   },
 
-  "Sum trans fatty acids": {
+  "Trans Fat": {
     label: "Trans Fat",
     max: 2.5,
     unit: "g",
@@ -164,26 +291,26 @@ export const CONSTRAINTS: Record<string, Constraint> = {
     unit: "µg",
   },
 
-  "Thiamin (Vitamin B1)": {
+  "Vitamin B1": {
     label: "Vitamin B1",
     min: 1.1,
     unit: "mg",
   },
 
-  "Riboflavin (Vitamin B2)": {
+  "Vitamin B2": {
     label: "Vitamin B2",
     min: 1.6,
     unit: "mg",
   },
 
-  "Niacin equivalent": {
+  "Vitamin B3": {
     label: "Vitamin B3",
     min: 15,
     max: 900,
     unit: "mg",
   }, // Nicotinamide UL; nicotinic acid UL is only 10 mg
 
-  "Pantothenic acid": {
+  "Vitamin B5": {
     label: "Vitamin B5",
     min: 5,
     unit: "mg",
@@ -197,13 +324,13 @@ export const CONSTRAINTS: Record<string, Constraint> = {
   },
 
   Biotin: {
-    label: "Biotin",
+    label: "Biotin (Vitamin B7)",
     min: 40,
     unit: "µg",
   },
 
   Folate: {
-    label: "Folate",
+    label: "Folate (Vitamin B9)",
     min: 330,
     max: 1000,
     unit: "µg",
@@ -220,8 +347,6 @@ export const CONSTRAINTS: Record<string, Constraint> = {
     min: 110,
     unit: "mg",
   },
-
-  //"Vitamin D": { label: "Vitamin D", min: 10, unit: "µg" }, // Not needed because supplemented or sun
 
   "Vitamin E": {
     label: "Vitamin E",
@@ -271,7 +396,7 @@ export const CONSTRAINTS: Record<string, Constraint> = {
     unit: "mg",
   }, // EFSA has no UL; this is the US IOM value
 
-  "C18:3,n-3": {
+  "Omega-3": {
     label: "Omega-3",
     min: 1.6,
     unit: "g",
@@ -297,7 +422,7 @@ export const CONSTRAINTS: Record<string, Constraint> = {
 };
 
 export const MIN_PORTION = 0.5;
-export const MAX_PORTION = 2;
+export const MAX_PORTION = 1.5;
 
 export const MIN_USUAL = 4;
 
@@ -307,9 +432,10 @@ export const NUM_UNIQUE = 5;
 export interface Food {
   name: string;
   nutrients: Record<string, number>;
-  parentGroup: string;
   group: string;
+  parentGroup?: string;
   portion: number;
   usual: number;
   cost: number;
+  hasAnimalProtein?: boolean;
 }
